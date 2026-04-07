@@ -1,0 +1,18 @@
+# große Rohdaten ignorieren
+data/raw/
+
+# optional: node modules falls du später welche nutzt
+node_modules/
+
+# OS / Editor
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# project
+package.json
+package-lock.json
+
+# security
+.env

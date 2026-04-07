@@ -1,0 +1,2502 @@
+[
+  {
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "rating": 9.3
+  },
+  {
+    "title": "Fight Club",
+    "year": 1999,
+    "rating": 8.8
+  },
+  {
+    "title": "Forrest Gump",
+    "year": 1994,
+    "rating": 8.8
+  },
+  {
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "rating": 8.8
+  },
+  {
+    "title": "The Matrix",
+    "year": 1999,
+    "rating": 8.7
+  },
+  {
+    "title": "The Godfather",
+    "year": 1972,
+    "rating": 9.2
+  },
+  {
+    "title": "Seven",
+    "year": 1995,
+    "rating": 8.6
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "year": 1991,
+    "rating": 8.6
+  },
+  {
+    "title": "Saving Private Ryan",
+    "year": 1998,
+    "rating": 8.6
+  },
+  {
+    "title": "Schindler's List",
+    "year": 1993,
+    "rating": 9
+  },
+  {
+    "title": "Star Wars: Episode IV - A New Hope",
+    "year": 1977,
+    "rating": 8.6
+  },
+  {
+    "title": "The Green Mile",
+    "year": 1999,
+    "rating": 8.6
+  },
+  {
+    "title": "Star Wars: Episode V - The Empire Strikes Back",
+    "year": 1980,
+    "rating": 8.7
+  },
+  {
+    "title": "The Godfather Part II",
+    "year": 1974,
+    "rating": 9
+  },
+  {
+    "title": "Back to the Future",
+    "year": 1985,
+    "rating": 8.5
+  },
+  {
+    "title": "Titanic",
+    "year": 1997,
+    "rating": 8
+  },
+  {
+    "title": "GoodFellas",
+    "year": 1990,
+    "rating": 8.7
+  },
+  {
+    "title": "The Truman Show",
+    "year": 1998,
+    "rating": 8.2
+  },
+  {
+    "title": "Léon: The Professional",
+    "year": 1994,
+    "rating": 8.5
+  },
+  {
+    "title": "Terminator 2: Judgment Day",
+    "year": 1991,
+    "rating": 8.6
+  },
+  {
+    "title": "American Beauty",
+    "year": 1999,
+    "rating": 8.3
+  },
+  {
+    "title": "American History X",
+    "year": 1998,
+    "rating": 8.5
+  },
+  {
+    "title": "The Lion King",
+    "year": 1994,
+    "rating": 8.5
+  },
+  {
+    "title": "The Usual Suspects",
+    "year": 1995,
+    "rating": 8.5
+  },
+  {
+    "title": "The Shining",
+    "year": 1980,
+    "rating": 8.4
+  },
+  {
+    "title": "Good Will Hunting",
+    "year": 1997,
+    "rating": 8.4
+  },
+  {
+    "title": "Star Wars: Episode VI - Return of the Jedi",
+    "year": 1983,
+    "rating": 8.3
+  },
+  {
+    "title": "Jurassic Park",
+    "year": 1993,
+    "rating": 8.2
+  },
+  {
+    "title": "Toy Story",
+    "year": 1995,
+    "rating": 8.3
+  },
+  {
+    "title": "Reservoir Dogs",
+    "year": 1992,
+    "rating": 8.3
+  },
+  {
+    "title": "Braveheart",
+    "year": 1995,
+    "rating": 8.3
+  },
+  {
+    "title": "One Flew Over the Cuckoo's Nest",
+    "year": 1975,
+    "rating": 8.6
+  },
+  {
+    "title": "The Sixth Sense",
+    "year": 1999,
+    "rating": 8.2
+  },
+  {
+    "title": "Raiders of the Lost Ark",
+    "year": 1981,
+    "rating": 8.4
+  },
+  {
+    "title": "Alien",
+    "year": 1979,
+    "rating": 8.5
+  },
+  {
+    "title": "Die Hard",
+    "year": 1988,
+    "rating": 8.2
+  },
+  {
+    "title": "Taxi Driver",
+    "year": 1976,
+    "rating": 8.2
+  },
+  {
+    "title": "Scarface",
+    "year": 1983,
+    "rating": 8.3
+  },
+  {
+    "title": "The Terminator",
+    "year": 1984,
+    "rating": 8.1
+  },
+  {
+    "title": "A Clockwork Orange",
+    "year": 1971,
+    "rating": 8.2
+  },
+  {
+    "title": "Star Wars: Episode I - The Phantom Menace",
+    "year": 1999,
+    "rating": 6.5
+  },
+  {
+    "title": "The Big Lebowski",
+    "year": 1998,
+    "rating": 8.1
+  },
+  {
+    "title": "Blade Runner",
+    "year": 1982,
+    "rating": 8.1
+  },
+  {
+    "title": "Indiana Jones and the Last Crusade",
+    "year": 1989,
+    "rating": 8.2
+  },
+  {
+    "title": "Full Metal Jacket",
+    "year": 1987,
+    "rating": 8.2
+  },
+  {
+    "title": "Aliens",
+    "year": 1986,
+    "rating": 8.4
+  },
+  {
+    "title": "Life Is Beautiful",
+    "year": 1997,
+    "rating": 8.6
+  },
+  {
+    "title": "Heat",
+    "year": 1995,
+    "rating": 8.3
+  },
+  {
+    "title": "Fargo",
+    "year": 1996,
+    "rating": 8.1
+  },
+  {
+    "title": "Apocalypse Now",
+    "year": 1979,
+    "rating": 8.4
+  },
+  {
+    "title": "Trainspotting",
+    "year": 1996,
+    "rating": 8.1
+  },
+  {
+    "title": "Home Alone",
+    "year": 1990,
+    "rating": 7.8
+  },
+  {
+    "title": "Groundhog Day",
+    "year": 1993,
+    "rating": 8
+  },
+  {
+    "title": "Jaws",
+    "year": 1975,
+    "rating": 8.1
+  },
+  {
+    "title": "Rocky",
+    "year": 1976,
+    "rating": 8.1
+  },
+  {
+    "title": "12 Monkeys",
+    "year": 1995,
+    "rating": 8
+  },
+  {
+    "title": "Toy Story 2",
+    "year": 1999,
+    "rating": 7.9
+  },
+  {
+    "title": "Men in Black",
+    "year": 1997,
+    "rating": 7.3
+  },
+  {
+    "title": "L.A. Confidential",
+    "year": 1997,
+    "rating": 8.2
+  },
+  {
+    "title": "Lock, Stock and Two Smoking Barrels",
+    "year": 1998,
+    "rating": 8.1
+  },
+  {
+    "title": "Dead Poets Society",
+    "year": 1989,
+    "rating": 8.1
+  },
+  {
+    "title": "Independence Day",
+    "year": 1996,
+    "rating": 7
+  },
+  {
+    "title": "Back to the Future Part II",
+    "year": 1989,
+    "rating": 7.8
+  },
+  {
+    "title": "Casino",
+    "year": 1995,
+    "rating": 8.2
+  },
+  {
+    "title": "Monty Python and the Holy Grail",
+    "year": 1975,
+    "rating": 8.2
+  },
+  {
+    "title": "Rain Man",
+    "year": 1988,
+    "rating": 8
+  },
+  {
+    "title": "Indiana Jones and the Temple of Doom",
+    "year": 1984,
+    "rating": 7.5
+  },
+  {
+    "title": "Edward Scissorhands",
+    "year": 1990,
+    "rating": 7.8
+  },
+  {
+    "title": "Top Gun",
+    "year": 1986,
+    "rating": 7
+  },
+  {
+    "title": "The Fifth Element",
+    "year": 1997,
+    "rating": 7.6
+  },
+  {
+    "title": "The Thing",
+    "year": 1982,
+    "rating": 8.2
+  },
+  {
+    "title": "Back to the Future Part III",
+    "year": 1990,
+    "rating": 7.5
+  },
+  {
+    "title": "Mission: Impossible",
+    "year": 1996,
+    "rating": 7.2
+  },
+  {
+    "title": "Beauty and the Beast",
+    "year": 1991,
+    "rating": 8
+  },
+  {
+    "title": "The Mummy",
+    "year": 1999,
+    "rating": 7.1
+  },
+  {
+    "title": "Aladdin",
+    "year": 1992,
+    "rating": 8
+  },
+  {
+    "title": "Predator",
+    "year": 1987,
+    "rating": 7.8
+  },
+  {
+    "title": "The Exorcist",
+    "year": 1973,
+    "rating": 8.1
+  },
+  {
+    "title": "Stand by Me",
+    "year": 1986,
+    "rating": 8.1
+  },
+  {
+    "title": "Ghostbusters",
+    "year": 1984,
+    "rating": 7.8
+  },
+  {
+    "title": "The Princess Bride",
+    "year": 1987,
+    "rating": 8
+  },
+  {
+    "title": "Princess Mononoke",
+    "year": 1997,
+    "rating": 8.3
+  },
+  {
+    "title": "Armageddon",
+    "year": 1998,
+    "rating": 6.7
+  },
+  {
+    "title": "The Lost World: Jurassic Park",
+    "year": 1997,
+    "rating": 6.6
+  },
+  {
+    "title": "Platoon",
+    "year": 1986,
+    "rating": 8.1
+  },
+  {
+    "title": "The Breakfast Club",
+    "year": 1985,
+    "rating": 7.8
+  },
+  {
+    "title": "E.T. the Extra-Terrestrial",
+    "year": 1982,
+    "rating": 7.9
+  },
+  {
+    "title": "The Game",
+    "year": 1997,
+    "rating": 7.7
+  },
+  {
+    "title": "The Mask",
+    "year": 1994,
+    "rating": 7
+  },
+  {
+    "title": "Unforgiven",
+    "year": 1992,
+    "rating": 8.2
+  },
+  {
+    "title": "American Pie",
+    "year": 1999,
+    "rating": 7
+  },
+  {
+    "title": "Amadeus",
+    "year": 1984,
+    "rating": 8.4
+  },
+  {
+    "title": "Home Alone 2: Lost in New York",
+    "year": 1992,
+    "rating": 6.9
+  },
+  {
+    "title": "The Godfather Part III",
+    "year": 1990,
+    "rating": 7.5
+  },
+  {
+    "title": "10 Things I Hate About You",
+    "year": 1999,
+    "rating": 7.4
+  },
+  {
+    "title": "Scream",
+    "year": 1996,
+    "rating": 7.4
+  },
+  {
+    "title": "Dumb and Dumber",
+    "year": 1994,
+    "rating": 7.3
+  },
+  {
+    "title": "The Devil's Advocate",
+    "year": 1997,
+    "rating": 7.5
+  },
+  {
+    "title": "Monty Python's Life of Brian",
+    "year": 1979,
+    "rating": 8
+  },
+  {
+    "title": "Batman",
+    "year": 1989,
+    "rating": 7.5
+  },
+  {
+    "title": "Die Hard with a Vengeance",
+    "year": 1995,
+    "rating": 7.6
+  },
+  {
+    "title": "My Neighbor Totoro",
+    "year": 1988,
+    "rating": 8.1
+  },
+  {
+    "title": "Eyes Wide Shut",
+    "year": 1999,
+    "rating": 7.5
+  },
+  {
+    "title": "Face/Off",
+    "year": 1997,
+    "rating": 7.3
+  },
+  {
+    "title": "Speed",
+    "year": 1994,
+    "rating": 7.3
+  },
+  {
+    "title": "Beetlejuice",
+    "year": 1988,
+    "rating": 7.4
+  },
+  {
+    "title": "Ferris Bueller's Day Off",
+    "year": 1986,
+    "rating": 7.8
+  },
+  {
+    "title": "Sleepy Hollow",
+    "year": 1999,
+    "rating": 7.3
+  },
+  {
+    "title": "Jumanji",
+    "year": 1995,
+    "rating": 7.1
+  },
+  {
+    "title": "The Nightmare Before Christmas",
+    "year": 1993,
+    "rating": 7.9
+  },
+  {
+    "title": "Raging Bull",
+    "year": 1980,
+    "rating": 8.1
+  },
+  {
+    "title": "Once Upon a Time in America",
+    "year": 1984,
+    "rating": 8.3
+  },
+  {
+    "title": "Die Hard 2",
+    "year": 1990,
+    "rating": 7.2
+  },
+  {
+    "title": "Pretty Woman",
+    "year": 1990,
+    "rating": 7.1
+  },
+  {
+    "title": "Jackie Brown",
+    "year": 1997,
+    "rating": 7.5
+  },
+  {
+    "title": "The Deer Hunter",
+    "year": 1978,
+    "rating": 8.1
+  },
+  {
+    "title": "Notting Hill",
+    "year": 1999,
+    "rating": 7.2
+  },
+  {
+    "title": "Grave of the Fireflies",
+    "year": 1988,
+    "rating": 8.5
+  },
+  {
+    "title": "Total Recall",
+    "year": 1990,
+    "rating": 7.5
+  },
+  {
+    "title": "The Rock",
+    "year": 1996,
+    "rating": 7.4
+  },
+  {
+    "title": "Chinatown",
+    "year": 1974,
+    "rating": 8.1
+  },
+  {
+    "title": "Interview with the Vampire",
+    "year": 1994,
+    "rating": 7.5
+  },
+  {
+    "title": "Before Sunrise",
+    "year": 1995,
+    "rating": 8.1
+  },
+  {
+    "title": "Scent of a Woman",
+    "year": 1992,
+    "rating": 8
+  },
+  {
+    "title": "From Dusk Till Dawn",
+    "year": 1996,
+    "rating": 7.2
+  },
+  {
+    "title": "Being John Malkovich",
+    "year": 1999,
+    "rating": 7.7
+  },
+  {
+    "title": "Liar Liar",
+    "year": 1997,
+    "rating": 6.9
+  },
+  {
+    "title": "Donnie Brasco",
+    "year": 1997,
+    "rating": 7.7
+  },
+  {
+    "title": "The Untouchables",
+    "year": 1987,
+    "rating": 7.8
+  },
+  {
+    "title": "Ace Ventura: Pet Detective",
+    "year": 1994,
+    "rating": 6.9
+  },
+  {
+    "title": "Alien³",
+    "year": 1992,
+    "rating": 6.4
+  },
+  {
+    "title": "Magnolia",
+    "year": 1999,
+    "rating": 8
+  },
+  {
+    "title": "Batman Returns",
+    "year": 1992,
+    "rating": 7.1
+  },
+  {
+    "title": "There's Something About Mary",
+    "year": 1998,
+    "rating": 7.1
+  },
+  {
+    "title": "Gattaca",
+    "year": 1997,
+    "rating": 7.7
+  },
+  {
+    "title": "The Fugitive",
+    "year": 1993,
+    "rating": 7.8
+  },
+  {
+    "title": "Starship Troopers",
+    "year": 1997,
+    "rating": 7.3
+  },
+  {
+    "title": "Mulan",
+    "year": 1998,
+    "rating": 7.7
+  },
+  {
+    "title": "Con Air",
+    "year": 1997,
+    "rating": 6.9
+  },
+  {
+    "title": "Halloween",
+    "year": 1978,
+    "rating": 7.7
+  },
+  {
+    "title": "As Good as It Gets",
+    "year": 1997,
+    "rating": 7.7
+  },
+  {
+    "title": "A Bug's Life",
+    "year": 1998,
+    "rating": 7.2
+  },
+  {
+    "title": "Apollo 13",
+    "year": 1995,
+    "rating": 7.7
+  },
+  {
+    "title": "Blade",
+    "year": 1998,
+    "rating": 7.1
+  },
+  {
+    "title": "Rush Hour",
+    "year": 1998,
+    "rating": 7.1
+  },
+  {
+    "title": "The Goonies",
+    "year": 1985,
+    "rating": 7.7
+  },
+  {
+    "title": "Grease",
+    "year": 1978,
+    "rating": 7.2
+  },
+  {
+    "title": "Fear and Loathing in Las Vegas",
+    "year": 1998,
+    "rating": 7.4
+  },
+  {
+    "title": "Cinema Paradiso",
+    "year": 1988,
+    "rating": 8.5
+  },
+  {
+    "title": "A Few Good Men",
+    "year": 1992,
+    "rating": 7.7
+  },
+  {
+    "title": "The Blair Witch Project",
+    "year": 1999,
+    "rating": 6.5
+  },
+  {
+    "title": "Mrs. Doubtfire",
+    "year": 1993,
+    "rating": 7.1
+  },
+  {
+    "title": "Bad Boys",
+    "year": 1995,
+    "rating": 6.8
+  },
+  {
+    "title": "Contact",
+    "year": 1997,
+    "rating": 7.5
+  },
+  {
+    "title": "The Little Mermaid",
+    "year": 1989,
+    "rating": 7.6
+  },
+  {
+    "title": "Jerry Maguire",
+    "year": 1996,
+    "rating": 7.3
+  },
+  {
+    "title": "Dances with Wolves",
+    "year": 1990,
+    "rating": 8
+  },
+  {
+    "title": "RoboCop",
+    "year": 1987,
+    "rating": 7.6
+  },
+  {
+    "title": "Office Space",
+    "year": 1999,
+    "rating": 7.6
+  },
+  {
+    "title": "Happy Gilmore",
+    "year": 1996,
+    "rating": 7
+  },
+  {
+    "title": "Boogie Nights",
+    "year": 1997,
+    "rating": 7.9
+  },
+  {
+    "title": "True Lies",
+    "year": 1994,
+    "rating": 7.3
+  },
+  {
+    "title": "First Blood",
+    "year": 1982,
+    "rating": 7.7
+  },
+  {
+    "title": "The Sting",
+    "year": 1973,
+    "rating": 8.2
+  },
+  {
+    "title": "Meet Joe Black",
+    "year": 1998,
+    "rating": 7.2
+  },
+  {
+    "title": "Lethal Weapon",
+    "year": 1987,
+    "rating": 7.6
+  },
+  {
+    "title": "Dog Day Afternoon",
+    "year": 1975,
+    "rating": 8
+  },
+  {
+    "title": "Alien: Resurrection",
+    "year": 1997,
+    "rating": 6.2
+  },
+  {
+    "title": "Hook",
+    "year": 1991,
+    "rating": 6.8
+  },
+  {
+    "title": "Annie Hall",
+    "year": 1977,
+    "rating": 7.9
+  },
+  {
+    "title": "A Nightmare on Elm Street",
+    "year": 1984,
+    "rating": 7.4
+  },
+  {
+    "title": "Das Boot",
+    "year": 1981,
+    "rating": 8.3
+  },
+  {
+    "title": "Airplane!",
+    "year": 1980,
+    "rating": 7.7
+  },
+  {
+    "title": "GoldenEye",
+    "year": 1995,
+    "rating": 7.2
+  },
+  {
+    "title": "Primal Fear",
+    "year": 1996,
+    "rating": 7.7
+  },
+  {
+    "title": "The Elephant Man",
+    "year": 1980,
+    "rating": 8.2
+  },
+  {
+    "title": "Batman Forever",
+    "year": 1995,
+    "rating": 5.5
+  },
+  {
+    "title": "Dirty Dancing",
+    "year": 1987,
+    "rating": 7.1
+  },
+  {
+    "title": "Hercules",
+    "year": 1997,
+    "rating": 7.3
+  },
+  {
+    "title": "Clueless",
+    "year": 1995,
+    "rating": 6.9
+  },
+  {
+    "title": "Enemy of the State",
+    "year": 1998,
+    "rating": 7.3
+  },
+  {
+    "title": "Gremlins",
+    "year": 1984,
+    "rating": 7.3
+  },
+  {
+    "title": "Philadelphia",
+    "year": 1993,
+    "rating": 7.7
+  },
+  {
+    "title": "Austin Powers: International Man of Mystery",
+    "year": 1997,
+    "rating": 7
+  },
+  {
+    "title": "When Harry Met Sally...",
+    "year": 1989,
+    "rating": 7.7
+  },
+  {
+    "title": "The Talented Mr. Ripley",
+    "year": 1999,
+    "rating": 7.4
+  },
+  {
+    "title": "The Karate Kid",
+    "year": 1984,
+    "rating": 7.3
+  },
+  {
+    "title": "What's Eating Gilbert Grape",
+    "year": 1993,
+    "rating": 7.7
+  },
+  {
+    "title": "Dracula",
+    "year": 1992,
+    "rating": 7.4
+  },
+  {
+    "title": "Tarzan",
+    "year": 1999,
+    "rating": 7.3
+  },
+  {
+    "title": "Natural Born Killers",
+    "year": 1994,
+    "rating": 7.2
+  },
+  {
+    "title": "Misery",
+    "year": 1990,
+    "rating": 7.8
+  },
+  {
+    "title": "Austin Powers: The Spy Who Shagged Me",
+    "year": 1999,
+    "rating": 6.7
+  },
+  {
+    "title": "The Boondock Saints",
+    "year": 1999,
+    "rating": 7.6
+  },
+  {
+    "title": "Cube",
+    "year": 1997,
+    "rating": 7.1
+  },
+  {
+    "title": "True Romance",
+    "year": 1993,
+    "rating": 7.9
+  },
+  {
+    "title": "Romeo + Juliet",
+    "year": 1996,
+    "rating": 6.7
+  },
+  {
+    "title": "Big",
+    "year": 1988,
+    "rating": 7.3
+  },
+  {
+    "title": "The Iron Giant",
+    "year": 1999,
+    "rating": 8.1
+  },
+  {
+    "title": "Mars Attacks!",
+    "year": 1996,
+    "rating": 6.4
+  },
+  {
+    "title": "Ghost",
+    "year": 1990,
+    "rating": 7.1
+  },
+  {
+    "title": "Twister",
+    "year": 1996,
+    "rating": 6.6
+  },
+  {
+    "title": "Sleepers",
+    "year": 1996,
+    "rating": 7.5
+  },
+  {
+    "title": "Big Daddy",
+    "year": 1999,
+    "rating": 6.5
+  },
+  {
+    "title": "The Evil Dead",
+    "year": 1981,
+    "rating": 7.3
+  },
+  {
+    "title": "Rocky II",
+    "year": 1979,
+    "rating": 7.3
+  },
+  {
+    "title": "Ace Ventura: When Nature Calls",
+    "year": 1995,
+    "rating": 6.4
+  },
+  {
+    "title": "Carlito's Way",
+    "year": 1993,
+    "rating": 7.9
+  },
+  {
+    "title": "Gandhi",
+    "year": 1982,
+    "rating": 8
+  },
+  {
+    "title": "National Lampoon's Christmas Vacation",
+    "year": 1989,
+    "rating": 7.5
+  },
+  {
+    "title": "You've Got Mail",
+    "year": 1998,
+    "rating": 6.7
+  },
+  {
+    "title": "Willy Wonka & the Chocolate Factory",
+    "year": 1971,
+    "rating": 7.8
+  },
+  {
+    "title": "Blue Velvet",
+    "year": 1986,
+    "rating": 7.7
+  },
+  {
+    "title": "Mad Max",
+    "year": 1979,
+    "rating": 6.8
+  },
+  {
+    "title": "Rocky IV",
+    "year": 1985,
+    "rating": 6.9
+  },
+  {
+    "title": "Shakespeare in Love",
+    "year": 1998,
+    "rating": 7.1
+  },
+  {
+    "title": "Basic Instinct",
+    "year": 1992,
+    "rating": 7.1
+  },
+  {
+    "title": "Cape Fear",
+    "year": 1991,
+    "rating": 7.3
+  },
+  {
+    "title": "Dogma",
+    "year": 1999,
+    "rating": 7.3
+  },
+  {
+    "title": "Clerks",
+    "year": 1994,
+    "rating": 7.7
+  },
+  {
+    "title": "Coming to America",
+    "year": 1988,
+    "rating": 7.1
+  },
+  {
+    "title": "Ghostbusters II",
+    "year": 1989,
+    "rating": 6.6
+  },
+  {
+    "title": "Scream 2",
+    "year": 1997,
+    "rating": 6.3
+  },
+  {
+    "title": "Girl, Interrupted",
+    "year": 1999,
+    "rating": 7.3
+  },
+  {
+    "title": "Who Framed Roger Rabbit",
+    "year": 1988,
+    "rating": 7.7
+  },
+  {
+    "title": "Close Encounters of the Third Kind",
+    "year": 1977,
+    "rating": 7.6
+  },
+  {
+    "title": "Beverly Hills Cop",
+    "year": 1984,
+    "rating": 7.4
+  },
+  {
+    "title": "The Crow",
+    "year": 1994,
+    "rating": 7.5
+  },
+  {
+    "title": "The Hunt for Red October",
+    "year": 1990,
+    "rating": 7.5
+  },
+  {
+    "title": "Space Jam",
+    "year": 1996,
+    "rating": 6.5
+  },
+  {
+    "title": "The Blues Brothers",
+    "year": 1980,
+    "rating": 7.9
+  },
+  {
+    "title": "Carrie",
+    "year": 1976,
+    "rating": 7.4
+  },
+  {
+    "title": "Rocky III",
+    "year": 1982,
+    "rating": 6.9
+  },
+  {
+    "title": "Spaceballs",
+    "year": 1987,
+    "rating": 7.1
+  },
+  {
+    "title": "Dark City",
+    "year": 1998,
+    "rating": 7.5
+  },
+  {
+    "title": "Falling Down",
+    "year": 1993,
+    "rating": 7.5
+  },
+  {
+    "title": "Akira",
+    "year": 1988,
+    "rating": 8
+  },
+  {
+    "title": "La haine",
+    "year": 1995,
+    "rating": 8.1
+  },
+  {
+    "title": "South Park: Bigger, Longer & Uncut",
+    "year": 1999,
+    "rating": 7.7
+  },
+  {
+    "title": "Point Break",
+    "year": 1991,
+    "rating": 7.3
+  },
+  {
+    "title": "Waterworld",
+    "year": 1995,
+    "rating": 6.3
+  },
+  {
+    "title": "The Fly",
+    "year": 1986,
+    "rating": 7.6
+  },
+  {
+    "title": "Air Force One",
+    "year": 1997,
+    "rating": 6.5
+  },
+  {
+    "title": "Brazil",
+    "year": 1985,
+    "rating": 7.8
+  },
+  {
+    "title": "Robin Hood: Prince of Thieves",
+    "year": 1991,
+    "rating": 6.9
+  },
+  {
+    "title": "The Naked Gun: From the Files of Police Squad!",
+    "year": 1988,
+    "rating": 7.6
+  },
+  {
+    "title": "The World Is Not Enough",
+    "year": 1999,
+    "rating": 6.4
+  },
+  {
+    "title": "Cruel Intentions",
+    "year": 1999,
+    "rating": 6.8
+  },
+  {
+    "title": "Stargate",
+    "year": 1994,
+    "rating": 7
+  },
+  {
+    "title": "Run Lola Run",
+    "year": 1998,
+    "rating": 7.6
+  },
+  {
+    "title": "Pocahontas",
+    "year": 1995,
+    "rating": 6.7
+  },
+  {
+    "title": "Tomorrow Never Dies",
+    "year": 1997,
+    "rating": 6.5
+  },
+  {
+    "title": "Dazed and Confused",
+    "year": 1993,
+    "rating": 7.6
+  },
+  {
+    "title": "Event Horizon",
+    "year": 1997,
+    "rating": 6.6
+  },
+  {
+    "title": "The English Patient",
+    "year": 1996,
+    "rating": 7.4
+  },
+  {
+    "title": "Godzilla",
+    "year": 1998,
+    "rating": 5.5
+  },
+  {
+    "title": "The Road Warrior",
+    "year": 1981,
+    "rating": 7.6
+  },
+  {
+    "title": "The Thin Red Line",
+    "year": 1998,
+    "rating": 7.6
+  },
+  {
+    "title": "The Texas Chain Saw Massacre",
+    "year": 1974,
+    "rating": 7.4
+  },
+  {
+    "title": "The Mask of Zorro",
+    "year": 1998,
+    "rating": 6.8
+  },
+  {
+    "title": "The Ninth Gate",
+    "year": 1999,
+    "rating": 6.7
+  },
+  {
+    "title": "The Abyss",
+    "year": 1989,
+    "rating": 7.5
+  },
+  {
+    "title": "Demolition Man",
+    "year": 1993,
+    "rating": 6.7
+  },
+  {
+    "title": "Army of Darkness",
+    "year": 1992,
+    "rating": 7.4
+  },
+  {
+    "title": "Rushmore",
+    "year": 1998,
+    "rating": 7.6
+  },
+  {
+    "title": "Desperado",
+    "year": 1995,
+    "rating": 7.1
+  },
+  {
+    "title": "Ronin",
+    "year": 1998,
+    "rating": 7.2
+  },
+  {
+    "title": "Superman",
+    "year": 1978,
+    "rating": 7.4
+  },
+  {
+    "title": "Sleepless in Seattle",
+    "year": 1993,
+    "rating": 6.8
+  },
+  {
+    "title": "The Last of the Mohicans",
+    "year": 1992,
+    "rating": 7.6
+  },
+  {
+    "title": "A Time to Kill",
+    "year": 1996,
+    "rating": 7.5
+  },
+  {
+    "title": "Deep Impact",
+    "year": 1998,
+    "rating": 6.3
+  },
+  {
+    "title": "Barry Lyndon",
+    "year": 1975,
+    "rating": 8.1
+  },
+  {
+    "title": "In the Name of the Father",
+    "year": 1993,
+    "rating": 8.1
+  },
+  {
+    "title": "Predator 2",
+    "year": 1990,
+    "rating": 6.3
+  },
+  {
+    "title": "Lethal Weapon 2",
+    "year": 1989,
+    "rating": 7.3
+  },
+  {
+    "title": "The Addams Family",
+    "year": 1991,
+    "rating": 7
+  },
+  {
+    "title": "The Bone Collector",
+    "year": 1999,
+    "rating": 6.7
+  },
+  {
+    "title": "Legends of the Fall",
+    "year": 1994,
+    "rating": 7.5
+  },
+  {
+    "title": "Castle in the Sky",
+    "year": 1986,
+    "rating": 8
+  },
+  {
+    "title": "Nausicaä of the Valley of the Wind",
+    "year": 1984,
+    "rating": 8
+  },
+  {
+    "title": "Evil Dead II",
+    "year": 1987,
+    "rating": 7.7
+  },
+  {
+    "title": "Rambo: First Blood Part II",
+    "year": 1985,
+    "rating": 6.5
+  },
+  {
+    "title": "Matilda",
+    "year": 1996,
+    "rating": 7
+  },
+  {
+    "title": "Poltergeist",
+    "year": 1982,
+    "rating": 7.3
+  },
+  {
+    "title": "Pi",
+    "year": 1998,
+    "rating": 7.3
+  },
+  {
+    "title": "Dune",
+    "year": 1984,
+    "rating": 6.2
+  },
+  {
+    "title": "Thelma & Louise",
+    "year": 1991,
+    "rating": 7.6
+  },
+  {
+    "title": "The Insider",
+    "year": 1999,
+    "rating": 7.8
+  },
+  {
+    "title": "The Waterboy",
+    "year": 1998,
+    "rating": 6.2
+  },
+  {
+    "title": "Ed Wood",
+    "year": 1994,
+    "rating": 7.8
+  },
+  {
+    "title": "Galaxy Quest",
+    "year": 1999,
+    "rating": 7.4
+  },
+  {
+    "title": "Tombstone",
+    "year": 1993,
+    "rating": 7.8
+  },
+  {
+    "title": "The Running Man",
+    "year": 1987,
+    "rating": 6.6
+  },
+  {
+    "title": "The Man in the Iron Mask",
+    "year": 1998,
+    "rating": 6.5
+  },
+  {
+    "title": "The Cable Guy",
+    "year": 1996,
+    "rating": 6.1
+  },
+  {
+    "title": "Lethal Weapon 3",
+    "year": 1992,
+    "rating": 6.7
+  },
+  {
+    "title": "Commando",
+    "year": 1985,
+    "rating": 6.7
+  },
+  {
+    "title": "Three Kings",
+    "year": 1999,
+    "rating": 7.1
+  },
+  {
+    "title": "Kiki's Delivery Service",
+    "year": 1989,
+    "rating": 7.8
+  },
+  {
+    "title": "Network",
+    "year": 1976,
+    "rating": 8.1
+  },
+  {
+    "title": "The Virgin Suicides",
+    "year": 1999,
+    "rating": 7.2
+  },
+  {
+    "title": "A Bronx Tale",
+    "year": 1993,
+    "rating": 7.8
+  },
+  {
+    "title": "The Hunchback of Notre Dame",
+    "year": 1996,
+    "rating": 7
+  },
+  {
+    "title": "The Rocky Horror Picture Show",
+    "year": 1975,
+    "rating": 7.4
+  },
+  {
+    "title": "Trading Places",
+    "year": 1983,
+    "rating": 7.5
+  },
+  {
+    "title": "JFK",
+    "year": 1991,
+    "rating": 8
+  },
+  {
+    "title": "Wayne's World",
+    "year": 1992,
+    "rating": 7
+  },
+  {
+    "title": "Four Weddings and a Funeral",
+    "year": 1994,
+    "rating": 7.1
+  },
+  {
+    "title": "Young Frankenstein",
+    "year": 1974,
+    "rating": 8
+  },
+  {
+    "title": "A Christmas Story",
+    "year": 1983,
+    "rating": 7.9
+  },
+  {
+    "title": "Dirty Harry",
+    "year": 1971,
+    "rating": 7.7
+  },
+  {
+    "title": "I Know What You Did Last Summer",
+    "year": 1997,
+    "rating": 5.9
+  },
+  {
+    "title": "Lethal Weapon 4",
+    "year": 1998,
+    "rating": 6.6
+  },
+  {
+    "title": "Planes, Trains & Automobiles",
+    "year": 1987,
+    "rating": 7.6
+  },
+  {
+    "title": "The Lost Boys",
+    "year": 1987,
+    "rating": 7.2
+  },
+  {
+    "title": "Honey, I Shrunk the Kids",
+    "year": 1989,
+    "rating": 6.4
+  },
+  {
+    "title": "Awakenings",
+    "year": 1990,
+    "rating": 7.8
+  },
+  {
+    "title": "Friday the 13th",
+    "year": 1980,
+    "rating": 6.4
+  },
+  {
+    "title": "Kindergarten Cop",
+    "year": 1990,
+    "rating": 6.3
+  },
+  {
+    "title": "Wall Street",
+    "year": 1987,
+    "rating": 7.3
+  },
+  {
+    "title": "Last Action Hero",
+    "year": 1993,
+    "rating": 6.5
+  },
+  {
+    "title": "Conan the Barbarian",
+    "year": 1982,
+    "rating": 6.9
+  },
+  {
+    "title": "The Wedding Singer",
+    "year": 1998,
+    "rating": 6.9
+  },
+  {
+    "title": "The Parent Trap",
+    "year": 1998,
+    "rating": 6.7
+  },
+  {
+    "title": "Ghost in the Shell",
+    "year": 1995,
+    "rating": 7.9
+  },
+  {
+    "title": "Hocus Pocus",
+    "year": 1993,
+    "rating": 6.9
+  },
+  {
+    "title": "Escape from New York",
+    "year": 1981,
+    "rating": 7.1
+  },
+  {
+    "title": "Antz",
+    "year": 1998,
+    "rating": 6.5
+  },
+  {
+    "title": "Lost Highway",
+    "year": 1997,
+    "rating": 7.6
+  },
+  {
+    "title": "The NeverEnding Story",
+    "year": 1984,
+    "rating": 7.3
+  },
+  {
+    "title": "Rounders",
+    "year": 1998,
+    "rating": 7.3
+  },
+  {
+    "title": "Analyze This",
+    "year": 1999,
+    "rating": 6.7
+  },
+  {
+    "title": "Boyz n the Hood",
+    "year": 1991,
+    "rating": 7.8
+  },
+  {
+    "title": "The Negotiator",
+    "year": 1998,
+    "rating": 7.3
+  },
+  {
+    "title": "Seven Years in Tibet",
+    "year": 1997,
+    "rating": 7.1
+  },
+  {
+    "title": "Billy Madison",
+    "year": 1995,
+    "rating": 6.4
+  },
+  {
+    "title": "Big Trouble in Little China",
+    "year": 1986,
+    "rating": 7.2
+  },
+  {
+    "title": "My Best Friend's Wedding",
+    "year": 1997,
+    "rating": 6.4
+  },
+  {
+    "title": "Kramer vs. Kramer",
+    "year": 1979,
+    "rating": 7.8
+  },
+  {
+    "title": "Tremors",
+    "year": 1990,
+    "rating": 7.2
+  },
+  {
+    "title": "A Fish Called Wanda",
+    "year": 1988,
+    "rating": 7.5
+  },
+  {
+    "title": "Good Morning, Vietnam",
+    "year": 1987,
+    "rating": 7.3
+  },
+  {
+    "title": "Blazing Saddles",
+    "year": 1974,
+    "rating": 7.7
+  },
+  {
+    "title": "Labyrinth",
+    "year": 1986,
+    "rating": 7.3
+  },
+  {
+    "title": "Escape from Alcatraz",
+    "year": 1979,
+    "rating": 7.5
+  },
+  {
+    "title": "They Live",
+    "year": 1988,
+    "rating": 7.2
+  },
+  {
+    "title": "Mad Max Beyond Thunderdome",
+    "year": 1985,
+    "rating": 6.2
+  },
+  {
+    "title": "The Prince of Egypt",
+    "year": 1998,
+    "rating": 7.2
+  },
+  {
+    "title": "Rocky V",
+    "year": 1990,
+    "rating": 5.4
+  },
+  {
+    "title": "The Firm",
+    "year": 1993,
+    "rating": 6.9
+  },
+  {
+    "title": "This Is Spinal Tap",
+    "year": 1984,
+    "rating": 7.9
+  },
+  {
+    "title": "Raising Arizona",
+    "year": 1987,
+    "rating": 7.3
+  },
+  {
+    "title": "Stuart Little",
+    "year": 1999,
+    "rating": 6
+  },
+  {
+    "title": "Casper",
+    "year": 1995,
+    "rating": 6.2
+  },
+  {
+    "title": "The Bodyguard",
+    "year": 1992,
+    "rating": 6.4
+  },
+  {
+    "title": "Highlander",
+    "year": 1986,
+    "rating": 7
+  },
+  {
+    "title": "My Cousin Vinny",
+    "year": 1992,
+    "rating": 7.6
+  },
+  {
+    "title": "Stalker",
+    "year": 1979,
+    "rating": 8
+  },
+  {
+    "title": "Manhattan",
+    "year": 1979,
+    "rating": 7.8
+  },
+  {
+    "title": "Glory",
+    "year": 1989,
+    "rating": 7.8
+  },
+  {
+    "title": "Hellraiser",
+    "year": 1987,
+    "rating": 6.9
+  },
+  {
+    "title": "Payback",
+    "year": 1999,
+    "rating": 7
+  },
+  {
+    "title": "Ran",
+    "year": 1985,
+    "rating": 8.2
+  },
+  {
+    "title": "Deep Blue Sea",
+    "year": 1999,
+    "rating": 5.9
+  },
+  {
+    "title": "8MM",
+    "year": 1999,
+    "rating": 6.6
+  },
+  {
+    "title": "Death Becomes Her",
+    "year": 1992,
+    "rating": 6.7
+  },
+  {
+    "title": "The French Connection",
+    "year": 1971,
+    "rating": 7.7
+  },
+  {
+    "title": "Robin Hood",
+    "year": 1973,
+    "rating": 7.5
+  },
+  {
+    "title": "Rambo III",
+    "year": 1988,
+    "rating": 5.8
+  },
+  {
+    "title": "Bill & Ted's Excellent Adventure",
+    "year": 1989,
+    "rating": 6.9
+  },
+  {
+    "title": "Miller's Crossing",
+    "year": 1990,
+    "rating": 7.7
+  },
+  {
+    "title": "Police Academy",
+    "year": 1984,
+    "rating": 6.7
+  },
+  {
+    "title": "Twins",
+    "year": 1988,
+    "rating": 6.2
+  },
+  {
+    "title": "Chasing Amy",
+    "year": 1997,
+    "rating": 7.2
+  },
+  {
+    "title": "Cliffhanger",
+    "year": 1993,
+    "rating": 6.5
+  },
+  {
+    "title": "Beverly Hills Cop II",
+    "year": 1987,
+    "rating": 6.6
+  },
+  {
+    "title": "The Santa Clause",
+    "year": 1994,
+    "rating": 6.6
+  },
+  {
+    "title": "The Faculty",
+    "year": 1998,
+    "rating": 6.6
+  },
+  {
+    "title": "Anastasia",
+    "year": 1997,
+    "rating": 7.2
+  },
+  {
+    "title": "Serpico",
+    "year": 1973,
+    "rating": 7.7
+  },
+  {
+    "title": "Tron",
+    "year": 1982,
+    "rating": 6.7
+  },
+  {
+    "title": "The Omen",
+    "year": 1976,
+    "rating": 7.5
+  },
+  {
+    "title": "Papillon",
+    "year": 1973,
+    "rating": 8
+  },
+  {
+    "title": "Robin Hood: Men in Tights",
+    "year": 1993,
+    "rating": 6.7
+  },
+  {
+    "title": "Outbreak",
+    "year": 1995,
+    "rating": 6.6
+  },
+  {
+    "title": "Leaving Las Vegas",
+    "year": 1995,
+    "rating": 7.5
+  },
+  {
+    "title": "Ransom",
+    "year": 1996,
+    "rating": 6.7
+  },
+  {
+    "title": "Man on the Moon",
+    "year": 1999,
+    "rating": 7.4
+  },
+  {
+    "title": "Pleasantville",
+    "year": 1998,
+    "rating": 7.5
+  },
+  {
+    "title": "Eraserhead",
+    "year": 1977,
+    "rating": 7.2
+  },
+  {
+    "title": "Empire of the Sun",
+    "year": 1987,
+    "rating": 7.7
+  },
+  {
+    "title": "Babe",
+    "year": 1995,
+    "rating": 6.9
+  },
+  {
+    "title": "Wild Things",
+    "year": 1998,
+    "rating": 6.6
+  },
+  {
+    "title": "The Naked Gun 2½: The Smell of Fear",
+    "year": 1991,
+    "rating": 6.9
+  },
+  {
+    "title": "Paris, Texas",
+    "year": 1984,
+    "rating": 8.1
+  },
+  {
+    "title": "Willow",
+    "year": 1988,
+    "rating": 7.2
+  },
+  {
+    "title": "The 13th Warrior",
+    "year": 1999,
+    "rating": 6.6
+  },
+  {
+    "title": "Field of Dreams",
+    "year": 1989,
+    "rating": 7.5
+  },
+  {
+    "title": "All the President's Men",
+    "year": 1976,
+    "rating": 7.9
+  },
+  {
+    "title": "Star Trek: First Contact",
+    "year": 1996,
+    "rating": 7.6
+  },
+  {
+    "title": "Sense and Sensibility",
+    "year": 1995,
+    "rating": 7.7
+  },
+  {
+    "title": "The Conversation",
+    "year": 1974,
+    "rating": 7.7
+  },
+  {
+    "title": "Friday",
+    "year": 1995,
+    "rating": 7.2
+  },
+  {
+    "title": "Dawn of the Dead",
+    "year": 1978,
+    "rating": 7.8
+  },
+  {
+    "title": "National Lampoon's Animal House",
+    "year": 1978,
+    "rating": 7.4
+  },
+  {
+    "title": "Crimson Tide",
+    "year": 1995,
+    "rating": 7.4
+  },
+  {
+    "title": "Star Trek II: The Wrath of Khan",
+    "year": 1982,
+    "rating": 7.7
+  },
+  {
+    "title": "Barton Fink",
+    "year": 1991,
+    "rating": 7.6
+  },
+  {
+    "title": "Sixteen Candles",
+    "year": 1984,
+    "rating": 7
+  },
+  {
+    "title": "City of Angels",
+    "year": 1998,
+    "rating": 6.7
+  },
+  {
+    "title": "Caddyshack",
+    "year": 1980,
+    "rating": 7.2
+  },
+  {
+    "title": "Mallrats",
+    "year": 1995,
+    "rating": 7
+  },
+  {
+    "title": "An American Werewolf in London",
+    "year": 1981,
+    "rating": 7.5
+  },
+  {
+    "title": "The King of Comedy",
+    "year": 1982,
+    "rating": 7.8
+  },
+  {
+    "title": "Bicentennial Man",
+    "year": 1999,
+    "rating": 6.9
+  },
+  {
+    "title": "The Basketball Diaries",
+    "year": 1995,
+    "rating": 7.3
+  },
+  {
+    "title": "Judge Dredd",
+    "year": 1995,
+    "rating": 5.6
+  },
+  {
+    "title": "The Jackal",
+    "year": 1997,
+    "rating": 6.4
+  },
+  {
+    "title": "Mortal Kombat",
+    "year": 1995,
+    "rating": 5.8
+  },
+  {
+    "title": "Child's Play",
+    "year": 1988,
+    "rating": 6.7
+  },
+  {
+    "title": "Any Given Sunday",
+    "year": 1999,
+    "rating": 6.9
+  },
+  {
+    "title": "The Nutty Professor",
+    "year": 1996,
+    "rating": 5.7
+  },
+  {
+    "title": "A League of Their Own",
+    "year": 1992,
+    "rating": 7.4
+  },
+  {
+    "title": "Jingle All the Way",
+    "year": 1996,
+    "rating": 5.8
+  },
+  {
+    "title": "Monty Python's the Meaning of Life",
+    "year": 1983,
+    "rating": 7.5
+  },
+  {
+    "title": "Patch Adams",
+    "year": 1998,
+    "rating": 6.9
+  },
+  {
+    "title": "Entrapment",
+    "year": 1999,
+    "rating": 6.3
+  },
+  {
+    "title": "Scrooged",
+    "year": 1988,
+    "rating": 6.9
+  },
+  {
+    "title": "Jacob's Ladder",
+    "year": 1990,
+    "rating": 7.4
+  },
+  {
+    "title": "Deliverance",
+    "year": 1972,
+    "rating": 7.6
+  },
+  {
+    "title": "National Lampoon's Vacation",
+    "year": 1983,
+    "rating": 7.3
+  },
+  {
+    "title": "Patriot Games",
+    "year": 1992,
+    "rating": 6.8
+  },
+  {
+    "title": "Mean Streets",
+    "year": 1973,
+    "rating": 7.2
+  },
+  {
+    "title": "Naked Gun 33 1/3: The Final Insult",
+    "year": 1994,
+    "rating": 6.5
+  },
+  {
+    "title": "Mississippi Burning",
+    "year": 1988,
+    "rating": 7.8
+  },
+  {
+    "title": "Heathers",
+    "year": 1989,
+    "rating": 7.1
+  },
+  {
+    "title": "The Name of the Rose",
+    "year": 1986,
+    "rating": 7.7
+  },
+  {
+    "title": "Glengarry Glen Ross",
+    "year": 1992,
+    "rating": 7.6
+  },
+  {
+    "title": "While You Were Sleeping",
+    "year": 1995,
+    "rating": 6.8
+  },
+  {
+    "title": "Maverick",
+    "year": 1994,
+    "rating": 7
+  },
+  {
+    "title": "The Spy Who Loved Me",
+    "year": 1977,
+    "rating": 7
+  },
+  {
+    "title": "Hot Shots!",
+    "year": 1991,
+    "rating": 6.7
+  },
+  {
+    "title": "The Aristocats",
+    "year": 1970,
+    "rating": 7.1
+  },
+  {
+    "title": "Fast Times at Ridgemont High",
+    "year": 1982,
+    "rating": 7.1
+  },
+  {
+    "title": "Anaconda",
+    "year": 1997,
+    "rating": 5
+  },
+  {
+    "title": "Superman II",
+    "year": 1980,
+    "rating": 6.8
+  },
+  {
+    "title": "101 Dalmatians",
+    "year": 1996,
+    "rating": 5.8
+  },
+  {
+    "title": "Live and Let Die",
+    "year": 1973,
+    "rating": 6.7
+  },
+  {
+    "title": "Born on the Fourth of July",
+    "year": 1989,
+    "rating": 7.2
+  },
+  {
+    "title": "Driving Miss Daisy",
+    "year": 1989,
+    "rating": 7.3
+  },
+  {
+    "title": "Crocodile Dundee",
+    "year": 1986,
+    "rating": 6.7
+  },
+  {
+    "title": "Eraser",
+    "year": 1996,
+    "rating": 6.2
+  },
+  {
+    "title": "Pet Sematary",
+    "year": 1989,
+    "rating": 6.5
+  },
+  {
+    "title": "Do the Right Thing",
+    "year": 1989,
+    "rating": 7.9
+  },
+  {
+    "title": "Cool Runnings",
+    "year": 1993,
+    "rating": 7
+  },
+  {
+    "title": "Addams Family Values",
+    "year": 1993,
+    "rating": 6.9
+  },
+  {
+    "title": "Diamonds Are Forever",
+    "year": 1971,
+    "rating": 6.5
+  },
+  {
+    "title": "In the Line of Fire",
+    "year": 1993,
+    "rating": 7.2
+  },
+  {
+    "title": "End of Days",
+    "year": 1999,
+    "rating": 5.8
+  },
+  {
+    "title": "Clue",
+    "year": 1985,
+    "rating": 7.3
+  },
+  {
+    "title": "Come and See",
+    "year": 1985,
+    "rating": 8.3
+  },
+  {
+    "title": "Tootsie",
+    "year": 1982,
+    "rating": 7.4
+  },
+  {
+    "title": "The Man with the Golden Gun",
+    "year": 1974,
+    "rating": 6.7
+  },
+  {
+    "title": "WarGames",
+    "year": 1983,
+    "rating": 7.1
+  },
+  {
+    "title": "Uncle Buck",
+    "year": 1989,
+    "rating": 7.1
+  },
+  {
+    "title": "Perfect Blue",
+    "year": 1997,
+    "rating": 8
+  },
+  {
+    "title": "Octopussy",
+    "year": 1983,
+    "rating": 6.5
+  },
+  {
+    "title": "Tango & Cash",
+    "year": 1989,
+    "rating": 6.4
+  },
+  {
+    "title": "Gremlins 2: The New Batch",
+    "year": 1990,
+    "rating": 6.5
+  },
+  {
+    "title": "What Dreams May Come",
+    "year": 1998,
+    "rating": 7
+  },
+  {
+    "title": "U.S. Marshals",
+    "year": 1998,
+    "rating": 6.6
+  },
+  {
+    "title": "The Last Boy Scout",
+    "year": 1991,
+    "rating": 7
+  },
+  {
+    "title": "Enter the Dragon",
+    "year": 1973,
+    "rating": 7.6
+  },
+  {
+    "title": "Licence to Kill",
+    "year": 1989,
+    "rating": 6.7
+  },
+  {
+    "title": "The Craft",
+    "year": 1996,
+    "rating": 6.5
+  },
+  {
+    "title": "The Full Monty",
+    "year": 1997,
+    "rating": 7.2
+  },
+  {
+    "title": "The Last Emperor",
+    "year": 1987,
+    "rating": 7.7
+  },
+  {
+    "title": "The Warriors",
+    "year": 1979,
+    "rating": 7.5
+  },
+  {
+    "title": "Twin Peaks: Fire Walk with Me",
+    "year": 1992,
+    "rating": 7.3
+  },
+  {
+    "title": "Three Colors: Blue",
+    "year": 1993,
+    "rating": 7.8
+  },
+  {
+    "title": "Sphere",
+    "year": 1998,
+    "rating": 6.1
+  },
+  {
+    "title": "Sister Act",
+    "year": 1992,
+    "rating": 6.6
+  },
+  {
+    "title": "Moonraker",
+    "year": 1979,
+    "rating": 6.3
+  },
+  {
+    "title": "Four Rooms",
+    "year": 1995,
+    "rating": 6.7
+  },
+  {
+    "title": "Three Colors: Red",
+    "year": 1994,
+    "rating": 8.1
+  },
+  {
+    "title": "Bean",
+    "year": 1997,
+    "rating": 6.5
+  },
+  {
+    "title": "For Your Eyes Only",
+    "year": 1981,
+    "rating": 6.7
+  },
+  {
+    "title": "Clear and Present Danger",
+    "year": 1994,
+    "rating": 6.9
+  },
+  {
+    "title": "Suspiria",
+    "year": 1977,
+    "rating": 7.3
+  },
+  {
+    "title": "Porco Rosso",
+    "year": 1992,
+    "rating": 7.7
+  },
+  {
+    "title": "The Birdcage",
+    "year": 1996,
+    "rating": 7.3
+  },
+  {
+    "title": "Cop Land",
+    "year": 1997,
+    "rating": 7
+  },
+  {
+    "title": "The X Files",
+    "year": 1998,
+    "rating": 7
+  },
+  {
+    "title": "The Sandlot",
+    "year": 1993,
+    "rating": 7.8
+  },
+  {
+    "title": "Patton",
+    "year": 1970,
+    "rating": 7.9
+  },
+  {
+    "title": "The Living Daylights",
+    "year": 1987,
+    "rating": 6.7
+  },
+  {
+    "title": "Conspiracy Theory",
+    "year": 1997,
+    "rating": 6.7
+  },
+  {
+    "title": "Witness",
+    "year": 1985,
+    "rating": 7.3
+  },
+  {
+    "title": "Blood Simple",
+    "year": 1984,
+    "rating": 7.5
+  }
+]

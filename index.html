@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Higher Lower Movies</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="app">
+
+        <div id="sidebar">
+            <h2>Modes</h2>
+            <button onclick="setMode('movies', this)">All</button>
+            <button onclick="setMode('classic', this)">Classic</button>
+            <button onclick="setMode('modern', this)">Modern</button>
+            <button onclick="setMode('popular', this)">Popular</button>
+        </div>
+
+        <div id="main">
+            <div id="score">Score: 0</div>
+
+            <div id="game">
+                <div id="movieA"></div>
+                <div id="vs">VS</div>
+                <div id="movieB"></div>
+            </div>
+
+            <div id="buttons">
+                <button onclick="guess('higher')">Higher</button>
+                <button onclick="guess('lower')">Lower</button>
+            </div>
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
