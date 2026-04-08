@@ -11,13 +11,13 @@
         <div id="sidebar">
             <h2>Modes</h2>
             <button onclick="setMode('movies', this)">All</button>
-            <button onclick="setMode('classic', this)">Classic</button>
-            <button onclick="setMode('modern', this)">Modern</button>
-            <button onclick="setMode('popular', this)">Popular</button>
+            <button onclick="setMode('horror', this)">Horror</button>
+            <button onclick="setMode('animation', this)">Animation</button>
+            <button onclick="setMode('action', this)">Action</button>
         </div>
 
         <div id="main">
-            <div id="score">Score: 0</div>
+            <div id="score">Score: 0 | Highscore: 0</div>
 
             <div id="game">
                 <div id="movieA"></div>
@@ -29,6 +29,11 @@
                 <button onclick="guess('higher')">Higher</button>
                 <button onclick="guess('lower')">Lower</button>
             </div>
+        </div>
+
+        <div id="sidebar">
+            <h2>About</h2>
+            <p>Guess which movie has a higher box office gross. Select a mode to start playing!</p>
         </div>
 
     </div>

@@ -1,5 +1,6 @@
 # große Rohdaten ignorieren
 data/raw/
+data/processed/
 
 # optional: node modules falls du später welche nutzt
 node_modules/

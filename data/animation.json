@@ -1,0 +1,2502 @@
+[
+  {
+    "title": "Snow White and the Seven Dwarfs",
+    "year": 1937,
+    "rating": 7.6
+  },
+  {
+    "title": "Fantasia",
+    "year": 1940,
+    "rating": 7.7
+  },
+  {
+    "title": "Pinocchio",
+    "year": 1940,
+    "rating": 7.5
+  },
+  {
+    "title": "Dumbo",
+    "year": 1941,
+    "rating": 7.2
+  },
+  {
+    "title": "Bambi",
+    "year": 1942,
+    "rating": 7.3
+  },
+  {
+    "title": "The Three Caballeros",
+    "year": 1944,
+    "rating": 6.3
+  },
+  {
+    "title": "Song of the South",
+    "year": 1946,
+    "rating": 6.9
+  },
+  {
+    "title": "Fun and Fancy Free",
+    "year": 1947,
+    "rating": 6.3
+  },
+  {
+    "title": "The Adventures of Ichabod and Mr. Toad",
+    "year": 1949,
+    "rating": 6.8
+  },
+  {
+    "title": "Cinderella",
+    "year": 1950,
+    "rating": 7.3
+  },
+  {
+    "title": "Alice in Wonderland",
+    "year": 1951,
+    "rating": 7.3
+  },
+  {
+    "title": "Peter Pan",
+    "year": 1953,
+    "rating": 7.2
+  },
+  {
+    "title": "Animal Farm",
+    "year": 1954,
+    "rating": 7.2
+  },
+  {
+    "title": "Lady and the Tramp",
+    "year": 1955,
+    "rating": 7.3
+  },
+  {
+    "title": "Sleeping Beauty",
+    "year": 1959,
+    "rating": 7.2
+  },
+  {
+    "title": "One Hundred and One Dalmatians",
+    "year": 1961,
+    "rating": 7.3
+  },
+  {
+    "title": "The Sword in the Stone",
+    "year": 1963,
+    "rating": 7.1
+  },
+  {
+    "title": "Asterix the Gaul",
+    "year": 1967,
+    "rating": 6.6
+  },
+  {
+    "title": "The Jungle Book",
+    "year": 1967,
+    "rating": 7.6
+  },
+  {
+    "title": "Asterix and Cleopatra",
+    "year": 1968,
+    "rating": 7.2
+  },
+  {
+    "title": "Yellow Submarine",
+    "year": 1968,
+    "rating": 7.4
+  },
+  {
+    "title": "The Aristocats",
+    "year": 1970,
+    "rating": 7.1
+  },
+  {
+    "title": "Bedknobs and Broomsticks",
+    "year": 1971,
+    "rating": 7.1
+  },
+  {
+    "title": "Fritz the Cat",
+    "year": 1972,
+    "rating": 6.2
+  },
+  {
+    "title": "Charlotte's Web",
+    "year": 1973,
+    "rating": 6.9
+  },
+  {
+    "title": "Fantastic Planet",
+    "year": 1973,
+    "rating": 7.6
+  },
+  {
+    "title": "Robin Hood",
+    "year": 1973,
+    "rating": 7.5
+  },
+  {
+    "title": "The Twelve Tasks of Asterix",
+    "year": 1976,
+    "rating": 7.7
+  },
+  {
+    "title": "The Pinchcliffe Grand Prix",
+    "year": 1975,
+    "rating": 8.5
+  },
+  {
+    "title": "The Many Adventures of Winnie the Pooh",
+    "year": 1977,
+    "rating": 7.5
+  },
+  {
+    "title": "Pete's Dragon",
+    "year": 1977,
+    "rating": 6.3
+  },
+  {
+    "title": "The Rescuers",
+    "year": 1977,
+    "rating": 6.9
+  },
+  {
+    "title": "Wizards",
+    "year": 1977,
+    "rating": 6.3
+  },
+  {
+    "title": "The Lord of the Rings",
+    "year": 1978,
+    "rating": 6.2
+  },
+  {
+    "title": "Watership Down",
+    "year": 1978,
+    "rating": 7.5
+  },
+  {
+    "title": "Lupin III: The Castle of Cagliostro",
+    "year": 1979,
+    "rating": 7.6
+  },
+  {
+    "title": "The Fox and the Hound",
+    "year": 1981,
+    "rating": 7.2
+  },
+  {
+    "title": "Heavy Metal",
+    "year": 1981,
+    "rating": 6.6
+  },
+  {
+    "title": "The Last Unicorn",
+    "year": 1982,
+    "rating": 7.3
+  },
+  {
+    "title": "The Secret of NIMH",
+    "year": 1982,
+    "rating": 7.5
+  },
+  {
+    "title": "Barefoot Gen",
+    "year": 1983,
+    "rating": 8
+  },
+  {
+    "title": "Fire and Ice",
+    "year": 1983,
+    "rating": 6.5
+  },
+  {
+    "title": "Nausicaä of the Valley of the Wind",
+    "year": 1984,
+    "rating": 8
+  },
+  {
+    "title": "Asterix Versus Caesar",
+    "year": 1985,
+    "rating": 6.8
+  },
+  {
+    "title": "The Black Cauldron",
+    "year": 1985,
+    "rating": 6.3
+  },
+  {
+    "title": "Vampire Hunter D",
+    "year": 1985,
+    "rating": 7
+  },
+  {
+    "title": "When the Wind Blows",
+    "year": 1986,
+    "rating": 7.7
+  },
+  {
+    "title": "An American Tail",
+    "year": 1986,
+    "rating": 6.9
+  },
+  {
+    "title": "Asterix in Britain",
+    "year": 1986,
+    "rating": 7.1
+  },
+  {
+    "title": "The Great Mouse Detective",
+    "year": 1986,
+    "rating": 7.1
+  },
+  {
+    "title": "Castle in the Sky",
+    "year": 1986,
+    "rating": 8
+  },
+  {
+    "title": "The Transformers: The Movie",
+    "year": 1986,
+    "rating": 7.2
+  },
+  {
+    "title": "The Brave Little Toaster",
+    "year": 1987,
+    "rating": 7.2
+  },
+  {
+    "title": "Akira",
+    "year": 1988,
+    "rating": 8
+  },
+  {
+    "title": "Grave of the Fireflies",
+    "year": 1988,
+    "rating": 8.5
+  },
+  {
+    "title": "The Land Before Time",
+    "year": 1988,
+    "rating": 7.4
+  },
+  {
+    "title": "Alice",
+    "year": 1988,
+    "rating": 7.4
+  },
+  {
+    "title": "Oliver & Company",
+    "year": 1988,
+    "rating": 6.6
+  },
+  {
+    "title": "My Neighbor Totoro",
+    "year": 1988,
+    "rating": 8.1
+  },
+  {
+    "title": "Who Framed Roger Rabbit",
+    "year": 1988,
+    "rating": 7.7
+  },
+  {
+    "title": "All Dogs Go to Heaven",
+    "year": 1989,
+    "rating": 6.8
+  },
+  {
+    "title": "The Little Mermaid",
+    "year": 1989,
+    "rating": 7.6
+  },
+  {
+    "title": "Kiki's Delivery Service",
+    "year": 1989,
+    "rating": 7.8
+  },
+  {
+    "title": "Wicked City",
+    "year": 1987,
+    "rating": 6.7
+  },
+  {
+    "title": "DuckTales the Movie: Treasure of the Lost Lamp",
+    "year": 1990,
+    "rating": 6.8
+  },
+  {
+    "title": "The Rescuers Down Under",
+    "year": 1990,
+    "rating": 6.8
+  },
+  {
+    "title": "An American Tail: Fievel Goes West",
+    "year": 1991,
+    "rating": 6.5
+  },
+  {
+    "title": "Beauty and the Beast",
+    "year": 1991,
+    "rating": 8
+  },
+  {
+    "title": "Only Yesterday",
+    "year": 1991,
+    "rating": 7.6
+  },
+  {
+    "title": "Rock-A-Doodle",
+    "year": 1991,
+    "rating": 6
+  },
+  {
+    "title": "Aladdin",
+    "year": 1992,
+    "rating": 8
+  },
+  {
+    "title": "Cool World",
+    "year": 1992,
+    "rating": 4.9
+  },
+  {
+    "title": "FernGully: The Last Rainforest",
+    "year": 1992,
+    "rating": 6.6
+  },
+  {
+    "title": "Porco Rosso",
+    "year": 1992,
+    "rating": 7.7
+  },
+  {
+    "title": "Tom and Jerry: The Movie",
+    "year": 1992,
+    "rating": 5.5
+  },
+  {
+    "title": "Batman: Mask of the Phantasm",
+    "year": 1993,
+    "rating": 7.8
+  },
+  {
+    "title": "The Nightmare Before Christmas",
+    "year": 1993,
+    "rating": 7.9
+  },
+  {
+    "title": "Ninja Scroll",
+    "year": 1993,
+    "rating": 7.8
+  },
+  {
+    "title": "We're Back! A Dinosaur's Story",
+    "year": 1993,
+    "rating": 6
+  },
+  {
+    "title": "Pom Poko",
+    "year": 1994,
+    "rating": 7.2
+  },
+  {
+    "title": "The Lion King",
+    "year": 1994,
+    "rating": 8.5
+  },
+  {
+    "title": "The Pagemaster",
+    "year": 1994,
+    "rating": 6.2
+  },
+  {
+    "title": "The Swan Princess",
+    "year": 1994,
+    "rating": 6.5
+  },
+  {
+    "title": "Thumbelina",
+    "year": 1994,
+    "rating": 6.3
+  },
+  {
+    "title": "Balto",
+    "year": 1995,
+    "rating": 7.1
+  },
+  {
+    "title": "A Goofy Movie",
+    "year": 1995,
+    "rating": 7
+  },
+  {
+    "title": "Ghost in the Shell",
+    "year": 1995,
+    "rating": 7.9
+  },
+  {
+    "title": "Memories",
+    "year": 1995,
+    "rating": 7.5
+  },
+  {
+    "title": "Whisper of the Heart",
+    "year": 1995,
+    "rating": 7.8
+  },
+  {
+    "title": "Pocahontas",
+    "year": 1995,
+    "rating": 6.7
+  },
+  {
+    "title": "Street Fighter II: The Animated Movie",
+    "year": 1994,
+    "rating": 7.2
+  },
+  {
+    "title": "Toy Story",
+    "year": 1995,
+    "rating": 8.3
+  },
+  {
+    "title": "Beavis and Butt-Head Do America",
+    "year": 1996,
+    "rating": 6.8
+  },
+  {
+    "title": "The Hunchback of Notre Dame",
+    "year": 1996,
+    "rating": 7
+  },
+  {
+    "title": "James and the Giant Peach",
+    "year": 1996,
+    "rating": 6.7
+  },
+  {
+    "title": "Space Jam",
+    "year": 1996,
+    "rating": 6.5
+  },
+  {
+    "title": "Anastasia",
+    "year": 1997,
+    "rating": 7.2
+  },
+  {
+    "title": "Heavy Metal 2000",
+    "year": 2000,
+    "rating": 5.4
+  },
+  {
+    "title": "Hercules",
+    "year": 1997,
+    "rating": 7.3
+  },
+  {
+    "title": "Princess Mononoke",
+    "year": 1997,
+    "rating": 8.3
+  },
+  {
+    "title": "Toy Story 2",
+    "year": 1999,
+    "rating": 7.9
+  },
+  {
+    "title": "Antz",
+    "year": 1998,
+    "rating": 6.5
+  },
+  {
+    "title": "A Bug's Life",
+    "year": 1998,
+    "rating": 7.2
+  },
+  {
+    "title": "Chicken Run",
+    "year": 2000,
+    "rating": 7.1
+  },
+  {
+    "title": "Mulan",
+    "year": 1998,
+    "rating": 7.7
+  },
+  {
+    "title": "The Prince of Egypt",
+    "year": 1998,
+    "rating": 7.2
+  },
+  {
+    "title": "Quest for Camelot",
+    "year": 1998,
+    "rating": 6.3
+  },
+  {
+    "title": "Tarzan",
+    "year": 1999,
+    "rating": 7.3
+  },
+  {
+    "title": "Fantasia 2000",
+    "year": 1999,
+    "rating": 7.1
+  },
+  {
+    "title": "Titan A.E.",
+    "year": 2000,
+    "rating": 6.6
+  },
+  {
+    "title": "The Emperor's New Groove",
+    "year": 2000,
+    "rating": 7.4
+  },
+  {
+    "title": "Corpse Bride",
+    "year": 2005,
+    "rating": 7.4
+  },
+  {
+    "title": "Shrek",
+    "year": 2001,
+    "rating": 7.9
+  },
+  {
+    "title": "The Iron Giant",
+    "year": 1999,
+    "rating": 8.1
+  },
+  {
+    "title": "Dinosaur",
+    "year": 2000,
+    "rating": 6.4
+  },
+  {
+    "title": "Treasure Planet",
+    "year": 2002,
+    "rating": 7.2
+  },
+  {
+    "title": "The Rugrats Movie",
+    "year": 1998,
+    "rating": 5.9
+  },
+  {
+    "title": "The Road to El Dorado",
+    "year": 2000,
+    "rating": 6.9
+  },
+  {
+    "title": "Dragon Ball Z: Fusion Reborn",
+    "year": 1995,
+    "rating": 7.6
+  },
+  {
+    "title": "Dragon Ball Z: Broly - The Legendary Super Saiyan",
+    "year": 1993,
+    "rating": 7.3
+  },
+  {
+    "title": "Dragon Ball Z: Wrath of the Dragon",
+    "year": 1995,
+    "rating": 7.4
+  },
+  {
+    "title": "Perfect Blue",
+    "year": 1997,
+    "rating": 8
+  },
+  {
+    "title": "South Park: Bigger, Longer & Uncut",
+    "year": 1999,
+    "rating": 7.7
+  },
+  {
+    "title": "Sinbad: Legend of the Seven Seas",
+    "year": 2003,
+    "rating": 6.8
+  },
+  {
+    "title": "Spirit: Stallion of the Cimarron",
+    "year": 2002,
+    "rating": 7.2
+  },
+  {
+    "title": "Neon Genesis Evangelion: The End of Evangelion",
+    "year": 1997,
+    "rating": 8.1
+  },
+  {
+    "title": "Neon Genesis Evangelion: Death & Rebirth",
+    "year": 1997,
+    "rating": 7.2
+  },
+  {
+    "title": "Final Fantasy: The Spirits Within",
+    "year": 2001,
+    "rating": 6.4
+  },
+  {
+    "title": "Cat City",
+    "year": 1986,
+    "rating": 8.3
+  },
+  {
+    "title": "Kirikou and the Sorceress",
+    "year": 1998,
+    "rating": 7.5
+  },
+  {
+    "title": "Osmosis Jones",
+    "year": 2001,
+    "rating": 6.3
+  },
+  {
+    "title": "Pokémon: The First Movie - Mewtwo Strikes Back",
+    "year": 1998,
+    "rating": 6.3
+  },
+  {
+    "title": "Jin-Roh: The Wolf Brigade",
+    "year": 1999,
+    "rating": 7.3
+  },
+  {
+    "title": "Monsters, Inc.",
+    "year": 2001,
+    "rating": 8.1
+  },
+  {
+    "title": "My Neighbors the Yamadas",
+    "year": 1999,
+    "rating": 7.1
+  },
+  {
+    "title": "Pokémon the Movie 2000",
+    "year": 1999,
+    "rating": 6.1
+  },
+  {
+    "title": "Rugrats in Paris",
+    "year": 2000,
+    "rating": 6.2
+  },
+  {
+    "title": "Vampire Hunter D: Bloodlust",
+    "year": 2000,
+    "rating": 7.7
+  },
+  {
+    "title": "The Tigger Movie",
+    "year": 2000,
+    "rating": 6.4
+  },
+  {
+    "title": "Atlantis: The Lost Empire",
+    "year": 2001,
+    "rating": 6.9
+  },
+  {
+    "title": "Pokémon 3 the Movie: Spell of the Unown",
+    "year": 2000,
+    "rating": 5.9
+  },
+  {
+    "title": "Waking Life",
+    "year": 2001,
+    "rating": 7.6
+  },
+  {
+    "title": "Spirited Away",
+    "year": 2001,
+    "rating": 8.6
+  },
+  {
+    "title": "Foodfight!",
+    "year": 2012,
+    "rating": 1.3
+  },
+  {
+    "title": "Ramayana: The Legend of Prince Rama",
+    "year": 1993,
+    "rating": 9.1
+  },
+  {
+    "title": "Recess: School's Out",
+    "year": 2001,
+    "rating": 6.5
+  },
+  {
+    "title": "Finding Nemo",
+    "year": 2003,
+    "rating": 8.2
+  },
+  {
+    "title": "Ice Age",
+    "year": 2002,
+    "rating": 7.5
+  },
+  {
+    "title": "Jimmy Neutron: Boy Genius",
+    "year": 2001,
+    "rating": 6.1
+  },
+  {
+    "title": "Eight Crazy Nights",
+    "year": 2002,
+    "rating": 5.3
+  },
+  {
+    "title": "Blood: The Last Vampire",
+    "year": 2000,
+    "rating": 6.6
+  },
+  {
+    "title": "Cowboy Bebop: The Movie - Knockin' on Heaven's Door",
+    "year": 2001,
+    "rating": 7.8
+  },
+  {
+    "title": "Lilo & Stitch",
+    "year": 2002,
+    "rating": 7.4
+  },
+  {
+    "title": "Return to Never Land",
+    "year": 2002,
+    "rating": 5.8
+  },
+  {
+    "title": "The Wild Thornberrys",
+    "year": 2002,
+    "rating": 5.7
+  },
+  {
+    "title": "The Jungle Book 2",
+    "year": 2003,
+    "rating": 5.4
+  },
+  {
+    "title": "The Triplets of Belleville",
+    "year": 2003,
+    "rating": 7.7
+  },
+  {
+    "title": "Pokemon 4Ever: Celebi - Voice of the Forest",
+    "year": 2001,
+    "rating": 5.8
+  },
+  {
+    "title": "The Powerpuff Girls Movie",
+    "year": 2002,
+    "rating": 6.5
+  },
+  {
+    "title": "Millennium Actress",
+    "year": 2001,
+    "rating": 7.8
+  },
+  {
+    "title": "Metropolis",
+    "year": 2001,
+    "rating": 7.2
+  },
+  {
+    "title": "Shrek 2",
+    "year": 2004,
+    "rating": 7.4
+  },
+  {
+    "title": "Home on the Range",
+    "year": 2004,
+    "rating": 5.4
+  },
+  {
+    "title": "Shark Tale",
+    "year": 2004,
+    "rating": 6
+  },
+  {
+    "title": "Happily N'Ever After",
+    "year": 2006,
+    "rating": 4.5
+  },
+  {
+    "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
+    "year": 2005,
+    "rating": 7.5
+  },
+  {
+    "title": "Cars",
+    "year": 2006,
+    "rating": 7.3
+  },
+  {
+    "title": "The Incredibles",
+    "year": 2004,
+    "rating": 8
+  },
+  {
+    "title": "Looney Tunes: Back in Action",
+    "year": 2003,
+    "rating": 5.8
+  },
+  {
+    "title": "Over the Hedge",
+    "year": 2006,
+    "rating": 6.7
+  },
+  {
+    "title": "Coraline",
+    "year": 2009,
+    "rating": 7.8
+  },
+  {
+    "title": "Brother Bear",
+    "year": 2003,
+    "rating": 6.9
+  },
+  {
+    "title": "The Polar Express",
+    "year": 2004,
+    "rating": 6.6
+  },
+  {
+    "title": "Arthur and the Invisibles",
+    "year": 2006,
+    "rating": 6
+  },
+  {
+    "title": "The SpongeBob SquarePants Movie",
+    "year": 2004,
+    "rating": 7.2
+  },
+  {
+    "title": "Howl's Moving Castle",
+    "year": 2004,
+    "rating": 8.2
+  },
+  {
+    "title": "Ghost in the Shell 2: Innocence",
+    "year": 2004,
+    "rating": 7.4
+  },
+  {
+    "title": "The Cat Returns",
+    "year": 2002,
+    "rating": 7.1
+  },
+  {
+    "title": "Steamboy",
+    "year": 2004,
+    "rating": 6.8
+  },
+  {
+    "title": "Madagascar",
+    "year": 2005,
+    "rating": 6.9
+  },
+  {
+    "title": "Robots",
+    "year": 2005,
+    "rating": 6.4
+  },
+  {
+    "title": "Valiant",
+    "year": 2005,
+    "rating": 5.5
+  },
+  {
+    "title": "Happy Feet",
+    "year": 2006,
+    "rating": 6.4
+  },
+  {
+    "title": "Interstella 5555: The 5tory of the 5ecret 5tar 5ystem",
+    "year": 2003,
+    "rating": 7.8
+  },
+  {
+    "title": "Asterix and the Vikings",
+    "year": 2006,
+    "rating": 6
+  },
+  {
+    "title": "Chicken Little",
+    "year": 2005,
+    "rating": 5.7
+  },
+  {
+    "title": "Astro Boy",
+    "year": 2009,
+    "rating": 6.3
+  },
+  {
+    "title": "Gnomeo & Juliet",
+    "year": 2011,
+    "rating": 5.9
+  },
+  {
+    "title": "The Place Promised in Our Early Days",
+    "year": 2004,
+    "rating": 6.8
+  },
+  {
+    "title": "Curious George",
+    "year": 2006,
+    "rating": 6.5
+  },
+  {
+    "title": "Ratatouille",
+    "year": 2007,
+    "rating": 8.1
+  },
+  {
+    "title": "Final Fantasy VII: Advent Children",
+    "year": 2005,
+    "rating": 7.1
+  },
+  {
+    "title": "Monster House",
+    "year": 2006,
+    "rating": 6.7
+  },
+  {
+    "title": "Renaissance",
+    "year": 2006,
+    "rating": 6.6
+  },
+  {
+    "title": "Terkel in Trouble",
+    "year": 2004,
+    "rating": 7.1
+  },
+  {
+    "title": "Tokyo Godfathers",
+    "year": 2003,
+    "rating": 7.8
+  },
+  {
+    "title": "Bee Movie",
+    "year": 2007,
+    "rating": 6.1
+  },
+  {
+    "title": "Meet the Robinsons",
+    "year": 2007,
+    "rating": 6.8
+  },
+  {
+    "title": "Bolt",
+    "year": 2008,
+    "rating": 6.8
+  },
+  {
+    "title": "Tangled",
+    "year": 2010,
+    "rating": 7.7
+  },
+  {
+    "title": "Open Season",
+    "year": 2006,
+    "rating": 6.1
+  },
+  {
+    "title": "Appleseed",
+    "year": 2004,
+    "rating": 6.9
+  },
+  {
+    "title": "A Scanner Darkly",
+    "year": 2006,
+    "rating": 7
+  },
+  {
+    "title": "The Wild",
+    "year": 2006,
+    "rating": 5.2
+  },
+  {
+    "title": "Shrek the Third",
+    "year": 2007,
+    "rating": 6.1
+  },
+  {
+    "title": "Barnyard",
+    "year": 2006,
+    "rating": 5.6
+  },
+  {
+    "title": "The Tale of Despereaux",
+    "year": 2008,
+    "rating": 6.1
+  },
+  {
+    "title": "Surf's Up",
+    "year": 2007,
+    "rating": 6.7
+  },
+  {
+    "title": "Flushed Away",
+    "year": 2006,
+    "rating": 6.6
+  },
+  {
+    "title": "The Ant Bully",
+    "year": 2006,
+    "rating": 5.8
+  },
+  {
+    "title": "Everyone's Hero",
+    "year": 2006,
+    "rating": 5.7
+  },
+  {
+    "title": "Fantastic Mr. Fox",
+    "year": 2009,
+    "rating": 7.9
+  },
+  {
+    "title": "Toy Story 3",
+    "year": 2010,
+    "rating": 8.3
+  },
+  {
+    "title": "G-Force",
+    "year": 2009,
+    "rating": 5.1
+  },
+  {
+    "title": "Ice Age: The Meltdown",
+    "year": 2006,
+    "rating": 6.8
+  },
+  {
+    "title": "Kung Fu Panda",
+    "year": 2008,
+    "rating": 7.6
+  },
+  {
+    "title": "Beowulf",
+    "year": 2007,
+    "rating": 6.3
+  },
+  {
+    "title": "Hoodwinked",
+    "year": 2005,
+    "rating": 6.5
+  },
+  {
+    "title": "Puss in Boots",
+    "year": 2011,
+    "rating": 6.6
+  },
+  {
+    "title": "Horton Hears a Who!",
+    "year": 2008,
+    "rating": 6.8
+  },
+  {
+    "title": "Mind Game",
+    "year": 2004,
+    "rating": 7.7
+  },
+  {
+    "title": "TMNT",
+    "year": 2007,
+    "rating": 6.2
+  },
+  {
+    "title": "Aqua Teen Hunger Force Colon Movie Film for Theaters",
+    "year": 2007,
+    "rating": 6.7
+  },
+  {
+    "title": "Sin City: A Dame to Kill For",
+    "year": 2014,
+    "rating": 6.5
+  },
+  {
+    "title": "Enchanted",
+    "year": 2007,
+    "rating": 7.1
+  },
+  {
+    "title": "The Simpsons Movie",
+    "year": 2007,
+    "rating": 7.3
+  },
+  {
+    "title": "Igor",
+    "year": 2008,
+    "rating": 5.9
+  },
+  {
+    "title": "9",
+    "year": 2009,
+    "rating": 7
+  },
+  {
+    "title": "The Smurfs",
+    "year": 2011,
+    "rating": 5.4
+  },
+  {
+    "title": "Madagascar: Escape 2 Africa",
+    "year": 2008,
+    "rating": 6.7
+  },
+  {
+    "title": "The Croods",
+    "year": 2013,
+    "rating": 7.1
+  },
+  {
+    "title": "Space Chimps",
+    "year": 2008,
+    "rating": 4.5
+  },
+  {
+    "title": "Fullmetal Alchemist the Movie: Conqueror of Shamballa",
+    "year": 2005,
+    "rating": 7.3
+  },
+  {
+    "title": "The Secret of Kells",
+    "year": 2009,
+    "rating": 7.5
+  },
+  {
+    "title": "Tales from Earthsea",
+    "year": 2006,
+    "rating": 6.3
+  },
+  {
+    "title": "Planet 51",
+    "year": 2009,
+    "rating": 6
+  },
+  {
+    "title": "Escape from Planet Earth",
+    "year": 2013,
+    "rating": 5.8
+  },
+  {
+    "title": "The Illusionist",
+    "year": 2010,
+    "rating": 7.4
+  },
+  {
+    "title": "The Princess and the Frog",
+    "year": 2009,
+    "rating": 7.2
+  },
+  {
+    "title": "The Boxtrolls",
+    "year": 2014,
+    "rating": 6.8
+  },
+  {
+    "title": "Persepolis",
+    "year": 2007,
+    "rating": 8
+  },
+  {
+    "title": "The Girl Who Leapt Through Time",
+    "year": 2006,
+    "rating": 7.6
+  },
+  {
+    "title": "Tekkonkinkreet",
+    "year": 2006,
+    "rating": 7.5
+  },
+  {
+    "title": "Hotel Transylvania",
+    "year": 2012,
+    "rating": 7
+  },
+  {
+    "title": "Cloudy with a Chance of Meatballs",
+    "year": 2009,
+    "rating": 6.9
+  },
+  {
+    "title": "Hoodwinked Too! Hood vs. Evil",
+    "year": 2011,
+    "rating": 4.7
+  },
+  {
+    "title": "Epic",
+    "year": 2013,
+    "rating": 6.6
+  },
+  {
+    "title": "Paprika",
+    "year": 2006,
+    "rating": 7.7
+  },
+  {
+    "title": "Battle for Terra",
+    "year": 2007,
+    "rating": 6.5
+  },
+  {
+    "title": "Evangelion: 2.0 You Can (Not) Advance",
+    "year": 2009,
+    "rating": 7.9
+  },
+  {
+    "title": "Evangelion: 3.0 You Can (Not) Redo",
+    "year": 2012,
+    "rating": 6.9
+  },
+  {
+    "title": "Mr. Peabody & Sherman",
+    "year": 2014,
+    "rating": 6.8
+  },
+  {
+    "title": "Ponyo",
+    "year": 2008,
+    "rating": 7.6
+  },
+  {
+    "title": "How to Train Your Dragon",
+    "year": 2010,
+    "rating": 8.1
+  },
+  {
+    "title": "Monsters vs. Aliens",
+    "year": 2009,
+    "rating": 6.4
+  },
+  {
+    "title": "Shrek Forever After",
+    "year": 2010,
+    "rating": 6.3
+  },
+  {
+    "title": "WALL·E",
+    "year": 2008,
+    "rating": 8.4
+  },
+  {
+    "title": "Evangelion: 1.0 You Are (Not) Alone",
+    "year": 2007,
+    "rating": 7.5
+  },
+  {
+    "title": "Arthur 3: The War of the Two Worlds",
+    "year": 2010,
+    "rating": 5.5
+  },
+  {
+    "title": "Arthur and the Revenge of Maltazard",
+    "year": 2009,
+    "rating": 5.3
+  },
+  {
+    "title": "Dragon Hunters",
+    "year": 2008,
+    "rating": 6.5
+  },
+  {
+    "title": "Alvin and the Chipmunks",
+    "year": 2007,
+    "rating": 5.3
+  },
+  {
+    "title": "A Monster in Paris",
+    "year": 2011,
+    "rating": 6.7
+  },
+  {
+    "title": "Mary and Max",
+    "year": 2009,
+    "rating": 8.1
+  },
+  {
+    "title": "The Adventures of Tintin",
+    "year": 2011,
+    "rating": 7.3
+  },
+  {
+    "title": "5 Centimeters per Second",
+    "year": 2007,
+    "rating": 7.4
+  },
+  {
+    "title": "Megamind",
+    "year": 2010,
+    "rating": 7.3
+  },
+  {
+    "title": "Lightyear",
+    "year": 2022,
+    "rating": 6.1
+  },
+  {
+    "title": "Strange World",
+    "year": 2022,
+    "rating": 5.7
+  },
+  {
+    "title": "Appleseed: Ex Machina",
+    "year": 2007,
+    "rating": 7
+  },
+  {
+    "title": "Up",
+    "year": 2009,
+    "rating": 8.3
+  },
+  {
+    "title": "We Can Be Heroes",
+    "year": 2020,
+    "rating": 4.7
+  },
+  {
+    "title": "Ne Zha",
+    "year": 2019,
+    "rating": 7.3
+  },
+  {
+    "title": "A Christmas Carol",
+    "year": 2009,
+    "rating": 6.8
+  },
+  {
+    "title": "Entergalactic",
+    "year": 2022,
+    "rating": 7.4
+  },
+  {
+    "title": "Ice Age: Dawn of the Dinosaurs",
+    "year": 2009,
+    "rating": 6.9
+  },
+  {
+    "title": "Dog Man",
+    "year": 2025,
+    "rating": 6.3
+  },
+  {
+    "title": "Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train",
+    "year": 2020,
+    "rating": 8.2
+  },
+  {
+    "title": "Open Season 2",
+    "year": 2008,
+    "rating": 5.5
+  },
+  {
+    "title": "My Hero Academia: Heroes Rising",
+    "year": 2019,
+    "rating": 7.8
+  },
+  {
+    "title": "The Addams Family 2",
+    "year": 2021,
+    "rating": 5.4
+  },
+  {
+    "title": "IF",
+    "year": 2024,
+    "rating": 6.4
+  },
+  {
+    "title": "Sword of the Stranger",
+    "year": 2007,
+    "rating": 7.7
+  },
+  {
+    "title": "Wish",
+    "year": 2023,
+    "rating": 5.5
+  },
+  {
+    "title": "Frankenweenie",
+    "year": 2012,
+    "rating": 6.9
+  },
+  {
+    "title": "The Witcher: Nightmare of the Wolf",
+    "year": 2021,
+    "rating": 7.2
+  },
+  {
+    "title": "The House",
+    "year": 2022,
+    "rating": 6.8
+  },
+  {
+    "title": "Resident Evil: Degeneration",
+    "year": 2008,
+    "rating": 6.4
+  },
+  {
+    "title": "Waltz with Bashir",
+    "year": 2008,
+    "rating": 8
+  },
+  {
+    "title": "Star Wars: The Clone Wars",
+    "year": 2008,
+    "rating": 6
+  },
+  {
+    "title": "Rango",
+    "year": 2011,
+    "rating": 7.3
+  },
+  {
+    "title": "A Whisker Away",
+    "year": 2020,
+    "rating": 6.7
+  },
+  {
+    "title": "Alpha and Omega",
+    "year": 2010,
+    "rating": 5.1
+  },
+  {
+    "title": "Cars 2",
+    "year": 2011,
+    "rating": 6.2
+  },
+  {
+    "title": "Brave",
+    "year": 2012,
+    "rating": 7.1
+  },
+  {
+    "title": "Secret of the Wings",
+    "year": 2012,
+    "rating": 7
+  },
+  {
+    "title": "Legend of the Guardians: The Owls of Ga'Hoole",
+    "year": 2010,
+    "rating": 6.9
+  },
+  {
+    "title": "Alvin and the Chipmunks: The Squeakquel",
+    "year": 2009,
+    "rating": 4.6
+  },
+  {
+    "title": "Chico & Rita",
+    "year": 2009,
+    "rating": 7.2
+  },
+  {
+    "title": "Attack on Titan: Chronicle",
+    "year": 2020,
+    "rating": 8.4
+  },
+  {
+    "title": "Ghost in the Shell 2.0",
+    "year": 2008,
+    "rating": 7.8
+  },
+  {
+    "title": "Madagascar 3: Europe's Most Wanted",
+    "year": 2012,
+    "rating": 6.8
+  },
+  {
+    "title": "Luca",
+    "year": 2021,
+    "rating": 7.4
+  },
+  {
+    "title": "Josee, the Tiger and the Fish",
+    "year": 2020,
+    "rating": 7.6
+  },
+  {
+    "title": "Teenage Mutant Ninja Turtles",
+    "year": 2014,
+    "rating": 5.8
+  },
+  {
+    "title": "Kung Fu Panda 2",
+    "year": 2011,
+    "rating": 7.3
+  },
+  {
+    "title": "Yogi Bear",
+    "year": 2010,
+    "rating": 4.6
+  },
+  {
+    "title": "Mars Needs Moms",
+    "year": 2011,
+    "rating": 5.4
+  },
+  {
+    "title": "Mufasa: The Lion King",
+    "year": 2024,
+    "rating": 6.6
+  },
+  {
+    "title": "Despicable Me",
+    "year": 2010,
+    "rating": 7.6
+  },
+  {
+    "title": "Robot Dreams",
+    "year": 2023,
+    "rating": 7.6
+  },
+  {
+    "title": "Back to the Outback",
+    "year": 2021,
+    "rating": 6.5
+  },
+  {
+    "title": "Tom & Jerry",
+    "year": 2021,
+    "rating": 5.3
+  },
+  {
+    "title": "Moana 2",
+    "year": 2024,
+    "rating": 6.3
+  },
+  {
+    "title": "The Ice Age Adventures of Buck Wild",
+    "year": 2022,
+    "rating": 4.4
+  },
+  {
+    "title": "Belle",
+    "year": 2021,
+    "rating": 7
+  },
+  {
+    "title": "Justice Society: World War II",
+    "year": 2021,
+    "rating": 6.4
+  },
+  {
+    "title": "Dante's Inferno: An Animated Epic",
+    "year": 2010,
+    "rating": 6.5
+  },
+  {
+    "title": "Happy Feet Two",
+    "year": 2011,
+    "rating": 5.8
+  },
+  {
+    "title": "Hop",
+    "year": 2011,
+    "rating": 5.4
+  },
+  {
+    "title": "Beavis and Butt-Head Do the Universe",
+    "year": 2022,
+    "rating": 7
+  },
+  {
+    "title": "KPop Demon Hunters",
+    "year": 2025,
+    "rating": 7.4
+  },
+  {
+    "title": "Arthur Christmas",
+    "year": 2011,
+    "rating": 7.1
+  },
+  {
+    "title": "The Pirates! Band of Misfits",
+    "year": 2012,
+    "rating": 6.7
+  },
+  {
+    "title": "Batman: The Long Halloween, Part One",
+    "year": 2021,
+    "rating": 7.3
+  },
+  {
+    "title": "Jujutsu Kaisen 0",
+    "year": 2021,
+    "rating": 7.8
+  },
+  {
+    "title": "Trolls Band Together",
+    "year": 2023,
+    "rating": 6
+  },
+  {
+    "title": "Rio",
+    "year": 2011,
+    "rating": 6.9
+  },
+  {
+    "title": "Batman: The Long Halloween, Part Two",
+    "year": 2021,
+    "rating": 7.2
+  },
+  {
+    "title": "Rise of the Guardians",
+    "year": 2012,
+    "rating": 7.2
+  },
+  {
+    "title": "Winnie the Pooh",
+    "year": 2011,
+    "rating": 7.1
+  },
+  {
+    "title": "Monsters University",
+    "year": 2013,
+    "rating": 7.2
+  },
+  {
+    "title": "Dragon Ball Super: Super Hero",
+    "year": 2022,
+    "rating": 7.1
+  },
+  {
+    "title": "Summer Wars",
+    "year": 2009,
+    "rating": 7.4
+  },
+  {
+    "title": "The Lorax",
+    "year": 2012,
+    "rating": 6.4
+  },
+  {
+    "title": "The Lord of the Rings: The War of the Rohirrim",
+    "year": 2024,
+    "rating": 6.3
+  },
+  {
+    "title": "Redline",
+    "year": 2009,
+    "rating": 7.5
+  },
+  {
+    "title": "Stopmotion",
+    "year": 2023,
+    "rating": 5.6
+  },
+  {
+    "title": "That Christmas",
+    "year": 2024,
+    "rating": 6.8
+  },
+  {
+    "title": "Guillermo del Toro's Pinocchio",
+    "year": 2022,
+    "rating": 7.6
+  },
+  {
+    "title": "Demon Slayer: Kimetsu no Yaiba - Mt. Natagumo Arc",
+    "year": 2020,
+    "rating": 8.7
+  },
+  {
+    "title": "The Lego Movie",
+    "year": 2014,
+    "rating": 7.7
+  },
+  {
+    "title": "Mad God",
+    "year": 2021,
+    "rating": 6.8
+  },
+  {
+    "title": "The First Slam Dunk",
+    "year": 2022,
+    "rating": 8
+  },
+  {
+    "title": "Marcel the Shell with Shoes On",
+    "year": 2021,
+    "rating": 7.6
+  },
+  {
+    "title": "The Witcher: Sirens of the Deep",
+    "year": 2025,
+    "rating": 6.1
+  },
+  {
+    "title": "The Secret World of Arrietty",
+    "year": 2010,
+    "rating": 7.6
+  },
+  {
+    "title": "Elemental",
+    "year": 2023,
+    "rating": 7
+  },
+  {
+    "title": "Norm of the North",
+    "year": 2016,
+    "rating": 3.4
+  },
+  {
+    "title": "Disenchanted",
+    "year": 2022,
+    "rating": 5.6
+  },
+  {
+    "title": "Harold and the Purple Crayon",
+    "year": 2024,
+    "rating": 5.7
+  },
+  {
+    "title": "Alvin and the Chipmunks: Chipwrecked",
+    "year": 2011,
+    "rating": 4.4
+  },
+  {
+    "title": "Jupiter Ascending",
+    "year": 2015,
+    "rating": 5.3
+  },
+  {
+    "title": "One Piece Film: Red",
+    "year": 2022,
+    "rating": 6.7
+  },
+  {
+    "title": "The Addams Family",
+    "year": 2019,
+    "rating": 5.9
+  },
+  {
+    "title": "Free Birds",
+    "year": 2013,
+    "rating": 5.8
+  },
+  {
+    "title": "ParaNorman",
+    "year": 2012,
+    "rating": 7
+  },
+  {
+    "title": "Ronal the Barbarian",
+    "year": 2011,
+    "rating": 6.5
+  },
+  {
+    "title": "Avatar: The Way of Water",
+    "year": 2022,
+    "rating": 7.5
+  },
+  {
+    "title": "Underdogs",
+    "year": 2013,
+    "rating": 6.4
+  },
+  {
+    "title": "Suzume",
+    "year": 2022,
+    "rating": 7.6
+  },
+  {
+    "title": "Open Season 3",
+    "year": 2010,
+    "rating": 5
+  },
+  {
+    "title": "How to Train Your Dragon 2",
+    "year": 2014,
+    "rating": 7.8
+  },
+  {
+    "title": "Demon Slayer: Kimetsu no Yaiba - Tsuzumi Mansion Arc",
+    "year": 2021,
+    "rating": 8.4
+  },
+  {
+    "title": "Ice Age: Continental Drift",
+    "year": 2012,
+    "rating": 6.5
+  },
+  {
+    "title": "A Cat in Paris",
+    "year": 2010,
+    "rating": 6.9
+  },
+  {
+    "title": "Trolls",
+    "year": 2016,
+    "rating": 6.4
+  },
+  {
+    "title": "Despicable Me 2",
+    "year": 2013,
+    "rating": 7.3
+  },
+  {
+    "title": "Planes",
+    "year": 2013,
+    "rating": 5.7
+  },
+  {
+    "title": "Sausage Party",
+    "year": 2016,
+    "rating": 6.1
+  },
+  {
+    "title": "Tarzan",
+    "year": 2013,
+    "rating": 4.8
+  },
+  {
+    "title": "Wallace & Gromit: Vengeance Most Fowl",
+    "year": 2024,
+    "rating": 7.5
+  },
+  {
+    "title": "Resident Evil: Damnation",
+    "year": 2012,
+    "rating": 6.4
+  },
+  {
+    "title": "The Little Prince",
+    "year": 2015,
+    "rating": 7.6
+  },
+  {
+    "title": "Avatar: Fire and Ash",
+    "year": 2025,
+    "rating": 7.3
+  },
+  {
+    "title": "Walking with Dinosaurs 3D",
+    "year": 2013,
+    "rating": 5.2
+  },
+  {
+    "title": "Wreck-It Ralph",
+    "year": 2012,
+    "rating": 7.7
+  },
+  {
+    "title": "From Up on Poppy Hill",
+    "year": 2011,
+    "rating": 7.4
+  },
+  {
+    "title": "Ernest & Celestine",
+    "year": 2012,
+    "rating": 7.8
+  },
+  {
+    "title": "The Congress",
+    "year": 2013,
+    "rating": 6.4
+  },
+  {
+    "title": "The Nut Job",
+    "year": 2014,
+    "rating": 5.7
+  },
+  {
+    "title": "Children Who Chase Lost Voices",
+    "year": 2011,
+    "rating": 7.1
+  },
+  {
+    "title": "Turbo",
+    "year": 2013,
+    "rating": 6.4
+  },
+  {
+    "title": "Song of the Sea",
+    "year": 2014,
+    "rating": 8
+  },
+  {
+    "title": "Penguins of Madagascar",
+    "year": 2014,
+    "rating": 6.6
+  },
+  {
+    "title": "Nimona",
+    "year": 2023,
+    "rating": 7.5
+  },
+  {
+    "title": "Toy Story 4",
+    "year": 2019,
+    "rating": 7.6
+  },
+  {
+    "title": "The Good Dinosaur",
+    "year": 2015,
+    "rating": 6.7
+  },
+  {
+    "title": "The Remarkable Life of Ibelin",
+    "year": 2024,
+    "rating": 8.1
+  },
+  {
+    "title": "The Angry Birds Movie",
+    "year": 2016,
+    "rating": 6.3
+  },
+  {
+    "title": "Cloudy with a Chance of Meatballs 2",
+    "year": 2013,
+    "rating": 6.3
+  },
+  {
+    "title": "The Wind Rises",
+    "year": 2013,
+    "rating": 7.8
+  },
+  {
+    "title": "The Smurfs 2",
+    "year": 2013,
+    "rating": 5.3
+  },
+  {
+    "title": "To the Forest of Firefly Lights",
+    "year": 2011,
+    "rating": 7.8
+  },
+  {
+    "title": "Starship Troopers: Invasion",
+    "year": 2012,
+    "rating": 5.8
+  },
+  {
+    "title": "Captain Underpants: The First Epic Movie",
+    "year": 2017,
+    "rating": 6.2
+  },
+  {
+    "title": "Inside Out",
+    "year": 2015,
+    "rating": 8.1
+  },
+  {
+    "title": "Wolf Children",
+    "year": 2012,
+    "rating": 8.1
+  },
+  {
+    "title": "Kung Fu Panda 4",
+    "year": 2024,
+    "rating": 6.3
+  },
+  {
+    "title": "Inside Out 2",
+    "year": 2024,
+    "rating": 7.5
+  },
+  {
+    "title": "Berserk: The Golden Age Arc I - The Egg of the King",
+    "year": 2012,
+    "rating": 7.5
+  },
+  {
+    "title": "Home",
+    "year": 2015,
+    "rating": 6.5
+  },
+  {
+    "title": "Valerian and the City of a Thousand Planets",
+    "year": 2017,
+    "rating": 6.4
+  },
+  {
+    "title": "Big Hero 6",
+    "year": 2014,
+    "rating": 7.8
+  },
+  {
+    "title": "Leap!",
+    "year": 2016,
+    "rating": 6.8
+  },
+  {
+    "title": "The Book of Life",
+    "year": 2014,
+    "rating": 7.2
+  },
+  {
+    "title": "Dragon Ball Z: Battle of Gods",
+    "year": 2013,
+    "rating": 7.1
+  },
+  {
+    "title": "Kung Fu Panda 3",
+    "year": 2016,
+    "rating": 7.1
+  },
+  {
+    "title": "Finding Dory",
+    "year": 2016,
+    "rating": 7.2
+  },
+  {
+    "title": "The SpongeBob Movie: Sponge Out of Water",
+    "year": 2015,
+    "rating": 6
+  },
+  {
+    "title": "Minions",
+    "year": 2015,
+    "rating": 6.4
+  },
+  {
+    "title": "Frozen",
+    "year": 2013,
+    "rating": 7.4
+  },
+  {
+    "title": "Sherlock Gnomes",
+    "year": 2018,
+    "rating": 5.3
+  },
+  {
+    "title": "Mummies",
+    "year": 2023,
+    "rating": 5.9
+  },
+  {
+    "title": "My Life as a Zucchini",
+    "year": 2016,
+    "rating": 7.8
+  },
+  {
+    "title": "Rio 2",
+    "year": 2014,
+    "rating": 6.3
+  },
+  {
+    "title": "Berserk: The Golden Age Arc II - The Battle for Doldrey",
+    "year": 2012,
+    "rating": 7.7
+  },
+  {
+    "title": "Berserk: The Golden Age Arc III - The Advent",
+    "year": 2013,
+    "rating": 7.9
+  },
+  {
+    "title": "One Piece Film Z",
+    "year": 2012,
+    "rating": 7.7
+  },
+  {
+    "title": "Memoir of a Snail",
+    "year": 2024,
+    "rating": 7.8
+  },
+  {
+    "title": "Coco",
+    "year": 2017,
+    "rating": 8.4
+  },
+  {
+    "title": "How to Train Your Dragon: The Hidden World",
+    "year": 2019,
+    "rating": 7.4
+  },
+  {
+    "title": "Smurfs: The Lost Village",
+    "year": 2017,
+    "rating": 6
+  },
+  {
+    "title": "Anomalisa",
+    "year": 2015,
+    "rating": 7.2
+  },
+  {
+    "title": "The Peanuts Movie",
+    "year": 2015,
+    "rating": 7
+  },
+  {
+    "title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+    "year": 2021,
+    "rating": 8
+  },
+  {
+    "title": "Hotel Transylvania 2",
+    "year": 2015,
+    "rating": 6.6
+  },
+  {
+    "title": "The Tale of The Princess Kaguya",
+    "year": 2013,
+    "rating": 8
+  },
+  {
+    "title": "The Garden of Words",
+    "year": 2013,
+    "rating": 7.4
+  },
+  {
+    "title": "Zootopia 2",
+    "year": 2025,
+    "rating": 7.4
+  },
+  {
+    "title": "Hoppers",
+    "year": 2026,
+    "rating": 7.5
+  },
+  {
+    "title": "Demon Slayer: Kimetsu No Yaiba - To the Swordsmith Village",
+    "year": 2023,
+    "rating": 7.7
+  },
+  {
+    "title": "Resident Evil: Death Island",
+    "year": 2023,
+    "rating": 5.7
+  },
+  {
+    "title": "Harlock: Space Pirate",
+    "year": 2013,
+    "rating": 6.4
+  },
+  {
+    "title": "Mars Express",
+    "year": 2023,
+    "rating": 7.5
+  },
+  {
+    "title": "The Grinch",
+    "year": 2018,
+    "rating": 6.4
+  },
+  {
+    "title": "The Secret Life of Pets",
+    "year": 2016,
+    "rating": 6.5
+  },
+  {
+    "title": "Ruby Gillman: Teenage Kraken",
+    "year": 2023,
+    "rating": 5.7
+  },
+  {
+    "title": "GOAT",
+    "year": 2026,
+    "rating": 6.7
+  },
+  {
+    "title": "Orion and the Dark",
+    "year": 2024,
+    "rating": 6.3
+  },
+  {
+    "title": "The Croods: A New Age",
+    "year": 2020,
+    "rating": 6.9
+  },
+  {
+    "title": "The Super Mario Galaxy Movie",
+    "year": 2026,
+    "rating": 6.5
+  },
+  {
+    "title": "Ratchet & Clank",
+    "year": 2016,
+    "rating": 5.5
+  },
+  {
+    "title": "Shaun the Sheep Movie",
+    "year": 2015,
+    "rating": 7.3
+  },
+  {
+    "title": "Zootopia",
+    "year": 2016,
+    "rating": 8
+  },
+  {
+    "title": "Soul",
+    "year": 2020,
+    "rating": 8
+  },
+  {
+    "title": "Encanto",
+    "year": 2021,
+    "rating": 7.2
+  },
+  {
+    "title": "The Wild Robot",
+    "year": 2024,
+    "rating": 8.2
+  },
+  {
+    "title": "Steins;Gate: The Movie - Load Region of Déjà Vu",
+    "year": 2013,
+    "rating": 7.8
+  },
+  {
+    "title": "Planes: Fire & Rescue",
+    "year": 2014,
+    "rating": 5.9
+  },
+  {
+    "title": "Patema Inverted",
+    "year": 2013,
+    "rating": 7.3
+  },
+  {
+    "title": "The Bad Guys 2",
+    "year": 2025,
+    "rating": 7
+  },
+  {
+    "title": "The Lego Ninjago Movie",
+    "year": 2017,
+    "rating": 6.1
+  },
+  {
+    "title": "Demon Slayer: Kimetsu No Yaiba - To the Hashira Training",
+    "year": 2024,
+    "rating": 7.3
+  },
+  {
+    "title": "The Jungle Book",
+    "year": 2016,
+    "rating": 7.3
+  },
+  {
+    "title": "Chainsaw Man - The Movie: Reze Arc",
+    "year": 2025,
+    "rating": 8.3
+  },
+  {
+    "title": "Son of Batman",
+    "year": 2014,
+    "rating": 6.7
+  },
+  {
+    "title": "Scoob!",
+    "year": 2020,
+    "rating": 5.6
+  },
+  {
+    "title": "Look Back",
+    "year": 2024,
+    "rating": 7.8
+  },
+  {
+    "title": "Loving Vincent",
+    "year": 2017,
+    "rating": 7.8
+  },
+  {
+    "title": "Demon Slayer: Kimetsu No Yaiba Infinity Castle",
+    "year": 2025,
+    "rating": 8.4
+  },
+  {
+    "title": "Attack on Titan: The Last Attack",
+    "year": 2024,
+    "rating": 9.2
+  },
+  {
+    "title": "Stand by Me Doraemon",
+    "year": 2014,
+    "rating": 7.4
+  },
+  {
+    "title": "Solo Leveling: ReAwakening",
+    "year": 2024,
+    "rating": 8.7
+  },
+  {
+    "title": "When Marnie Was There",
+    "year": 2014,
+    "rating": 7.6
+  },
+  {
+    "title": "Ferdinand",
+    "year": 2017,
+    "rating": 6.7
+  },
+  {
+    "title": "Ice Age: Collision Course",
+    "year": 2016,
+    "rating": 5.7
+  },
+  {
+    "title": "Mahavatar Narsimha",
+    "year": 2024,
+    "rating": 8.5
+  },
+  {
+    "title": "Despicable Me 3",
+    "year": 2017,
+    "rating": 6.3
+  },
+  {
+    "title": "Sing",
+    "year": 2016,
+    "rating": 7.1
+  },
+  {
+    "title": "Ne Zha 2",
+    "year": 2025,
+    "rating": 7.9
+  },
+  {
+    "title": "The Lego Movie 2: The Second Part",
+    "year": 2019,
+    "rating": 6.5
+  },
+  {
+    "title": "Chip 'n Dale: Rescue Rangers",
+    "year": 2022,
+    "rating": 6.9
+  },
+  {
+    "title": "Moana",
+    "year": 2016,
+    "rating": 7.6
+  },
+  {
+    "title": "Space Jam: A New Legacy",
+    "year": 2021,
+    "rating": 4.5
+  },
+  {
+    "title": "Bilal: A New Breed of Hero",
+    "year": 2015,
+    "rating": 7.6
+  },
+  {
+    "title": "Cars 3",
+    "year": 2017,
+    "rating": 6.7
+  },
+  {
+    "title": "Incredibles 2",
+    "year": 2018,
+    "rating": 7.5
+  },
+  {
+    "title": "Predator: Killer of Killers",
+    "year": 2025,
+    "rating": 7.4
+  },
+  {
+    "title": "The Red Turtle",
+    "year": 2016,
+    "rating": 7.5
+  },
+  {
+    "title": "The Last: Naruto the Movie",
+    "year": 2014,
+    "rating": 7.6
+  },
+  {
+    "title": "Astérix: The Mansions of the Gods",
+    "year": 2014,
+    "rating": 6.9
+  },
+  {
+    "title": "Dragon Ball Z: Resurrection 'F'",
+    "year": 2015,
+    "rating": 7.1
+  },
+  {
+    "title": "Dumbo",
+    "year": 2019,
+    "rating": 6.2
+  },
+  {
+    "title": "The Boss Baby",
+    "year": 2017,
+    "rating": 6.3
+  },
+  {
+    "title": "The Breadwinner",
+    "year": 2017,
+    "rating": 7.7
+  },
+  {
+    "title": "Puss in Boots: The Last Wish",
+    "year": 2022,
+    "rating": 7.8
+  },
+  {
+    "title": "Teenage Mutant Ninja Turtles: Out of the Shadows",
+    "year": 2016,
+    "rating": 5.9
+  },
+  {
+    "title": "The Lego Batman Movie",
+    "year": 2017,
+    "rating": 7.3
+  },
+  {
+    "title": "Strange Magic",
+    "year": 2015,
+    "rating": 5.8
+  },
+  {
+    "title": "The Boy and the Beast",
+    "year": 2015,
+    "rating": 7.6
+  },
+  {
+    "title": "Kubo and the Two Strings",
+    "year": 2016,
+    "rating": 7.7
+  },
+  {
+    "title": "Frozen II",
+    "year": 2019,
+    "rating": 6.8
+  },
+  {
+    "title": "The Star",
+    "year": 2017,
+    "rating": 6.3
+  },
+  {
+    "title": "Pinocchio",
+    "year": 2022,
+    "rating": 5.1
+  },
+  {
+    "title": "Boruto: Naruto the Movie",
+    "year": 2015,
+    "rating": 7.7
+  },
+  {
+    "title": "Storks",
+    "year": 2016,
+    "rating": 6.8
+  },
+  {
+    "title": "Spider-Man: Into the Spider-Verse",
+    "year": 2018,
+    "rating": 8.4
+  },
+  {
+    "title": "Early Man",
+    "year": 2018,
+    "rating": 6.1
+  },
+  {
+    "title": "Klaus",
+    "year": 2019,
+    "rating": 8.2
+  }
+]
