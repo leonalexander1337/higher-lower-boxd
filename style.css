@@ -1,10 +1,10 @@
 /*General*/
 
 body {
-    margin: 0;
-    font-family: Arial, sans-serif;
     background: #0f172a;
     color: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
     text-align: center;
 }
 
@@ -19,48 +19,44 @@ body {
 /*Game*/
 
 #game {
-    display: flex;
-    justify-content: center;
     align-items: center;
-    gap: 40px;
-    margin-top: 40px;
+    display: flex;
+    gap: 2%;
+    justify-content: center;
+    margin-top: 2%;
 }
 
 /*Card*/
 
 .card {
     background: #1e293b;
-    padding: 10px;
     border-radius: 16px;
-    width: 440px;
-    box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+    padding: 2%;
+    width: 600px;
+    
+    /*box-shadow: 0 10px 25px rgba(0,0,0,0.3);*/
 }
 
 .poster {
-    width: 100%;
-    height: 600px;
     background-color: #334155;
-    background-size: cover;
     background-position: center;
-    border-radius: 12px;
-    margin-bottom: 15px;
+    background-size: cover;
+    border-radius: 16px;
+    height: 900px;
+    width: 100%;
 }
 
 /*Controls*/
 
-#buttons {
-    margin-top: 30px;
-}
-
 button {
-    padding: 12px 24px;
-    margin: 10px;
-    border: none;
-    border-radius: 10px;
-    font-size: 1rem;
-    cursor: pointer;
     background: #f97316;
+    border: none;
+    border-radius: 16px;
     color: white;
+    cursor: pointer;
+    font-size: 1.5rem;
+    margin: 3%;
+    padding: 12px 24px;
     transition: 0.2s;
 }
 
@@ -70,42 +66,75 @@ button:hover {
 
 /*Text*/
 
-#vs {
-    font-size: 2rem;
-    font-weight: bold;
-}
-
 #score {
     font-size: 1.5rem;
-    margin: 20px;
+    margin: 2%;
 }
 
-/*Sidebar*/
+/*Sidebars*/
 
-#sidebar {
-    width: 400px;
+.sidebar {
     background: #020617;
-    padding: 20px;
-    height: 100vh;
     box-sizing: border-box;
-    border-right: 1px solid #1e293b;
+    height: 100vh;
+    padding: 1%;
+    width: 15vw;
 }
 
-#sidebar h2 {
-    margin-bottom: 20px;
+.sidebar h2 {
+    margin-bottom: 10%;
 }
 
-#sidebar button {
-    display: block;
-    width: 100%;
-    margin-bottom: 10px;
+.sidebar button {
     background: #1e293b;
+    display: block;
+    margin: 5% 0% 5% 0%;
+    width: 100%;
 }
 
-#sidebar button:hover {
+.sidebar button:hover {
     background: #f97316;
 }
 
-#sidebar button.active {
-    background: #f97316;
+/*Mobile*/
+
+@media (max-width: 1000px) {
+
+    /*General*/
+
+    #app {
+        flex-direction: column;
+    }
+
+    /*Game*/
+
+    #game {
+        flex-direction: column;
+    }
+
+    /*Card*/
+
+    .card {
+        width: 450px;
+    }
+
+    .poster {
+        height: 675px;
+    }
+
+    /*Controls*/
+
+    #buttons {
+        display: flex;
+        flex-direction: column;
+        margin: 2% 0% 2% 0%;
+    }
+
+    /*Text*/
+
+    /*Sidebars*/
+
+    .sidebar {
+        display: none;
+    }
 }
