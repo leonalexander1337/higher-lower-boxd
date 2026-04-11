@@ -69,7 +69,7 @@ function setMode(mode, el) {
     currentMode = mode;
     score = 0;
 
-    document.querySelectorAll("#sidebar button").forEach(b =>
+    document.querySelectorAll("#sidebar-left button").forEach(b =>
         b.classList.remove("active")
     );
 
