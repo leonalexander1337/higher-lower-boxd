@@ -144,8 +144,7 @@ async function render() {
     const posterB = await fetchPoster(next.title, next.year);
 
     document.getElementById("movieA").innerHTML = `
-        <div class="card">
-            <div class="poster" style="background-image:url('${posterA || ""}')"></div>
+        <div class="card" style="background-image:url('${posterA || ""}');background-size:cover;">
             <h2>${current.title}</h2>
             <p>${current.year}</p>
             <p>⭐ ${current.rating}</p>
@@ -153,8 +152,7 @@ async function render() {
     `;
 
     document.getElementById("movieB").innerHTML = `
-        <div class="card">
-            <div class="poster" style="background-image:url('${posterB || ""}')"></div>
+        <div class="card" style="background-image:url('${posterB || ""}');background-size:cover;">
             <h2>${next.title}</h2>
             <p>${next.year}</p>
             <p>⭐ ?.?</p>
@@ -162,7 +160,10 @@ async function render() {
     `;
 
     document.getElementById("score").innerText =
-        `Score: ${score} | Highscore: ${highScore}`;
+        `Score: ${score}`;
+
+    document.getElementById("highscore").innerText =
+        `Highscore: ${highScore}`;
 }
 
 // =====================

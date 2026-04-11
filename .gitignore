@@ -11,6 +11,9 @@ node_modules/
 .DS_Store
 Thumbs.db
 
+# temporary
+temp.*
+
 # project
 package.json
 package-lock.json

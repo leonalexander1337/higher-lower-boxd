@@ -10,65 +10,8 @@ body {
 
 #app {
     display: flex;
-}
-
-#main {
-    flex: 1;
-}
-
-/*Game*/
-
-#game {
-    align-items: center;
-    display: flex;
-    gap: 2%;
-    justify-content: center;
-    margin-top: 2%;
-}
-
-/*Card*/
-
-.card {
-    background: #1e293b;
-    border-radius: 16px;
-    padding: 2%;
-    width: 600px;
-    
-    /*box-shadow: 0 10px 25px rgba(0,0,0,0.3);*/
-}
-
-.poster {
-    background-color: #334155;
-    background-position: center;
-    background-size: cover;
-    border-radius: 16px;
-    height: 900px;
-    width: 100%;
-}
-
-/*Controls*/
-
-button {
-    background: #f97316;
-    border: none;
-    border-radius: 16px;
-    color: white;
-    cursor: pointer;
-    font-size: 1.5rem;
-    margin: 3%;
-    padding: 12px 24px;
-    transition: 0.2s;
-}
-
-button:hover {
-    background: #ea580c;
-}
-
-/*Text*/
-
-#score {
-    font-size: 1.5rem;
-    margin: 2%;
+    height: 100vh;
+    width: 100vw;
 }
 
 /*Sidebars*/
@@ -76,18 +19,28 @@ button:hover {
 .sidebar {
     background: #020617;
     box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
     height: 100vh;
     padding: 1%;
-    width: 15vw;
+    width: 12.5vw;
+    z-index: 100;
 }
 
 .sidebar h2 {
     margin-bottom: 10%;
 }
 
+.sidebar p {
+    font-size: 1.1rem;
+    margin: 0% 0% 5% 0%;
+}
+
 .sidebar button {
     background: #1e293b;
     display: block;
+    font-size: 1.1rem;
+    font-weight: bold;
     margin: 5% 0% 5% 0%;
     width: 100%;
 }
@@ -96,45 +49,127 @@ button:hover {
     background: #f97316;
 }
 
-/*Mobile*/
-
-@media (max-width: 1000px) {
-
-    /*General*/
-
-    #app {
-        flex-direction: column;
-    }
-
-    /*Game*/
-
-    #game {
-        flex-direction: column;
-    }
-
-    /*Card*/
-
-    .card {
-        width: 450px;
-    }
-
-    .poster {
-        height: 675px;
-    }
-
-    /*Controls*/
-
-    #buttons {
-        display: flex;
-        flex-direction: column;
-        margin: 2% 0% 2% 0%;
-    }
-
-    /*Text*/
-
-    /*Sidebars*/
-
-    .sidebar {
-        display: none;
-    }
+.sidebar button.active {
+    background: #1e3a5f;
 }
+
+/*                             TODO button keeps active color*/
+
+#score, #highscore {
+    font-size: 1.9rem;
+    font-weight: bold;
+    margin: 5% 0% 0% 0%;
+}
+
+/*Mobile Header*/
+
+.mobile-header {
+    display: none;
+}
+
+/*Game*/
+
+#main {
+    flex: 1;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+#game {
+    display: flex;
+    /*gap: 2%;*/
+    height: 100%;
+    /*margin-top: 2%;*/
+    position: relative;
+    width: 100%;
+}
+
+/*Card*/
+
+#movieA, #movieB {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+.card {
+    align-items: center;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    height: 100%;
+    justify-content: center;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+}
+
+.card::after {
+    background: rgb(0, 0, 0);
+    content: "";
+    height: 100%;
+    left: 0;
+    opacity: 0.6;
+    position: absolute;
+    top: 0;
+    transition: opacity 0.3s;
+    width: 100%;
+    z-index: 2;
+}
+
+.card h2, .card p {
+    padding: 2% 10% 2% 10%;
+    position: relative;
+    z-index: 3;
+}
+
+.card h2 {
+    font-size: 3.5rem;
+    margin: 0;
+}
+
+.card p {
+    font-size: 2.5rem;
+    margin: 0;
+}
+
+/*Controls*/
+
+#buttons {
+    display: flex;
+    flex-direction: column;
+    left: 49.5%;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 10;
+}
+
+button {
+    background: #f97316;
+    border: none;
+    border-radius: 12px;
+    color: white;
+    cursor: pointer;
+    font-size: 1.4rem;
+    font-weight: bold;
+    margin: 3%;
+    min-width: 6vw;
+    padding: 10% 10%;
+    transition: 0.2s;
+}
+
+button:hover {
+    background: #ea580c;
+}
+
+/*Images*/
+
+.tmdb-logo {
+    align-self: center;
+    margin: 10% 0% 0% 0%;
+    width: 80%;
+}
+
+/*Mobile*/

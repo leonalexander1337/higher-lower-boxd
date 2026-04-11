@@ -14,11 +14,15 @@
             <button onclick="setMode('action', this)">Action</button>
             <button onclick="setMode('animation', this)">Animation</button>
             <button onclick="setMode('horror', this)">Horror</button>
+            <div id="score">Score: 0</div>
+            <div id="highscore">Highscore: 0</div>
         </div>
 
         <div id="main">
-            <div id="score">Score: 0 | Highscore: 0</div>
-
+            <div class="mobile-header">
+                <span class="hamburger">☰</span> Modes
+            </div>
+            
             <div id="game">
                 <div id="movieA"></div>
                 <div id="buttons">
@@ -31,7 +35,10 @@
 
         <div id="sidebar-right" class="sidebar">
             <h2>About</h2>
-            <p>Guess which movie has a higher box office gross. Select a mode to start playing!</p>
+            <p>Guess which movie has a higher IMDB rating. Start playing with all movies or select a genre mode!</p>
+            <p>Data from <a href="https://datasets.imdbws.com/" target="_blank" rel="noopener noreferrer">IMDB</a>.</p>
+            <p>Posters through <a href="https://www.themoviedb.org" target="_blank" rel="noopener noreferrer">TMDB</a> API.</p>
+            <img src="data/tmdb_logo.svg" alt="TMDB Logo" class="tmdb-logo">
         </div>
 
     </div>
