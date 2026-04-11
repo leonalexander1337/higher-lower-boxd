@@ -200,8 +200,13 @@ button:hover {
         z-index: 100;
     }
 
+    .mobile-header h2 {
+        font-size: 1.8rem;
+        margin: 0;
+    }
+
     .mobile-header p {
-        font-size: 2rem;
+        font-size: 1rem;
         right: 2%;
         position: absolute;
     }
@@ -220,21 +225,32 @@ button:hover {
         flex-direction: column;
     }
 
+    #score {
+        font-size: 1.1rem;
+        top: 8%;
+    }
+
+    #highscore {
+        font-size: 1.1rem;
+        top: 11%;
+    }
+
     #movieA, #movieB {
         width: 100%;
         height: 50vh;
     }
 
-    #score {
-        top: 8%;
+    .card h2 {
+        font-size: 1.7rem;
     }
 
-    #highscore {
-        top: 11%;
+    .card p {
+        font-size: 1.25rem;
+        margin: 0;
     }
 
     button {
-        font-size: 1.8rem;
+        font-size: 0.9rem;
         height: 3.5vh;
         padding: 4% 8%;
         width: 25vw;
