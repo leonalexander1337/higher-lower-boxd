@@ -11,10 +11,33 @@
 
         <div id="sidebar-left" class="sidebar">
             <h2>Modes</h2>
-            <button onclick="setMode('movies', this)">All</button>
-            <button onclick="setMode('action', this)">Action</button>
-            <button onclick="setMode('animation', this)">Animation</button>
-            <button onclick="setMode('horror', this)">Horror</button>
+            <div class="mode-buttons">
+                <button onclick="setMode('movies', this)">All</button>
+                <button onclick="setMode('action', this)">Action</button>
+                <button onclick="setMode('animation', this)">Animation</button>
+                <button onclick="setMode('comedy', this)">Comedy</button>
+                <button onclick="setMode('crime', this)">Crime</button>
+                <button onclick="setMode('drama', this)">Drama</button>
+                <button onclick="setMode('horror', this)">Horror</button>
+                <button onclick="setMode('romance', this)">Romance</button>
+                <button onclick="setMode('scifi', this)">Sci-Fi</button>
+                <button onclick="setMode('thriller', this)">Thriller</button>  
+                <button onclick="setMode('western', this)">Western</button>
+            </div>
+            <div class="slider-section">
+                <h3>Year Range</h3>
+                <div id="year-slider-container">
+                    <div id="slider-track">
+                        <div id="slider-range"></div>
+                        <div id="thumb-min" class="thumb"></div>
+                        <div id="thumb-max" class="thumb"></div>
+                    </div>
+                    <div class="slider-labels">
+                        <span id="slider-label-min">1920s</span>
+                        <span id="slider-label-max">2020s</span>
+                    </div>
+                </div>
+            </div>
         </div>
 
         <div id="main">

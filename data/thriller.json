@@ -1,0 +1,2502 @@
+[
+  {
+    "title": "The Cabinet of Dr. Caligari",
+    "year": 1920,
+    "rating": 8
+  },
+  {
+    "title": "Our Hospitality",
+    "year": 1923,
+    "rating": 7.7
+  },
+  {
+    "title": "Battleship Potemkin",
+    "year": 1925,
+    "rating": 7.9
+  },
+  {
+    "title": "Greed",
+    "year": 1924,
+    "rating": 8
+  },
+  {
+    "title": "M",
+    "year": 1931,
+    "rating": 8.3
+  },
+  {
+    "title": "The Testament of Dr. Mabuse",
+    "year": 1933,
+    "rating": 7.9
+  },
+  {
+    "title": "The 39 Steps",
+    "year": 1935,
+    "rating": 7.6
+  },
+  {
+    "title": "The Petrified Forest",
+    "year": 1936,
+    "rating": 7.5
+  },
+  {
+    "title": "Sabotage",
+    "year": 1936,
+    "rating": 7
+  },
+  {
+    "title": "The Hound of the Baskervilles",
+    "year": 1939,
+    "rating": 7.4
+  },
+  {
+    "title": "The Roaring Twenties",
+    "year": 1939,
+    "rating": 7.9
+  },
+  {
+    "title": "Cat People",
+    "year": 1942,
+    "rating": 7.2
+  },
+  {
+    "title": "Saboteur",
+    "year": 1942,
+    "rating": 7.1
+  },
+  {
+    "title": "Arsenic and Old Lace",
+    "year": 1944,
+    "rating": 7.9
+  },
+  {
+    "title": "The Body Snatcher",
+    "year": 1945,
+    "rating": 7.3
+  },
+  {
+    "title": "Rome, Open City",
+    "year": 1945,
+    "rating": 8
+  },
+  {
+    "title": "Dark Passage",
+    "year": 1947,
+    "rating": 7.5
+  },
+  {
+    "title": "Stage Fright",
+    "year": 1950,
+    "rating": 7
+  },
+  {
+    "title": "When Worlds Collide",
+    "year": 1951,
+    "rating": 6.6
+  },
+  {
+    "title": "High Noon",
+    "year": 1952,
+    "rating": 7.9
+  },
+  {
+    "title": "The Naked Spur",
+    "year": 1953,
+    "rating": 7.3
+  },
+  {
+    "title": "Fear and Desire",
+    "year": 1952,
+    "rating": 5.3
+  },
+  {
+    "title": "I Confess",
+    "year": 1953,
+    "rating": 7.2
+  },
+  {
+    "title": "Niagara",
+    "year": 1953,
+    "rating": 7
+  },
+  {
+    "title": "The Wages of Fear",
+    "year": 1953,
+    "rating": 8.1
+  },
+  {
+    "title": "The War of the Worlds",
+    "year": 1953,
+    "rating": 7
+  },
+  {
+    "title": "On the Waterfront",
+    "year": 1954,
+    "rating": 8.1
+  },
+  {
+    "title": "Rear Window",
+    "year": 1954,
+    "rating": 8.5
+  },
+  {
+    "title": "Bob le Flambeur",
+    "year": 1956,
+    "rating": 7.5
+  },
+  {
+    "title": "Rififi",
+    "year": 1955,
+    "rating": 8.1
+  },
+  {
+    "title": "The Night of the Hunter",
+    "year": 1955,
+    "rating": 8
+  },
+  {
+    "title": "The Bad Seed",
+    "year": 1956,
+    "rating": 7.4
+  },
+  {
+    "title": "A Man Escaped",
+    "year": 1956,
+    "rating": 8.1
+  },
+  {
+    "title": "3:10 to Yuma",
+    "year": 1957,
+    "rating": 7.6
+  },
+  {
+    "title": "The Curse of Frankenstein",
+    "year": 1957,
+    "rating": 7
+  },
+  {
+    "title": "Elevator to the Gallows",
+    "year": 1958,
+    "rating": 7.9
+  },
+  {
+    "title": "Vertigo",
+    "year": 1958,
+    "rating": 8.2
+  },
+  {
+    "title": "Suddenly, Last Summer",
+    "year": 1959,
+    "rating": 7.4
+  },
+  {
+    "title": "Peeping Tom",
+    "year": 1960,
+    "rating": 7.6
+  },
+  {
+    "title": "Purple Noon",
+    "year": 1960,
+    "rating": 7.7
+  },
+  {
+    "title": "Shoot the Piano Player",
+    "year": 1960,
+    "rating": 7.4
+  },
+  {
+    "title": "Le trou",
+    "year": 1960,
+    "rating": 8.5
+  },
+  {
+    "title": "The Bad Sleep Well",
+    "year": 1960,
+    "rating": 7.9
+  },
+  {
+    "title": "Le Doulos",
+    "year": 1962,
+    "rating": 7.7
+  },
+  {
+    "title": "Yojimbo",
+    "year": 1961,
+    "rating": 8.2
+  },
+  {
+    "title": "Cape Fear",
+    "year": 1962,
+    "rating": 7.7
+  },
+  {
+    "title": "Dr. No",
+    "year": 1962,
+    "rating": 7.2
+  },
+  {
+    "title": "The Manchurian Candidate",
+    "year": 1962,
+    "rating": 7.9
+  },
+  {
+    "title": "Knife in the Water",
+    "year": 1962,
+    "rating": 7.4
+  },
+  {
+    "title": "Sanjuro",
+    "year": 1962,
+    "rating": 8
+  },
+  {
+    "title": "What Ever Happened to Baby Jane?",
+    "year": 1962,
+    "rating": 8
+  },
+  {
+    "title": "Dementia 13",
+    "year": 1963,
+    "rating": 5.7
+  },
+  {
+    "title": "From Russia with Love",
+    "year": 1963,
+    "rating": 7.3
+  },
+  {
+    "title": "The Great Escape",
+    "year": 1963,
+    "rating": 8.2
+  },
+  {
+    "title": "Lord of the Flies",
+    "year": 1963,
+    "rating": 6.8
+  },
+  {
+    "title": "The Trial",
+    "year": 1962,
+    "rating": 7.6
+  },
+  {
+    "title": "Shock Corridor",
+    "year": 1963,
+    "rating": 7.3
+  },
+  {
+    "title": "Fail Safe",
+    "year": 1964,
+    "rating": 8.1
+  },
+  {
+    "title": "Goldfinger",
+    "year": 1964,
+    "rating": 7.7
+  },
+  {
+    "title": "Onibaba",
+    "year": 1964,
+    "rating": 7.8
+  },
+  {
+    "title": "Seven Days in May",
+    "year": 1964,
+    "rating": 7.8
+  },
+  {
+    "title": "Woman in the Dunes",
+    "year": 1964,
+    "rating": 8.4
+  },
+  {
+    "title": "Bunny Lake Is Missing",
+    "year": 1965,
+    "rating": 7.3
+  },
+  {
+    "title": "The Collector",
+    "year": 1965,
+    "rating": 7.5
+  },
+  {
+    "title": "The Ipcress File",
+    "year": 1965,
+    "rating": 7.2
+  },
+  {
+    "title": "Repulsion",
+    "year": 1965,
+    "rating": 7.5
+  },
+  {
+    "title": "The Spy Who Came in from the Cold",
+    "year": 1965,
+    "rating": 7.5
+  },
+  {
+    "title": "Thunderball",
+    "year": 1965,
+    "rating": 6.9
+  },
+  {
+    "title": "The Train",
+    "year": 1964,
+    "rating": 7.8
+  },
+  {
+    "title": "Blow-Up",
+    "year": 1966,
+    "rating": 7.4
+  },
+  {
+    "title": "The Chase",
+    "year": 1966,
+    "rating": 7.1
+  },
+  {
+    "title": "Cul-de-sac",
+    "year": 1966,
+    "rating": 7
+  },
+  {
+    "title": "The Sword of Doom",
+    "year": 1966,
+    "rating": 7.9
+  },
+  {
+    "title": "Persona",
+    "year": 1966,
+    "rating": 8
+  },
+  {
+    "title": "Seconds",
+    "year": 1966,
+    "rating": 7.6
+  },
+  {
+    "title": "The Face of Another",
+    "year": 1966,
+    "rating": 7.8
+  },
+  {
+    "title": "Torn Curtain",
+    "year": 1966,
+    "rating": 6.6
+  },
+  {
+    "title": "In the Heat of the Night",
+    "year": 1967,
+    "rating": 7.9
+  },
+  {
+    "title": "Point Blank",
+    "year": 1967,
+    "rating": 7.2
+  },
+  {
+    "title": "Le Samouraï",
+    "year": 1967,
+    "rating": 8
+  },
+  {
+    "title": "Wait Until Dark",
+    "year": 1967,
+    "rating": 7.7
+  },
+  {
+    "title": "You Only Live Twice",
+    "year": 1967,
+    "rating": 6.8
+  },
+  {
+    "title": "Bullitt",
+    "year": 1968,
+    "rating": 7.4
+  },
+  {
+    "title": "Coogan's Bluff",
+    "year": 1968,
+    "rating": 6.4
+  },
+  {
+    "title": "Ice Station Zebra",
+    "year": 1968,
+    "rating": 6.6
+  },
+  {
+    "title": "Night of the Living Dead",
+    "year": 1968,
+    "rating": 7.8
+  },
+  {
+    "title": "Targets",
+    "year": 1968,
+    "rating": 7.3
+  },
+  {
+    "title": "The Butcher",
+    "year": 1970,
+    "rating": 7.3
+  },
+  {
+    "title": "Colossus: The Forbin Project",
+    "year": 1970,
+    "rating": 7.1
+  },
+  {
+    "title": "On Her Majesty's Secret Service",
+    "year": 1969,
+    "rating": 6.7
+  },
+  {
+    "title": "Topaz",
+    "year": 1969,
+    "rating": 6.2
+  },
+  {
+    "title": "Z",
+    "year": 1969,
+    "rating": 8.1
+  },
+  {
+    "title": "Airport",
+    "year": 1970,
+    "rating": 6.6
+  },
+  {
+    "title": "Le cercle rouge",
+    "year": 1970,
+    "rating": 7.9
+  },
+  {
+    "title": "The Cat o' Nine Tails",
+    "year": 1971,
+    "rating": 6.6
+  },
+  {
+    "title": "Gimme Shelter",
+    "year": 1970,
+    "rating": 7.8
+  },
+  {
+    "title": "THX 1138",
+    "year": 1971,
+    "rating": 6.6
+  },
+  {
+    "title": "Four Flies on Grey Velvet",
+    "year": 1971,
+    "rating": 6.5
+  },
+  {
+    "title": "The Anderson Tapes",
+    "year": 1971,
+    "rating": 6.4
+  },
+  {
+    "title": "The Andromeda Strain",
+    "year": 1971,
+    "rating": 7.2
+  },
+  {
+    "title": "The Beguiled",
+    "year": 1971,
+    "rating": 7.1
+  },
+  {
+    "title": "Diamonds Are Forever",
+    "year": 1971,
+    "rating": 6.5
+  },
+  {
+    "title": "Dirty Harry",
+    "year": 1971,
+    "rating": 7.7
+  },
+  {
+    "title": "Get Carter",
+    "year": 1971,
+    "rating": 7.3
+  },
+  {
+    "title": "Klute",
+    "year": 1971,
+    "rating": 7.1
+  },
+  {
+    "title": "Wake in Fright",
+    "year": 1971,
+    "rating": 7.5
+  },
+  {
+    "title": "Play Misty for Me",
+    "year": 1971,
+    "rating": 6.9
+  },
+  {
+    "title": "A Bay of Blood",
+    "year": 1971,
+    "rating": 6.5
+  },
+  {
+    "title": "Shaft",
+    "year": 1971,
+    "rating": 6.6
+  },
+  {
+    "title": "Straw Dogs",
+    "year": 1971,
+    "rating": 7.4
+  },
+  {
+    "title": "A Cop",
+    "year": 1972,
+    "rating": 7
+  },
+  {
+    "title": "Vanishing Point",
+    "year": 1971,
+    "rating": 7.2
+  },
+  {
+    "title": "Deliverance",
+    "year": 1972,
+    "rating": 7.6
+  },
+  {
+    "title": "Frenzy",
+    "year": 1972,
+    "rating": 7.4
+  },
+  {
+    "title": "The Getaway",
+    "year": 1972,
+    "rating": 7.3
+  },
+  {
+    "title": "The Last House on the Left",
+    "year": 1972,
+    "rating": 5.8
+  },
+  {
+    "title": "The Mechanic",
+    "year": 1972,
+    "rating": 6.8
+  },
+  {
+    "title": "Don't Torture a Duckling",
+    "year": 1972,
+    "rating": 7
+  },
+  {
+    "title": "Sleuth",
+    "year": 1972,
+    "rating": 7.9
+  },
+  {
+    "title": "Charley Varrick",
+    "year": 1973,
+    "rating": 7.5
+  },
+  {
+    "title": "Coffy",
+    "year": 1973,
+    "rating": 6.8
+  },
+  {
+    "title": "The Day of the Jackal",
+    "year": 1973,
+    "rating": 7.8
+  },
+  {
+    "title": "Enter the Dragon",
+    "year": 1973,
+    "rating": 7.6
+  },
+  {
+    "title": "Live and Let Die",
+    "year": 1973,
+    "rating": 6.7
+  },
+  {
+    "title": "Mean Streets",
+    "year": 1973,
+    "rating": 7.2
+  },
+  {
+    "title": "Phase IV",
+    "year": 1974,
+    "rating": 6.4
+  },
+  {
+    "title": "Sisters",
+    "year": 1972,
+    "rating": 6.8
+  },
+  {
+    "title": "The Wicker Man",
+    "year": 1973,
+    "rating": 7.5
+  },
+  {
+    "title": "Airport 1975",
+    "year": 1974,
+    "rating": 5.8
+  },
+  {
+    "title": "Black Christmas",
+    "year": 1974,
+    "rating": 7.1
+  },
+  {
+    "title": "Chinatown",
+    "year": 1974,
+    "rating": 8.1
+  },
+  {
+    "title": "The Conversation",
+    "year": 1974,
+    "rating": 7.7
+  },
+  {
+    "title": "Earthquake",
+    "year": 1974,
+    "rating": 6
+  },
+  {
+    "title": "Foxy Brown",
+    "year": 1974,
+    "rating": 6.5
+  },
+  {
+    "title": "The Man with the Golden Gun",
+    "year": 1974,
+    "rating": 6.7
+  },
+  {
+    "title": "The Odessa File",
+    "year": 1974,
+    "rating": 7
+  },
+  {
+    "title": "The Parallax View",
+    "year": 1974,
+    "rating": 7.1
+  },
+  {
+    "title": "The Taking of Pelham One Two Three",
+    "year": 1974,
+    "rating": 7.6
+  },
+  {
+    "title": "The Towering Inferno",
+    "year": 1974,
+    "rating": 7
+  },
+  {
+    "title": "The Eiger Sanction",
+    "year": 1975,
+    "rating": 6.4
+  },
+  {
+    "title": "The Passenger",
+    "year": 1975,
+    "rating": 7.4
+  },
+  {
+    "title": "Deep Red",
+    "year": 1975,
+    "rating": 7.5
+  },
+  {
+    "title": "Three Days of the Condor",
+    "year": 1975,
+    "rating": 7.4
+  },
+  {
+    "title": "All the President's Men",
+    "year": 1976,
+    "rating": 7.9
+  },
+  {
+    "title": "Assault on Precinct 13",
+    "year": 1976,
+    "rating": 7.3
+  },
+  {
+    "title": "Burnt Offerings",
+    "year": 1976,
+    "rating": 6.4
+  },
+  {
+    "title": "The Cassandra Crossing",
+    "year": 1976,
+    "rating": 6.3
+  },
+  {
+    "title": "The Eagle Has Landed",
+    "year": 1976,
+    "rating": 6.9
+  },
+  {
+    "title": "The Enforcer",
+    "year": 1976,
+    "rating": 6.7
+  },
+  {
+    "title": "Futureworld",
+    "year": 1976,
+    "rating": 5.7
+  },
+  {
+    "title": "The Killing of a Chinese Bookie",
+    "year": 1976,
+    "rating": 7.2
+  },
+  {
+    "title": "The Tenant",
+    "year": 1976,
+    "rating": 7.5
+  },
+  {
+    "title": "Marathon Man",
+    "year": 1976,
+    "rating": 7.4
+  },
+  {
+    "title": "Obsession",
+    "year": 1976,
+    "rating": 6.7
+  },
+  {
+    "title": "3 Women",
+    "year": 1977,
+    "rating": 7.7
+  },
+  {
+    "title": "Airport '77",
+    "year": 1977,
+    "rating": 5.8
+  },
+  {
+    "title": "The Deep",
+    "year": 1977,
+    "rating": 6.3
+  },
+  {
+    "title": "The Gauntlet",
+    "year": 1977,
+    "rating": 6.4
+  },
+  {
+    "title": "High Anxiety",
+    "year": 1977,
+    "rating": 6.6
+  },
+  {
+    "title": "Rolling Thunder",
+    "year": 1977,
+    "rating": 6.9
+  },
+  {
+    "title": "Soldier of Orange",
+    "year": 1977,
+    "rating": 7.6
+  },
+  {
+    "title": "Sorcerer",
+    "year": 1977,
+    "rating": 7.7
+  },
+  {
+    "title": "The Spy Who Loved Me",
+    "year": 1977,
+    "rating": 7
+  },
+  {
+    "title": "Coma",
+    "year": 1978,
+    "rating": 6.9
+  },
+  {
+    "title": "Dawn of the Dead",
+    "year": 1978,
+    "rating": 7.8
+  },
+  {
+    "title": "Don",
+    "year": 1978,
+    "rating": 7.7
+  },
+  {
+    "title": "The Driver",
+    "year": 1978,
+    "rating": 7.1
+  },
+  {
+    "title": "Eyes of Laura Mars",
+    "year": 1978,
+    "rating": 6.2
+  },
+  {
+    "title": "Foul Play",
+    "year": 1978,
+    "rating": 6.8
+  },
+  {
+    "title": "The Fury",
+    "year": 1978,
+    "rating": 6.3
+  },
+  {
+    "title": "Halloween",
+    "year": 1978,
+    "rating": 7.7
+  },
+  {
+    "title": "The Hills Have Eyes",
+    "year": 1977,
+    "rating": 6.3
+  },
+  {
+    "title": "I Spit on Your Grave",
+    "year": 1978,
+    "rating": 5.7
+  },
+  {
+    "title": "Jaws 2",
+    "year": 1978,
+    "rating": 5.8
+  },
+  {
+    "title": "And Justice for All",
+    "year": 1979,
+    "rating": 7.4
+  },
+  {
+    "title": "The China Syndrome",
+    "year": 1979,
+    "rating": 7.4
+  },
+  {
+    "title": "The Warriors",
+    "year": 1979,
+    "rating": 7.5
+  },
+  {
+    "title": "When a Stranger Calls",
+    "year": 1979,
+    "rating": 6.4
+  },
+  {
+    "title": "Alligator",
+    "year": 1980,
+    "rating": 6.1
+  },
+  {
+    "title": "Altered States",
+    "year": 1980,
+    "rating": 6.9
+  },
+  {
+    "title": "Bad Timing",
+    "year": 1980,
+    "rating": 6.9
+  },
+  {
+    "title": "The Fog",
+    "year": 1980,
+    "rating": 6.8
+  },
+  {
+    "title": "Friday the 13th",
+    "year": 1980,
+    "rating": 6.4
+  },
+  {
+    "title": "Gloria",
+    "year": 1980,
+    "rating": 7.1
+  },
+  {
+    "title": "The Mirror Crack'd",
+    "year": 1980,
+    "rating": 6.2
+  },
+  {
+    "title": "Motel Hell",
+    "year": 1980,
+    "rating": 6
+  },
+  {
+    "title": "Prom Night",
+    "year": 1980,
+    "rating": 5.3
+  },
+  {
+    "title": "Scanners",
+    "year": 1981,
+    "rating": 6.7
+  },
+  {
+    "title": "Terror Train",
+    "year": 1980,
+    "rating": 5.8
+  },
+  {
+    "title": "Absence of Malice",
+    "year": 1981,
+    "rating": 6.9
+  },
+  {
+    "title": "Eye of the Needle",
+    "year": 1981,
+    "rating": 7.1
+  },
+  {
+    "title": "For Your Eyes Only",
+    "year": 1981,
+    "rating": 6.7
+  },
+  {
+    "title": "Friday the 13th Part 2",
+    "year": 1981,
+    "rating": 6.1
+  },
+  {
+    "title": "Ghost Story",
+    "year": 1981,
+    "rating": 6.3
+  },
+  {
+    "title": "Happy Birthday to Me",
+    "year": 1981,
+    "rating": 6
+  },
+  {
+    "title": "Pieces",
+    "year": 1982,
+    "rating": 6
+  },
+  {
+    "title": "Ms .45",
+    "year": 1981,
+    "rating": 6.8
+  },
+  {
+    "title": "My Bloody Valentine",
+    "year": 1981,
+    "rating": 6.3
+  },
+  {
+    "title": "Nighthawks",
+    "year": 1981,
+    "rating": 6.3
+  },
+  {
+    "title": "Piranha II: The Spawning",
+    "year": 1982,
+    "rating": 3.8
+  },
+  {
+    "title": "The Prowler",
+    "year": 1981,
+    "rating": 5.9
+  },
+  {
+    "title": "Road Games",
+    "year": 1981,
+    "rating": 6.6
+  },
+  {
+    "title": "Southern Comfort",
+    "year": 1981,
+    "rating": 7.1
+  },
+  {
+    "title": "Wolfen",
+    "year": 1981,
+    "rating": 6.3
+  },
+  {
+    "title": "Cat People",
+    "year": 1982,
+    "rating": 6.2
+  },
+  {
+    "title": "Firefox",
+    "year": 1982,
+    "rating": 5.9
+  },
+  {
+    "title": "First Blood",
+    "year": 1982,
+    "rating": 7.7
+  },
+  {
+    "title": "Friday the 13th: Part 3",
+    "year": 1982,
+    "rating": 5.6
+  },
+  {
+    "title": "Poltergeist",
+    "year": 1982,
+    "rating": 7.3
+  },
+  {
+    "title": "The New York Ripper",
+    "year": 1982,
+    "rating": 6.3
+  },
+  {
+    "title": "Tenebrae",
+    "year": 1982,
+    "rating": 7
+  },
+  {
+    "title": "10 to Midnight",
+    "year": 1983,
+    "rating": 6.3
+  },
+  {
+    "title": "Bad Boys",
+    "year": 1983,
+    "rating": 7.2
+  },
+  {
+    "title": "Brainstorm",
+    "year": 1983,
+    "rating": 6.4
+  },
+  {
+    "title": "Christine",
+    "year": 1983,
+    "rating": 6.8
+  },
+  {
+    "title": "Cujo",
+    "year": 1983,
+    "rating": 6.1
+  },
+  {
+    "title": "The Dead Zone",
+    "year": 1983,
+    "rating": 7.2
+  },
+  {
+    "title": "The House on Sorority Row",
+    "year": 1982,
+    "rating": 5.9
+  },
+  {
+    "title": "Jaws 3-D",
+    "year": 1983,
+    "rating": 3.7
+  },
+  {
+    "title": "Never Say Never Again",
+    "year": 1983,
+    "rating": 6.1
+  },
+  {
+    "title": "Octopussy",
+    "year": 1983,
+    "rating": 6.5
+  },
+  {
+    "title": "The Osterman Weekend",
+    "year": 1983,
+    "rating": 5.8
+  },
+  {
+    "title": "Something Wicked This Way Comes",
+    "year": 1983,
+    "rating": 6.7
+  },
+  {
+    "title": "Sudden Impact",
+    "year": 1983,
+    "rating": 6.6
+  },
+  {
+    "title": "Uncommon Valor",
+    "year": 1983,
+    "rating": 6.3
+  },
+  {
+    "title": "Blood Simple",
+    "year": 1984,
+    "rating": 7.5
+  },
+  {
+    "title": "Children of the Corn",
+    "year": 1984,
+    "rating": 5.6
+  },
+  {
+    "title": "The Element of Crime",
+    "year": 1984,
+    "rating": 6.7
+  },
+  {
+    "title": "Friday the 13th: The Final Chapter",
+    "year": 1984,
+    "rating": 6
+  },
+  {
+    "title": "The Hit",
+    "year": 1984,
+    "rating": 7
+  },
+  {
+    "title": "Red Dawn",
+    "year": 1984,
+    "rating": 6.3
+  },
+  {
+    "title": "Silent Night, Deadly Night",
+    "year": 1984,
+    "rating": 5.8
+  },
+  {
+    "title": "Tightrope",
+    "year": 1984,
+    "rating": 6.3
+  },
+  {
+    "title": "Brazil",
+    "year": 1985,
+    "rating": 7.8
+  },
+  {
+    "title": "Commando",
+    "year": 1985,
+    "rating": 6.7
+  },
+  {
+    "title": "Day of the Dead",
+    "year": 1985,
+    "rating": 7.1
+  },
+  {
+    "title": "F/X",
+    "year": 1986,
+    "rating": 6.7
+  },
+  {
+    "title": "Friday the 13th: A New Beginning",
+    "year": 1985,
+    "rating": 4.8
+  },
+  {
+    "title": "Invasion U.S.A.",
+    "year": 1985,
+    "rating": 5.5
+  },
+  {
+    "title": "Jagged Edge",
+    "year": 1985,
+    "rating": 6.5
+  },
+  {
+    "title": "The Man with One Red Shoe",
+    "year": 1985,
+    "rating": 5.7
+  },
+  {
+    "title": "Missing in Action 2: The Beginning",
+    "year": 1985,
+    "rating": 5.4
+  },
+  {
+    "title": "Rambo: First Blood Part II",
+    "year": 1985,
+    "rating": 6.5
+  },
+  {
+    "title": "Subway",
+    "year": 1985,
+    "rating": 6.5
+  },
+  {
+    "title": "A View to a Kill",
+    "year": 1985,
+    "rating": 6.3
+  },
+  {
+    "title": "Cobra",
+    "year": 1986,
+    "rating": 5.8
+  },
+  {
+    "title": "Friday the 13th Part VI: Jason Lives",
+    "year": 1986,
+    "rating": 6
+  },
+  {
+    "title": "The Hitcher",
+    "year": 1986,
+    "rating": 7.2
+  },
+  {
+    "title": "Come and See",
+    "year": 1985,
+    "rating": 8.3
+  },
+  {
+    "title": "Iron Eagle",
+    "year": 1986,
+    "rating": 5.6
+  },
+  {
+    "title": "Jumpin' Jack Flash",
+    "year": 1986,
+    "rating": 6
+  },
+  {
+    "title": "Manhunter",
+    "year": 1986,
+    "rating": 7.2
+  },
+  {
+    "title": "Matador",
+    "year": 1986,
+    "rating": 6.9
+  },
+  {
+    "title": "The Mosquito Coast",
+    "year": 1986,
+    "rating": 6.6
+  },
+  {
+    "title": "The Name of the Rose",
+    "year": 1986,
+    "rating": 7.7
+  },
+  {
+    "title": "Psycho III",
+    "year": 1986,
+    "rating": 5.5
+  },
+  {
+    "title": "Raw Deal",
+    "year": 1986,
+    "rating": 5.6
+  },
+  {
+    "title": "Salvador",
+    "year": 1986,
+    "rating": 7.3
+  },
+  {
+    "title": "Angel Heart",
+    "year": 1987,
+    "rating": 7.2
+  },
+  {
+    "title": "StageFright",
+    "year": 1987,
+    "rating": 6.6
+  },
+  {
+    "title": "Fatal Attraction",
+    "year": 1987,
+    "rating": 6.9
+  },
+  {
+    "title": "Flowers in the Attic",
+    "year": 1987,
+    "rating": 5.8
+  },
+  {
+    "title": "The Fourth Protocol",
+    "year": 1987,
+    "rating": 6.5
+  },
+  {
+    "title": "Hamburger Hill",
+    "year": 1987,
+    "rating": 6.7
+  },
+  {
+    "title": "Hellraiser",
+    "year": 1987,
+    "rating": 6.9
+  },
+  {
+    "title": "House of Games",
+    "year": 1987,
+    "rating": 7.2
+  },
+  {
+    "title": "Jaws: The Revenge",
+    "year": 1987,
+    "rating": 3.1
+  },
+  {
+    "title": "Lethal Weapon",
+    "year": 1987,
+    "rating": 7.6
+  },
+  {
+    "title": "Law of Desire",
+    "year": 1987,
+    "rating": 7.1
+  },
+  {
+    "title": "The Living Daylights",
+    "year": 1987,
+    "rating": 6.7
+  },
+  {
+    "title": "The Running Man",
+    "year": 1987,
+    "rating": 6.6
+  },
+  {
+    "title": "Silent Night, Deadly Night Part 2",
+    "year": 1987,
+    "rating": 3.9
+  },
+  {
+    "title": "The Stepfather",
+    "year": 1987,
+    "rating": 6.7
+  },
+  {
+    "title": "Throw Momma from the Train",
+    "year": 1987,
+    "rating": 6.3
+  },
+  {
+    "title": "The Untouchables",
+    "year": 1987,
+    "rating": 7.8
+  },
+  {
+    "title": "The Blob",
+    "year": 1988,
+    "rating": 6.7
+  },
+  {
+    "title": "Child's Play",
+    "year": 1988,
+    "rating": 6.7
+  },
+  {
+    "title": "Colors",
+    "year": 1988,
+    "rating": 6.7
+  },
+  {
+    "title": "D.O.A.",
+    "year": 1988,
+    "rating": 6.1
+  },
+  {
+    "title": "Dead Ringers",
+    "year": 1988,
+    "rating": 7.2
+  },
+  {
+    "title": "Die Hard",
+    "year": 1988,
+    "rating": 8.2
+  },
+  {
+    "title": "Friday the 13th: The New Blood",
+    "year": 1988,
+    "rating": 5.2
+  },
+  {
+    "title": "Halloween 4: The Return of Michael Myers",
+    "year": 1988,
+    "rating": 5.8
+  },
+  {
+    "title": "Hellbound: Hellraiser II",
+    "year": 1988,
+    "rating": 6.4
+  },
+  {
+    "title": "Intruder",
+    "year": 1989,
+    "rating": 6.1
+  },
+  {
+    "title": "Poltergeist III",
+    "year": 1988,
+    "rating": 4.7
+  },
+  {
+    "title": "Rambo III",
+    "year": 1988,
+    "rating": 5.8
+  },
+  {
+    "title": "The Vanishing",
+    "year": 1988,
+    "rating": 7.6
+  },
+  {
+    "title": "Talk Radio",
+    "year": 1988,
+    "rating": 7.2
+  },
+  {
+    "title": "The 'Burbs",
+    "year": 1989,
+    "rating": 6.8
+  },
+  {
+    "title": "Cyborg",
+    "year": 1989,
+    "rating": 5.1
+  },
+  {
+    "title": "Dead Calm",
+    "year": 1989,
+    "rating": 6.8
+  },
+  {
+    "title": "The Dream Team",
+    "year": 1989,
+    "rating": 6.5
+  },
+  {
+    "title": "Friday the 13th Part VIII: Jason Takes Manhattan",
+    "year": 1989,
+    "rating": 4.5
+  },
+  {
+    "title": "Fright Night Part 2",
+    "year": 1988,
+    "rating": 6
+  },
+  {
+    "title": "Halloween 5: The Revenge of Michael Myers",
+    "year": 1989,
+    "rating": 4.9
+  },
+  {
+    "title": "Johnny Handsome",
+    "year": 1989,
+    "rating": 6.1
+  },
+  {
+    "title": "Kickboxer",
+    "year": 1989,
+    "rating": 6.4
+  },
+  {
+    "title": "Lethal Weapon 2",
+    "year": 1989,
+    "rating": 7.3
+  },
+  {
+    "title": "Licence to Kill",
+    "year": 1989,
+    "rating": 6.7
+  },
+  {
+    "title": "Pet Sematary",
+    "year": 1989,
+    "rating": 6.5
+  },
+  {
+    "title": "The Punisher",
+    "year": 1989,
+    "rating": 5.7
+  },
+  {
+    "title": "Road House",
+    "year": 1989,
+    "rating": 6.7
+  },
+  {
+    "title": "Santa Sangre",
+    "year": 1989,
+    "rating": 7.5
+  },
+  {
+    "title": "Shocker",
+    "year": 1989,
+    "rating": 5.5
+  },
+  {
+    "title": "Arachnophobia",
+    "year": 1990,
+    "rating": 6.5
+  },
+  {
+    "title": "Bad Influence",
+    "year": 1990,
+    "rating": 6.3
+  },
+  {
+    "title": "Child's Play 2",
+    "year": 1990,
+    "rating": 6
+  },
+  {
+    "title": "Darkman",
+    "year": 1990,
+    "rating": 6.4
+  },
+  {
+    "title": "Die Hard 2",
+    "year": 1990,
+    "rating": 7.2
+  },
+  {
+    "title": "The Grifters",
+    "year": 1990,
+    "rating": 6.8
+  },
+  {
+    "title": "Hardware",
+    "year": 1990,
+    "rating": 6
+  },
+  {
+    "title": "The Hunt for Red October",
+    "year": 1990,
+    "rating": 7.5
+  },
+  {
+    "title": "Internal Affairs",
+    "year": 1990,
+    "rating": 6.5
+  },
+  {
+    "title": "King of New York",
+    "year": 1990,
+    "rating": 6.9
+  },
+  {
+    "title": "Leatherface: Texas Chainsaw Massacre III",
+    "year": 1990,
+    "rating": 5
+  },
+  {
+    "title": "Lord of the Flies",
+    "year": 1990,
+    "rating": 6.4
+  },
+  {
+    "title": "Miller's Crossing",
+    "year": 1990,
+    "rating": 7.7
+  },
+  {
+    "title": "Misery",
+    "year": 1990,
+    "rating": 7.8
+  },
+  {
+    "title": "Narrow Margin",
+    "year": 1990,
+    "rating": 6.6
+  },
+  {
+    "title": "Navy Seals",
+    "year": 1990,
+    "rating": 5.6
+  },
+  {
+    "title": "Pacific Heights",
+    "year": 1990,
+    "rating": 6.4
+  },
+  {
+    "title": "Presumed Innocent",
+    "year": 1990,
+    "rating": 6.9
+  },
+  {
+    "title": "The Reflecting Skin",
+    "year": 1990,
+    "rating": 6.7
+  },
+  {
+    "title": "The Russia House",
+    "year": 1990,
+    "rating": 6.1
+  },
+  {
+    "title": "Wild at Heart",
+    "year": 1990,
+    "rating": 7.2
+  },
+  {
+    "title": "Barton Fink",
+    "year": 1991,
+    "rating": 7.6
+  },
+  {
+    "title": "Billy Bathgate",
+    "year": 1991,
+    "rating": 5.9
+  },
+  {
+    "title": "Cape Fear",
+    "year": 1991,
+    "rating": 7.3
+  },
+  {
+    "title": "Europa",
+    "year": 1991,
+    "rating": 7.5
+  },
+  {
+    "title": "F/X2",
+    "year": 1991,
+    "rating": 5.9
+  },
+  {
+    "title": "JFK",
+    "year": 1991,
+    "rating": 8
+  },
+  {
+    "title": "Mortal Thoughts",
+    "year": 1991,
+    "rating": 5.8
+  },
+  {
+    "title": "Not Without My Daughter",
+    "year": 1991,
+    "rating": 6.5
+  },
+  {
+    "title": "One False Move",
+    "year": 1991,
+    "rating": 7.1
+  },
+  {
+    "title": "Point Break",
+    "year": 1991,
+    "rating": 7.3
+  },
+  {
+    "title": "Sleeping with the Enemy",
+    "year": 1991,
+    "rating": 6.3
+  },
+  {
+    "title": "Toy Soldiers",
+    "year": 1991,
+    "rating": 6.6
+  },
+  {
+    "title": "Bad Lieutenant",
+    "year": 1992,
+    "rating": 7
+  },
+  {
+    "title": "Candyman",
+    "year": 1992,
+    "rating": 6.7
+  },
+  {
+    "title": "Child's Play 3",
+    "year": 1991,
+    "rating": 5.2
+  },
+  {
+    "title": "Deep Cover",
+    "year": 1992,
+    "rating": 7
+  },
+  {
+    "title": "A Few Good Men",
+    "year": 1992,
+    "rating": 7.7
+  },
+  {
+    "title": "Final Analysis",
+    "year": 1992,
+    "rating": 5.9
+  },
+  {
+    "title": "The Hand That Rocks the Cradle",
+    "year": 1992,
+    "rating": 6.7
+  },
+  {
+    "title": "Honeymoon in Vegas",
+    "year": 1992,
+    "rating": 5.9
+  },
+  {
+    "title": "Hard Boiled",
+    "year": 1992,
+    "rating": 7.7
+  },
+  {
+    "title": "Lethal Weapon 3",
+    "year": 1992,
+    "rating": 6.7
+  },
+  {
+    "title": "Bitter Moon",
+    "year": 1992,
+    "rating": 7.2
+  },
+  {
+    "title": "El Mariachi",
+    "year": 1992,
+    "rating": 6.8
+  },
+  {
+    "title": "Passenger 57",
+    "year": 1992,
+    "rating": 5.9
+  },
+  {
+    "title": "Patriot Games",
+    "year": 1992,
+    "rating": 6.8
+  },
+  {
+    "title": "Pet Sematary II",
+    "year": 1992,
+    "rating": 4.9
+  },
+  {
+    "title": "Poison Ivy",
+    "year": 1992,
+    "rating": 5.4
+  },
+  {
+    "title": "Red Rock West",
+    "year": 1993,
+    "rating": 7
+  },
+  {
+    "title": "Reservoir Dogs",
+    "year": 1992,
+    "rating": 8.3
+  },
+  {
+    "title": "Romper Stomper",
+    "year": 1992,
+    "rating": 6.8
+  },
+  {
+    "title": "Shining Through",
+    "year": 1992,
+    "rating": 6.4
+  },
+  {
+    "title": "Single White Female",
+    "year": 1992,
+    "rating": 6.4
+  },
+  {
+    "title": "Thunderheart",
+    "year": 1992,
+    "rating": 6.8
+  },
+  {
+    "title": "Trespass",
+    "year": 1992,
+    "rating": 6.3
+  },
+  {
+    "title": "Under Siege",
+    "year": 1992,
+    "rating": 6.5
+  },
+  {
+    "title": "Unlawful Entry",
+    "year": 1992,
+    "rating": 6.4
+  },
+  {
+    "title": "Alive",
+    "year": 1993,
+    "rating": 7.1
+  },
+  {
+    "title": "Body of Evidence",
+    "year": 1993,
+    "rating": 4.6
+  },
+  {
+    "title": "Carlito's Way",
+    "year": 1993,
+    "rating": 7.9
+  },
+  {
+    "title": "Children of the Corn II: The Final Sacrifice",
+    "year": 1992,
+    "rating": 4.4
+  },
+  {
+    "title": "Cliffhanger",
+    "year": 1993,
+    "rating": 6.5
+  },
+  {
+    "title": "The Dark Half",
+    "year": 1993,
+    "rating": 6
+  },
+  {
+    "title": "Demolition Man",
+    "year": 1993,
+    "rating": 6.7
+  },
+  {
+    "title": "Falling Down",
+    "year": 1993,
+    "rating": 7.5
+  },
+  {
+    "title": "Fearless",
+    "year": 1993,
+    "rating": 7
+  },
+  {
+    "title": "The Firm",
+    "year": 1993,
+    "rating": 6.9
+  },
+  {
+    "title": "The Good Son",
+    "year": 1993,
+    "rating": 6.4
+  },
+  {
+    "title": "Hard Target",
+    "year": 1993,
+    "rating": 6.2
+  },
+  {
+    "title": "Kalifornia",
+    "year": 1993,
+    "rating": 6.7
+  },
+  {
+    "title": "Malice",
+    "year": 1993,
+    "rating": 6.5
+  },
+  {
+    "title": "Menace II Society",
+    "year": 1993,
+    "rating": 7.5
+  },
+  {
+    "title": "A Perfect World",
+    "year": 1993,
+    "rating": 7.5
+  },
+  {
+    "title": "The Real McCoy",
+    "year": 1993,
+    "rating": 5.5
+  },
+  {
+    "title": "Sliver",
+    "year": 1993,
+    "rating": 5.1
+  },
+  {
+    "title": "Sniper",
+    "year": 1993,
+    "rating": 6.1
+  },
+  {
+    "title": "Death and the Maiden",
+    "year": 1994,
+    "rating": 7.2
+  },
+  {
+    "title": "Disclosure",
+    "year": 1994,
+    "rating": 6.2
+  },
+  {
+    "title": "Drop Zone",
+    "year": 1994,
+    "rating": 5.6
+  },
+  {
+    "title": "Fresh",
+    "year": 1994,
+    "rating": 7.5
+  },
+  {
+    "title": "Killing Zoe",
+    "year": 1993,
+    "rating": 6.4
+  },
+  {
+    "title": "Nightwatch",
+    "year": 1994,
+    "rating": 7.2
+  },
+  {
+    "title": "On Deadly Ground",
+    "year": 1994,
+    "rating": 4.6
+  },
+  {
+    "title": "A Pure Formality",
+    "year": 1994,
+    "rating": 7.5
+  },
+  {
+    "title": "Texas Chainsaw Massacre: The Next Generation",
+    "year": 1994,
+    "rating": 3.4
+  },
+  {
+    "title": "The River Wild",
+    "year": 1994,
+    "rating": 6.5
+  },
+  {
+    "title": "The Puppet Masters",
+    "year": 1994,
+    "rating": 5.9
+  },
+  {
+    "title": "Serial Mom",
+    "year": 1994,
+    "rating": 6.8
+  },
+  {
+    "title": "Shallow Grave",
+    "year": 1994,
+    "rating": 7.2
+  },
+  {
+    "title": "The Specialist",
+    "year": 1994,
+    "rating": 5.6
+  },
+  {
+    "title": "Speed",
+    "year": 1994,
+    "rating": 7.3
+  },
+  {
+    "title": "True Lies",
+    "year": 1994,
+    "rating": 7.3
+  },
+  {
+    "title": "Assassins",
+    "year": 1995,
+    "rating": 6.3
+  },
+  {
+    "title": "Candyman: Farewell to the Flesh",
+    "year": 1995,
+    "rating": 5.3
+  },
+  {
+    "title": "Copycat",
+    "year": 1995,
+    "rating": 6.6
+  },
+  {
+    "title": "Crimson Tide",
+    "year": 1995,
+    "rating": 7.4
+  },
+  {
+    "title": "The Crossing Guard",
+    "year": 1995,
+    "rating": 6.3
+  },
+  {
+    "title": "Crying Freeman",
+    "year": 1995,
+    "rating": 6.4
+  },
+  {
+    "title": "La cérémonie",
+    "year": 1995,
+    "rating": 7.5
+  },
+  {
+    "title": "Die Hard with a Vengeance",
+    "year": 1995,
+    "rating": 7.6
+  },
+  {
+    "title": "Fair Game",
+    "year": 1995,
+    "rating": 4.4
+  },
+  {
+    "title": "Get Shorty",
+    "year": 1995,
+    "rating": 6.9
+  },
+  {
+    "title": "GoldenEye",
+    "year": 1995,
+    "rating": 7.2
+  },
+  {
+    "title": "Halloween: The Curse of Michael Myers",
+    "year": 1995,
+    "rating": 4.7
+  },
+  {
+    "title": "Higher Learning",
+    "year": 1995,
+    "rating": 6.5
+  },
+  {
+    "title": "Jade",
+    "year": 1995,
+    "rating": 5.4
+  },
+  {
+    "title": "Kiss of Death",
+    "year": 1995,
+    "rating": 6
+  },
+  {
+    "title": "Lord of Illusions",
+    "year": 1995,
+    "rating": 6.1
+  },
+  {
+    "title": "Murder in the First",
+    "year": 1995,
+    "rating": 7.3
+  },
+  {
+    "title": "Outbreak",
+    "year": 1995,
+    "rating": 6.6
+  },
+  {
+    "title": "Thunderbolt",
+    "year": 1995,
+    "rating": 6.3
+  },
+  {
+    "title": "Screamers",
+    "year": 1995,
+    "rating": 6.3
+  },
+  {
+    "title": "Sudden Death",
+    "year": 1995,
+    "rating": 5.9
+  },
+  {
+    "title": "Things to Do in Denver When You're Dead",
+    "year": 1995,
+    "rating": 6.7
+  },
+  {
+    "title": "12 Monkeys",
+    "year": 1995,
+    "rating": 8
+  },
+  {
+    "title": "Under Siege 2: Dark Territory",
+    "year": 1995,
+    "rating": 5.6
+  },
+  {
+    "title": "Village of the Damned",
+    "year": 1995,
+    "rating": 5.7
+  },
+  {
+    "title": "2 Days in the Valley",
+    "year": 1996,
+    "rating": 6.5
+  },
+  {
+    "title": "The Arrival",
+    "year": 1996,
+    "rating": 6.2
+  },
+  {
+    "title": "Blood and Wine",
+    "year": 1996,
+    "rating": 6
+  },
+  {
+    "title": "Bound",
+    "year": 1996,
+    "rating": 7.3
+  },
+  {
+    "title": "Broken Arrow",
+    "year": 1996,
+    "rating": 6.1
+  },
+  {
+    "title": "The Cable Guy",
+    "year": 1996,
+    "rating": 6.1
+  },
+  {
+    "title": "The Chamber",
+    "year": 1996,
+    "rating": 6
+  },
+  {
+    "title": "The Dentist",
+    "year": 1996,
+    "rating": 5.4
+  },
+  {
+    "title": "Eraser",
+    "year": 1996,
+    "rating": 6.2
+  },
+  {
+    "title": "Executive Decision",
+    "year": 1996,
+    "rating": 6.5
+  },
+  {
+    "title": "Eye for an Eye",
+    "year": 1996,
+    "rating": 6.2
+  },
+  {
+    "title": "Fargo",
+    "year": 1996,
+    "rating": 8.1
+  },
+  {
+    "title": "Fear",
+    "year": 1996,
+    "rating": 6.2
+  },
+  {
+    "title": "Freeway",
+    "year": 1996,
+    "rating": 6.8
+  },
+  {
+    "title": "The Ghost and the Darkness",
+    "year": 1996,
+    "rating": 6.8
+  },
+  {
+    "title": "The Island of Dr. Moreau",
+    "year": 1996,
+    "rating": 4.6
+  },
+  {
+    "title": "The Juror",
+    "year": 1996,
+    "rating": 5.7
+  },
+  {
+    "title": "The Hunters",
+    "year": 1996,
+    "rating": 7
+  },
+  {
+    "title": "Lawnmower Man 2: Beyond Cyberspace",
+    "year": 1995,
+    "rating": 2.6
+  },
+  {
+    "title": "Lost Highway",
+    "year": 1997,
+    "rating": 7.6
+  },
+  {
+    "title": "Maximum Risk",
+    "year": 1996,
+    "rating": 5.6
+  },
+  {
+    "title": "Mission: Impossible",
+    "year": 1996,
+    "rating": 7.2
+  },
+  {
+    "title": "Pusher",
+    "year": 1996,
+    "rating": 7.3
+  },
+  {
+    "title": "The Rock",
+    "year": 1996,
+    "rating": 7.4
+  },
+  {
+    "title": "Sleepers",
+    "year": 1996,
+    "rating": 7.5
+  },
+  {
+    "title": "A Time to Kill",
+    "year": 1996,
+    "rating": 7.5
+  },
+  {
+    "title": "Twister",
+    "year": 1996,
+    "rating": 6.6
+  },
+  {
+    "title": "One Eight Seven",
+    "year": 1997,
+    "rating": 6.6
+  },
+  {
+    "title": "Affliction",
+    "year": 1997,
+    "rating": 6.9
+  },
+  {
+    "title": "Apt Pupil",
+    "year": 1998,
+    "rating": 6.7
+  },
+  {
+    "title": "The Assignment",
+    "year": 1997,
+    "rating": 6.8
+  },
+  {
+    "title": "Hush",
+    "year": 1998,
+    "rating": 5.5
+  },
+  {
+    "title": "Brother",
+    "year": 1997,
+    "rating": 7.8
+  },
+  {
+    "title": "Con Air",
+    "year": 1997,
+    "rating": 6.9
+  },
+  {
+    "title": "Cop Land",
+    "year": 1997,
+    "rating": 7
+  },
+  {
+    "title": "Dante's Peak",
+    "year": 1997,
+    "rating": 6.1
+  },
+  {
+    "title": "Event Horizon",
+    "year": 1997,
+    "rating": 6.6
+  },
+  {
+    "title": "Fire Down Below",
+    "year": 1997,
+    "rating": 5.2
+  },
+  {
+    "title": "The Game",
+    "year": 1997,
+    "rating": 7.7
+  },
+  {
+    "title": "Gattaca",
+    "year": 1997,
+    "rating": 7.7
+  },
+  {
+    "title": "The Gingerbread Man",
+    "year": 1998,
+    "rating": 5.7
+  },
+  {
+    "title": "Switchback",
+    "year": 1997,
+    "rating": 6.5
+  },
+  {
+    "title": "Insomnia",
+    "year": 1997,
+    "rating": 7.2
+  },
+  {
+    "title": "Jackie Brown",
+    "year": 1997,
+    "rating": 7.5
+  },
+  {
+    "title": "Mad City",
+    "year": 1997,
+    "rating": 6.3
+  },
+  {
+    "title": "Nightwatch",
+    "year": 1997,
+    "rating": 6.2
+  },
+  {
+    "title": "Phantoms",
+    "year": 1998,
+    "rating": 5.4
+  },
+  {
+    "title": "The Rainmaker",
+    "year": 1997,
+    "rating": 7.2
+  },
+  {
+    "title": "Red Corner",
+    "year": 1997,
+    "rating": 6.3
+  },
+  {
+    "title": "The Replacement Killers",
+    "year": 1998,
+    "rating": 6.1
+  },
+  {
+    "title": "The Spanish Prisoner",
+    "year": 1997,
+    "rating": 7.1
+  },
+  {
+    "title": "Sphere",
+    "year": 1998,
+    "rating": 6.1
+  },
+  {
+    "title": "A Simple Plan",
+    "year": 1998,
+    "rating": 7.5
+  },
+  {
+    "title": "Tomorrow Never Dies",
+    "year": 1997,
+    "rating": 6.5
+  },
+  {
+    "title": "Turbulence",
+    "year": 1997,
+    "rating": 5
+  },
+  {
+    "title": "U Turn",
+    "year": 1997,
+    "rating": 6.7
+  },
+  {
+    "title": "Brokedown Palace",
+    "year": 1999,
+    "rating": 6.4
+  },
+  {
+    "title": "Enemy of the State",
+    "year": 1998,
+    "rating": 7.3
+  },
+  {
+    "title": "Eye of the Beholder",
+    "year": 1999,
+    "rating": 5
+  },
+  {
+    "title": "Eyes Wide Shut",
+    "year": 1999,
+    "rating": 7.5
+  },
+  {
+    "title": "Godzilla",
+    "year": 1998,
+    "rating": 5.5
+  },
+  {
+    "title": "Halloween H20: 20 Years Later",
+    "year": 1998,
+    "rating": 5.8
+  },
+  {
+    "title": "Knock Off",
+    "year": 1998,
+    "rating": 4.9
+  },
+  {
+    "title": "Mission: Impossible II",
+    "year": 2000,
+    "rating": 6.1
+  },
+  {
+    "title": "The Patriot",
+    "year": 1998,
+    "rating": 4.2
+  },
+  {
+    "title": "A Perfect Murder",
+    "year": 1998,
+    "rating": 6.6
+  },
+  {
+    "title": "Snake Eyes",
+    "year": 1998,
+    "rating": 6.2
+  },
+  {
+    "title": "Titus",
+    "year": 1999,
+    "rating": 7
+  },
+  {
+    "title": "U.S. Marshals",
+    "year": 1998,
+    "rating": 6.6
+  },
+  {
+    "title": "Vampires",
+    "year": 1998,
+    "rating": 6.1
+  },
+  {
+    "title": "Wrongfully Accused",
+    "year": 1998,
+    "rating": 6.1
+  },
+  {
+    "title": "Lethal Weapon 4",
+    "year": 1998,
+    "rating": 6.6
+  },
+  {
+    "title": "Ronin",
+    "year": 1998,
+    "rating": 7.2
+  },
+  {
+    "title": "Very Bad Things",
+    "year": 1998,
+    "rating": 6.3
+  },
+  {
+    "title": "Return to Paradise",
+    "year": 1998,
+    "rating": 6.9
+  },
+  {
+    "title": "Instinct",
+    "year": 1999,
+    "rating": 6.6
+  },
+  {
+    "title": "I Still Know What You Did Last Summer",
+    "year": 1998,
+    "rating": 4.8
+  }
+]

@@ -1,0 +1,642 @@
+[
+  {
+    "title": "Greed",
+    "year": 1924,
+    "rating": 8
+  },
+  {
+    "title": "Destry Rides Again",
+    "year": 1939,
+    "rating": 7.6
+  },
+  {
+    "title": "Stagecoach",
+    "year": 1939,
+    "rating": 7.8
+  },
+  {
+    "title": "The Ox-Bow Incident",
+    "year": 1943,
+    "rating": 8
+  },
+  {
+    "title": "Duel in the Sun",
+    "year": 1946,
+    "rating": 6.7
+  },
+  {
+    "title": "My Darling Clementine",
+    "year": 1946,
+    "rating": 7.7
+  },
+  {
+    "title": "3 Godfathers",
+    "year": 1948,
+    "rating": 7
+  },
+  {
+    "title": "Fort Apache",
+    "year": 1948,
+    "rating": 7.4
+  },
+  {
+    "title": "Red River",
+    "year": 1948,
+    "rating": 7.7
+  },
+  {
+    "title": "The Treasure of the Sierra Madre",
+    "year": 1948,
+    "rating": 8.2
+  },
+  {
+    "title": "She Wore a Yellow Ribbon",
+    "year": 1949,
+    "rating": 7.2
+  },
+  {
+    "title": "Broken Arrow",
+    "year": 1950,
+    "rating": 7.1
+  },
+  {
+    "title": "The Gunfighter",
+    "year": 1950,
+    "rating": 7.7
+  },
+  {
+    "title": "Rio Grande",
+    "year": 1950,
+    "rating": 7
+  },
+  {
+    "title": "Winchester '73",
+    "year": 1950,
+    "rating": 7.6
+  },
+  {
+    "title": "High Noon",
+    "year": 1952,
+    "rating": 7.9
+  },
+  {
+    "title": "The Naked Spur",
+    "year": 1953,
+    "rating": 7.3
+  },
+  {
+    "title": "Shane",
+    "year": 1953,
+    "rating": 7.6
+  },
+  {
+    "title": "Johnny Guitar",
+    "year": 1954,
+    "rating": 7.6
+  },
+  {
+    "title": "Vera Cruz",
+    "year": 1954,
+    "rating": 7
+  },
+  {
+    "title": "The Man from Laramie",
+    "year": 1955,
+    "rating": 7.3
+  },
+  {
+    "title": "Giant",
+    "year": 1956,
+    "rating": 7.6
+  },
+  {
+    "title": "The Searchers",
+    "year": 1956,
+    "rating": 7.8
+  },
+  {
+    "title": "Gunfight at the O.K. Corral",
+    "year": 1957,
+    "rating": 7.1
+  },
+  {
+    "title": "The Big Country",
+    "year": 1958,
+    "rating": 7.9
+  },
+  {
+    "title": "Man of the West",
+    "year": 1958,
+    "rating": 7
+  },
+  {
+    "title": "Rio Bravo",
+    "year": 1959,
+    "rating": 7.9
+  },
+  {
+    "title": "The Unforgiven",
+    "year": 1960,
+    "rating": 6.5
+  },
+  {
+    "title": "The Comancheros",
+    "year": 1961,
+    "rating": 6.8
+  },
+  {
+    "title": "The Misfits",
+    "year": 1961,
+    "rating": 7.2
+  },
+  {
+    "title": "One-Eyed Jacks",
+    "year": 1961,
+    "rating": 7.1
+  },
+  {
+    "title": "Lonely Are the Brave",
+    "year": 1962,
+    "rating": 7.5
+  },
+  {
+    "title": "The Man Who Shot Liberty Valance",
+    "year": 1962,
+    "rating": 8.1
+  },
+  {
+    "title": "Ride the High Country",
+    "year": 1962,
+    "rating": 7.4
+  },
+  {
+    "title": "Hud",
+    "year": 1963,
+    "rating": 7.8
+  },
+  {
+    "title": "McLintock!",
+    "year": 1963,
+    "rating": 7.1
+  },
+  {
+    "title": "A Fistful of Dollars",
+    "year": 1964,
+    "rating": 7.9
+  },
+  {
+    "title": "Cat Ballou",
+    "year": 1965,
+    "rating": 6.8
+  },
+  {
+    "title": "For a Few Dollars More",
+    "year": 1965,
+    "rating": 8.2
+  },
+  {
+    "title": "Shenandoah",
+    "year": 1965,
+    "rating": 7.3
+  },
+  {
+    "title": "The Sons of Katie Elder",
+    "year": 1965,
+    "rating": 7.1
+  },
+  {
+    "title": "The Good, the Bad and the Ugly",
+    "year": 1966,
+    "rating": 8.8
+  },
+  {
+    "title": "Django",
+    "year": 1966,
+    "rating": 7.2
+  },
+  {
+    "title": "El Dorado",
+    "year": 1966,
+    "rating": 7.5
+  },
+  {
+    "title": "Hang 'Em High",
+    "year": 1968,
+    "rating": 7
+  },
+  {
+    "title": "Hombre",
+    "year": 1967,
+    "rating": 7.4
+  },
+  {
+    "title": "The War Wagon",
+    "year": 1967,
+    "rating": 6.8
+  },
+  {
+    "title": "The Great Silence",
+    "year": 1968,
+    "rating": 7.7
+  },
+  {
+    "title": "Once Upon a Time in the West",
+    "year": 1968,
+    "rating": 8.5
+  },
+  {
+    "title": "Death Rides a Horse",
+    "year": 1967,
+    "rating": 7
+  },
+  {
+    "title": "Paint Your Wagon",
+    "year": 1969,
+    "rating": 6.6
+  },
+  {
+    "title": "Support Your Local Sheriff!",
+    "year": 1969,
+    "rating": 7.4
+  },
+  {
+    "title": "True Grit",
+    "year": 1969,
+    "rating": 7.4
+  },
+  {
+    "title": "Chisum",
+    "year": 1970,
+    "rating": 6.9
+  },
+  {
+    "title": "A Man Called Horse",
+    "year": 1970,
+    "rating": 6.8
+  },
+  {
+    "title": "Rio Lobo",
+    "year": 1970,
+    "rating": 6.7
+  },
+  {
+    "title": "Big Jake",
+    "year": 1971,
+    "rating": 7.1
+  },
+  {
+    "title": "Duck, You Sucker!",
+    "year": 1971,
+    "rating": 7.5
+  },
+  {
+    "title": "They Call Me Trinity",
+    "year": 1970,
+    "rating": 7.4
+  },
+  {
+    "title": "McCabe & Mrs. Miller",
+    "year": 1971,
+    "rating": 7.6
+  },
+  {
+    "title": "Red Sun",
+    "year": 1971,
+    "rating": 6.8
+  },
+  {
+    "title": "El Topo",
+    "year": 1970,
+    "rating": 7.2
+  },
+  {
+    "title": "Trinity Is Still My Name",
+    "year": 1971,
+    "rating": 7.2
+  },
+  {
+    "title": "The Cowboys",
+    "year": 1972,
+    "rating": 7.4
+  },
+  {
+    "title": "High Plains Drifter",
+    "year": 1973,
+    "rating": 7.4
+  },
+  {
+    "title": "Jeremiah Johnson",
+    "year": 1972,
+    "rating": 7.6
+  },
+  {
+    "title": "Joe Kidd",
+    "year": 1972,
+    "rating": 6.4
+  },
+  {
+    "title": "My Name Is Nobody",
+    "year": 1973,
+    "rating": 7.3
+  },
+  {
+    "title": "Pat Garrett & Billy the Kid",
+    "year": 1973,
+    "rating": 7.2
+  },
+  {
+    "title": "Blazing Saddles",
+    "year": 1974,
+    "rating": 7.7
+  },
+  {
+    "title": "Breakheart Pass",
+    "year": 1975,
+    "rating": 6.7
+  },
+  {
+    "title": "Rooster Cogburn",
+    "year": 1975,
+    "rating": 6.8
+  },
+  {
+    "title": "The Missouri Breaks",
+    "year": 1976,
+    "rating": 6.5
+  },
+  {
+    "title": "The Outlaw Josey Wales",
+    "year": 1976,
+    "rating": 7.8
+  },
+  {
+    "title": "The Shootist",
+    "year": 1976,
+    "rating": 7.6
+  },
+  {
+    "title": "Heaven's Gate",
+    "year": 1980,
+    "rating": 6.7
+  },
+  {
+    "title": "Urban Cowboy",
+    "year": 1980,
+    "rating": 6.5
+  },
+  {
+    "title": "Pale Rider",
+    "year": 1985,
+    "rating": 7.3
+  },
+  {
+    "title": "Silverado",
+    "year": 1985,
+    "rating": 7.2
+  },
+  {
+    "title": "Three Amigos!",
+    "year": 1986,
+    "rating": 6.5
+  },
+  {
+    "title": "Young Guns",
+    "year": 1988,
+    "rating": 6.8
+  },
+  {
+    "title": "Dances with Wolves",
+    "year": 1990,
+    "rating": 8
+  },
+  {
+    "title": "Young Guns II",
+    "year": 1990,
+    "rating": 6.5
+  },
+  {
+    "title": "City Slickers",
+    "year": 1991,
+    "rating": 6.8
+  },
+  {
+    "title": "Of Mice and Men",
+    "year": 1992,
+    "rating": 7.4
+  },
+  {
+    "title": "Unforgiven",
+    "year": 1992,
+    "rating": 8.2
+  },
+  {
+    "title": "Geronimo: An American Legend",
+    "year": 1993,
+    "rating": 6.6
+  },
+  {
+    "title": "City Slickers II: The Legend of Curly's Gold",
+    "year": 1994,
+    "rating": 5.6
+  },
+  {
+    "title": "Dead Man",
+    "year": 1995,
+    "rating": 7.5
+  },
+  {
+    "title": "Lone Star",
+    "year": 1996,
+    "rating": 7.4
+  },
+  {
+    "title": "Almost Heroes",
+    "year": 1998,
+    "rating": 5.8
+  },
+  {
+    "title": "The Horse Whisperer",
+    "year": 1998,
+    "rating": 6.7
+  },
+  {
+    "title": "All the Pretty Horses",
+    "year": 2000,
+    "rating": 5.8
+  },
+  {
+    "title": "American Outlaws",
+    "year": 2001,
+    "rating": 5.9
+  },
+  {
+    "title": "Manitou's Shoe",
+    "year": 2001,
+    "rating": 6.7
+  },
+  {
+    "title": "Dead Birds",
+    "year": 2004,
+    "rating": 5.6
+  },
+  {
+    "title": "The Proposition",
+    "year": 2005,
+    "rating": 7.3
+  },
+  {
+    "title": "Sukiyaki Western Django",
+    "year": 2007,
+    "rating": 6.1
+  },
+  {
+    "title": "The Power of the Dog",
+    "year": 2021,
+    "rating": 6.8
+  },
+  {
+    "title": "The Harder They Fall",
+    "year": 2021,
+    "rating": 6.6
+  },
+  {
+    "title": "Redeeming Love",
+    "year": 2022,
+    "rating": 6.8
+  },
+  {
+    "title": "Old Henry",
+    "year": 2021,
+    "rating": 7.3
+  },
+  {
+    "title": "True Grit",
+    "year": 2010,
+    "rating": 7.6
+  },
+  {
+    "title": "The Revenant",
+    "year": 2015,
+    "rating": 8
+  },
+  {
+    "title": "Casa de mi Padre",
+    "year": 2012,
+    "rating": 5.5
+  },
+  {
+    "title": "Horizon: An American Saga - Chapter 1",
+    "year": 2024,
+    "rating": 6.6
+  },
+  {
+    "title": "Django Unchained",
+    "year": 2012,
+    "rating": 8.5
+  },
+  {
+    "title": "Brimstone",
+    "year": 2016,
+    "rating": 7
+  },
+  {
+    "title": "Forsaken",
+    "year": 2015,
+    "rating": 6.4
+  },
+  {
+    "title": "The Dead Don't Hurt",
+    "year": 2023,
+    "rating": 6.4
+  },
+  {
+    "title": "The Homesman",
+    "year": 2014,
+    "rating": 6.6
+  },
+  {
+    "title": "The Duel",
+    "year": 2016,
+    "rating": 5.8
+  },
+  {
+    "title": "Bone Tomahawk",
+    "year": 2015,
+    "rating": 7.1
+  },
+  {
+    "title": "A Million Ways to Die in the West",
+    "year": 2014,
+    "rating": 6.1
+  },
+  {
+    "title": "The Dark Valley",
+    "year": 2014,
+    "rating": 7.1
+  },
+  {
+    "title": "Eddington",
+    "year": 2025,
+    "rating": 6.6
+  },
+  {
+    "title": "El Camino Christmas",
+    "year": 2017,
+    "rating": 5.7
+  },
+  {
+    "title": "In a Valley of Violence",
+    "year": 2016,
+    "rating": 6.1
+  },
+  {
+    "title": "The Sisters Brothers",
+    "year": 2018,
+    "rating": 6.9
+  },
+  {
+    "title": "The Kid",
+    "year": 2019,
+    "rating": 5.9
+  },
+  {
+    "title": "Hostiles",
+    "year": 2017,
+    "rating": 7.2
+  },
+  {
+    "title": "Lucky",
+    "year": 2017,
+    "rating": 7.3
+  },
+  {
+    "title": "The Rider",
+    "year": 2017,
+    "rating": 7.4
+  },
+  {
+    "title": "3 from Hell",
+    "year": 2019,
+    "rating": 5.4
+  },
+  {
+    "title": "The Old Way",
+    "year": 2023,
+    "rating": 5.6
+  },
+  {
+    "title": "Concrete Cowboy",
+    "year": 2020,
+    "rating": 6.3
+  },
+  {
+    "title": "First Cow",
+    "year": 2019,
+    "rating": 7.1
+  },
+  {
+    "title": "The World to Come",
+    "year": 2020,
+    "rating": 6.4
+  }
+]

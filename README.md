@@ -1,3 +1,7 @@
+Generieren:
+
+    node process.js
+
 Starten:
 
     npm init -y

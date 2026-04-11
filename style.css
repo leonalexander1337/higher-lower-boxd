@@ -31,12 +31,20 @@ body {
     margin-bottom: 10%;
 }
 
+.sidebar h3 {
+    font-size: 0.95rem;
+    margin: 0 0 8% 0;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #94a3b8;
+}
+
 .sidebar p {
     font-size: 1.1rem;
     margin: 0% 0% 5% 0%;
 }
 
-.sidebar button {
+.mode-buttons button {
     background: #1e293b;
     display: block;
     font-size: 1.1rem;
@@ -44,13 +52,71 @@ body {
     margin: 5% 0% 5% 0%;
     width: 100%;
 }
-
-.sidebar button:hover {
+ 
+.mode-buttons button:hover {
     background: #f97316;
 }
-
-.sidebar button.active {
+ 
+.mode-buttons button.active {
     background: #1e3a5f;
+}
+
+/*Year Slider*/
+ 
+.slider-section {
+    margin-top: auto;
+    padding-top: 8%;
+    border-top: 1px solid #1e293b;
+}
+ 
+#year-slider-container {
+    width: 100%;
+    user-select: none;
+}
+ 
+#slider-track {
+    position: relative;
+    height: 4px;
+    background: #1e293b;
+    border-radius: 2px;
+    margin: 16px 8px 8px 8px;
+}
+ 
+#slider-range {
+    position: absolute;
+    height: 100%;
+    background: #f97316;
+    border-radius: 2px;
+    pointer-events: none;
+}
+ 
+.thumb {
+    position: absolute;
+    top: 50%;
+    width: 16px;
+    height: 16px;
+    background: #f97316;
+    border: 2px solid #fff;
+    border-radius: 50%;
+    transform: translate(-50%, -50%);
+    cursor: grab;
+    transition: background 0.15s;
+    z-index: 2;
+}
+ 
+.thumb:active {
+    cursor: grabbing;
+    background: #ea580c;
+    transform: translate(-50%, -50%) scale(1.2);
+}
+ 
+.slider-labels {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.8rem;
+    color: #94a3b8;
+    margin-top: 6px;
+    padding: 0 2px;
 }
 
 /*Mobile Header*/
@@ -185,8 +251,34 @@ button:hover {
 /*Mobile*/
 
 @media (max-width: 768px) {
-    .sidebar {
+    #sidebar-left {
         display: none;
+        position: fixed;
+        left: 0;
+        top: 0;
+        height: 100vh;
+        width: 70vw;
+        overflow-y: auto;
+        padding: 6% 5%;
+    }
+ 
+    #sidebar-left.mobile-open {
+        display: flex;
+    }
+ 
+    #sidebar-right {
+        display: none;
+    }
+ 
+    .mode-buttons button {
+        font-size: 1.1rem;
+        padding: 5% 0;
+        margin: 3% 0;
+    }
+ 
+    .slider-section {
+        margin-top: 8%;
+        padding-top: 6%;
     }
 
     .mobile-header {

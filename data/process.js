@@ -60,6 +60,13 @@ const GENRE_MAP = {
     horror: ["Horror"],
     animation: ["Animation"],
     action: ["Action"],
+    comedy:    ["Comedy"],
+    drama:     ["Drama"],
+    scifi:     ["Sci-Fi"],
+    thriller:  ["Thriller"],
+    romance:   ["Romance"],
+    crime:     ["Crime"],
+    western:   ["Western"]
 
     // Beispiel:
     // comedy: ["Comedy"],
