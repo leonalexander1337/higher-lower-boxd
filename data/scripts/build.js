@@ -1,14 +1,18 @@
 const fs = require("fs");
+const path = require("path");
 const readline = require("readline");
+
+const PROCESSED_DIR = path.join(__dirname, "..", "processed");
+const DIST_DIR = path.join(__dirname, "..", "dist");
 
 const movies = [];
 
 // =====================
-// STEP 1: TSV EINLESEN
+// STEP 1: READ TSV
 // =====================
 async function loadTSV() {
     const rl = readline.createInterface({
-        input: fs.createReadStream("processed/movies.10000.votes.tsv")
+        input: fs.createReadStream(path.join(PROCESSED_DIR, "movies.10000.votes.tsv"))
     });
 
     let first = true;
@@ -32,11 +36,11 @@ async function loadTSV() {
         movies.push(movie);
     }
 
-    console.log("filme geladen:", movies.length);
+    console.log("movies loaded:", movies.length);
 }
 
 // =====================
-// STEP 2: BASIS JSON
+// STEP 2: BASE JSON
 // =====================
 function write(name, arr) {
     const output = arr.map(m => ({
@@ -46,7 +50,7 @@ function write(name, arr) {
     }));
 
     fs.writeFileSync(
-        `${name}`,
+        path.join(DIST_DIR, name),
         JSON.stringify(output, null, 2)
     );
 }
@@ -55,25 +59,18 @@ function write(name, arr) {
 // STEP 3: GENRES
 // =====================
 
-// HIER ERWEITERST DU SPÄTER
+// EXTEND HERE LATER
 const GENRE_MAP = {
     horror: ["Horror"],
     animation: ["Animation"],
     action: ["Action"],
-    comedy:    ["Comedy"],
-    drama:     ["Drama"],
-    scifi:     ["Sci-Fi"],
-    thriller:  ["Thriller"],
-    romance:   ["Romance"],
-    crime:     ["Crime"],
-    western:   ["Western"]
-
-    // Beispiel:
-    // comedy: ["Comedy"],
-    // drama: ["Drama"],
-    // scifi: ["Sci-Fi"]
-    // superhero: ["Action", "Sci-Fi"]
-
+    comedy: ["Comedy"],
+    drama: ["Drama"],
+    scifi: ["Sci-Fi"],
+    thriller: ["Thriller"],
+    romance: ["Romance"],
+    crime: ["Crime"],
+    western: ["Western"]
 };
 
 // =====================
@@ -88,9 +85,13 @@ function filterByGenres(targetGenres) {
 // =====================
 // STEP 5: OUTPUTS
 // =====================
+// The source TSV is already filtered to movies with >= 10000 votes
+// (see preprocess.js), so every one of them is written out here.
+// No slicing/sampling on top of that - the vote-count filter is the
+// only cutoff we want, otherwise the year range gets cut short.
 function buildOutputs() {
     // ALL
-    write("movies.json", movies.slice(0, 1000));
+    write("movies.json", movies);
 
     // GENRES
     for (const key in GENRE_MAP) {
@@ -98,7 +99,7 @@ function buildOutputs() {
 
         console.log(key, filtered.length);
 
-        write(`${key}.json`, filtered.slice(0, 500));
+        write(`${key}.json`, filtered);
     }
 }
 
@@ -106,8 +107,12 @@ function buildOutputs() {
 // RUN
 // =====================
 (async () => {
+    if (!fs.existsSync(DIST_DIR)) {
+        fs.mkdirSync(DIST_DIR, { recursive: true });
+    }
+
     await loadTSV();
     buildOutputs();
 
-    console.log("process fertig");
+    console.log("build done");
 })();

@@ -1,25 +1,29 @@
 const fs = require("fs");
+const path = require("path");
 const readline = require("readline");
 
-// Output Streams
-const allStream = fs.createWriteStream("processed/movies.all.tsv");
-const popularStream = fs.createWriteStream("processed/movies.10000.votes.tsv");
+const RAW_DIR = path.join(__dirname, "..", "raw");
+const PROCESSED_DIR = path.join(__dirname, "..", "processed");
 
-// Header schreiben
+const MIN_VOTES = 10000;
+
+// Output streams
+const allStream = fs.createWriteStream(path.join(PROCESSED_DIR, "movies.all.tsv"));
+const popularStream = fs.createWriteStream(path.join(PROCESSED_DIR, "movies.10000.votes.tsv"));
+
 const HEADER = "tconst\ttitleType\tprimaryTitle\toriginalTitle\tisAdult\tyear\truntimeMinutes\tgenres\taverageRating\tnumVotes\n";
 
 allStream.write(HEADER);
 popularStream.write(HEADER);
 
-// Ratings Map
 const ratingMap = {};
 
 // =====================
-// STEP 1: RATINGS LADEN
+// STEP 1: LOAD RATINGS
 // =====================
 async function loadRatings() {
     const rl = readline.createInterface({
-        input: fs.createReadStream("raw/title.ratings.tsv")
+        input: fs.createReadStream(path.join(RAW_DIR, "title.ratings.tsv"))
     });
 
     let first = true;
@@ -40,15 +44,15 @@ async function loadRatings() {
         }
     }
 
-    console.log("ratings geladen");
+    console.log("ratings loaded");
 }
 
 // =====================
-// STEP 2: BASICS VERARBEITEN
+// STEP 2: PROCESS BASICS
 // =====================
 async function processBasics() {
     const rl = readline.createInterface({
-        input: fs.createReadStream("raw/title.basics.tsv")
+        input: fs.createReadStream(path.join(RAW_DIR, "title.basics.tsv"))
     });
 
     let first = true;
@@ -70,7 +74,7 @@ async function processBasics() {
         const runtime = cols[7];
         const genres = cols[8];
 
-        // nur echte Filme
+        // movies only
         if (
             type === "movie" &&
             year !== "\\N" &&
@@ -91,17 +95,17 @@ async function processBasics() {
                 rating.votes
             ].join("\t") + "\n";
 
-            // ALLE Filme
+            // every movie
             allStream.write(row);
 
-            // nur populäre Filme
-            if (rating.votes >= 10000) {
+            // popular movies only
+            if (rating.votes >= MIN_VOTES) {
                 popularStream.write(row);
             }
         }
     }
 
-    console.log("tsv erstellt");
+    console.log("tsv files created");
 }
 
 // =====================
@@ -114,5 +118,5 @@ async function processBasics() {
     allStream.end();
     popularStream.end();
 
-    console.log("preprocess fertig");
+    console.log("preprocess done");
 })();

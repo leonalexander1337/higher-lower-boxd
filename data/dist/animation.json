@@ -2498,5 +2498,410 @@
     "title": "Klaus",
     "year": 2019,
     "rating": 8.2
+  },
+  {
+    "title": "In This Corner of the World",
+    "year": 2016,
+    "rating": 7.8
+  },
+  {
+    "title": "Flow",
+    "year": 2024,
+    "rating": 7.8
+  },
+  {
+    "title": "The SpongeBob Movie: Sponge on the Run",
+    "year": 2020,
+    "rating": 5.9
+  },
+  {
+    "title": "Batman: The Killing Joke",
+    "year": 2016,
+    "rating": 6.4
+  },
+  {
+    "title": "The Emoji Movie",
+    "year": 2017,
+    "rating": 3.5
+  },
+  {
+    "title": "Elio",
+    "year": 2025,
+    "rating": 6.6
+  },
+  {
+    "title": "Injustice",
+    "year": 2021,
+    "rating": 6.4
+  },
+  {
+    "title": "Isle of Dogs",
+    "year": 2018,
+    "rating": 7.8
+  },
+  {
+    "title": "Raya and the Last Dragon",
+    "year": 2021,
+    "rating": 7.3
+  },
+  {
+    "title": "The Secret Life of Pets 2",
+    "year": 2019,
+    "rating": 6.4
+  },
+  {
+    "title": "Minions: The Rise of Gru",
+    "year": 2022,
+    "rating": 6.5
+  },
+  {
+    "title": "Peter Rabbit",
+    "year": 2018,
+    "rating": 6.6
+  },
+  {
+    "title": "Wendell & Wild",
+    "year": 2022,
+    "rating": 6.4
+  },
+  {
+    "title": "Wolfwalkers",
+    "year": 2020,
+    "rating": 8
+  },
+  {
+    "title": "The Willoughbys",
+    "year": 2020,
+    "rating": 6.4
+  },
+  {
+    "title": "Hotel Transylvania 3: Summer Vacation",
+    "year": 2018,
+    "rating": 6.3
+  },
+  {
+    "title": "Your Name.",
+    "year": 2016,
+    "rating": 8.4
+  },
+  {
+    "title": "A Silent Voice: The Movie",
+    "year": 2016,
+    "rating": 8.2
+  },
+  {
+    "title": "Sword Art Online the Movie: Ordinal Scale",
+    "year": 2017,
+    "rating": 7.3
+  },
+  {
+    "title": "Wish Dragon",
+    "year": 2021,
+    "rating": 7.2
+  },
+  {
+    "title": "Kingsglaive: Final Fantasy XV",
+    "year": 2016,
+    "rating": 6.7
+  },
+  {
+    "title": "Leo",
+    "year": 2023,
+    "rating": 7
+  },
+  {
+    "title": "Resident Evil: Vendetta",
+    "year": 2017,
+    "rating": 6.2
+  },
+  {
+    "title": "The Garfield Movie",
+    "year": 2024,
+    "rating": 5.7
+  },
+  {
+    "title": "Spies in Disguise",
+    "year": 2019,
+    "rating": 6.8
+  },
+  {
+    "title": "Ralph Breaks the Internet",
+    "year": 2018,
+    "rating": 7
+  },
+  {
+    "title": "Gantz: O",
+    "year": 2016,
+    "rating": 7.1
+  },
+  {
+    "title": "Godzilla: Planet of the Monsters",
+    "year": 2017,
+    "rating": 6
+  },
+  {
+    "title": "The Angry Birds Movie 2",
+    "year": 2019,
+    "rating": 6.4
+  },
+  {
+    "title": "The Lion King",
+    "year": 2019,
+    "rating": 6.8
+  },
+  {
+    "title": "Smallfoot",
+    "year": 2018,
+    "rating": 6.6
+  },
+  {
+    "title": "A Shaun the Sheep Movie: Farmageddon",
+    "year": 2019,
+    "rating": 6.8
+  },
+  {
+    "title": "Abominable",
+    "year": 2019,
+    "rating": 7
+  },
+  {
+    "title": "Mary and the Witch's Flower",
+    "year": 2017,
+    "rating": 6.8
+  },
+  {
+    "title": "Vivo",
+    "year": 2021,
+    "rating": 6.7
+  },
+  {
+    "title": "Missing Link",
+    "year": 2019,
+    "rating": 6.7
+  },
+  {
+    "title": "Wonder Park",
+    "year": 2019,
+    "rating": 5.9
+  },
+  {
+    "title": "Sing 2",
+    "year": 2021,
+    "rating": 7.3
+  },
+  {
+    "title": "Migration",
+    "year": 2023,
+    "rating": 6.6
+  },
+  {
+    "title": "Batman and Harley Quinn",
+    "year": 2017,
+    "rating": 5.9
+  },
+  {
+    "title": "Blame!",
+    "year": 2017,
+    "rating": 6.6
+  },
+  {
+    "title": "The Boy and the Heron",
+    "year": 2023,
+    "rating": 7.3
+  },
+  {
+    "title": "Trolls World Tour",
+    "year": 2020,
+    "rating": 6.1
+  },
+  {
+    "title": "The Super Mario Bros. Movie",
+    "year": 2023,
+    "rating": 7
+  },
+  {
+    "title": "Mirai",
+    "year": 2018,
+    "rating": 7
+  },
+  {
+    "title": "The Boss Baby: Family Business",
+    "year": 2021,
+    "rating": 5.8
+  },
+  {
+    "title": "The Summit of the Gods",
+    "year": 2021,
+    "rating": 7.5
+  },
+  {
+    "title": "Next Gen",
+    "year": 2018,
+    "rating": 6.6
+  },
+  {
+    "title": "Onward",
+    "year": 2020,
+    "rating": 7.4
+  },
+  {
+    "title": "Reign of the Supermen",
+    "year": 2019,
+    "rating": 6.8
+  },
+  {
+    "title": "Luck",
+    "year": 2022,
+    "rating": 6.5
+  },
+  {
+    "title": "I Want to Eat Your Pancreas",
+    "year": 2018,
+    "rating": 8.1
+  },
+  {
+    "title": "Maquia: When the Promised Flower Blooms",
+    "year": 2018,
+    "rating": 7.4
+  },
+  {
+    "title": "Teen Titans GO! To the Movies",
+    "year": 2018,
+    "rating": 6.7
+  },
+  {
+    "title": "Batman Ninja",
+    "year": 2018,
+    "rating": 5.6
+  },
+  {
+    "title": "The Bob's Burgers Movie",
+    "year": 2022,
+    "rating": 7
+  },
+  {
+    "title": "Over the Moon",
+    "year": 2020,
+    "rating": 6.3
+  },
+  {
+    "title": "Ron's Gone Wrong",
+    "year": 2021,
+    "rating": 7.1
+  },
+  {
+    "title": "Despicable Me 4",
+    "year": 2024,
+    "rating": 6.2
+  },
+  {
+    "title": "My Hero Academia: Two Heroes",
+    "year": 2018,
+    "rating": 7.3
+  },
+  {
+    "title": "Dragon Ball Super: Broly",
+    "year": 2018,
+    "rating": 7.7
+  },
+  {
+    "title": "Apollo 10½: A Space Age Childhood",
+    "year": 2022,
+    "rating": 7.2
+  },
+  {
+    "title": "The Mitchells vs. the Machines",
+    "year": 2021,
+    "rating": 7.6
+  },
+  {
+    "title": "Asterix: The Secret of the Magic Potion",
+    "year": 2018,
+    "rating": 6.7
+  },
+  {
+    "title": "Turning Red",
+    "year": 2022,
+    "rating": 6.9
+  },
+  {
+    "title": "The Bad Guys",
+    "year": 2022,
+    "rating": 6.9
+  },
+  {
+    "title": "Chicken Run: Dawn of the Nugget",
+    "year": 2023,
+    "rating": 6.3
+  },
+  {
+    "title": "Peter Rabbit 2: The Runaway",
+    "year": 2021,
+    "rating": 6.2
+  },
+  {
+    "title": "Flee",
+    "year": 2021,
+    "rating": 7.9
+  },
+  {
+    "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+    "year": 2023,
+    "rating": 7.2
+  },
+  {
+    "title": "Violet Evergarden: The Movie",
+    "year": 2020,
+    "rating": 8.3
+  },
+  {
+    "title": "Justice League vs the Fatal Five",
+    "year": 2019,
+    "rating": 6.5
+  },
+  {
+    "title": "Transformers One",
+    "year": 2024,
+    "rating": 7.6
+  },
+  {
+    "title": "DC League of Super-Pets",
+    "year": 2022,
+    "rating": 6.8
+  },
+  {
+    "title": "Constantine: City of Demons",
+    "year": 2018,
+    "rating": 7.3
+  },
+  {
+    "title": "The Sea Beast",
+    "year": 2022,
+    "rating": 7
+  },
+  {
+    "title": "Spider-Man: Across the Spider-Verse",
+    "year": 2023,
+    "rating": 8.5
+  },
+  {
+    "title": "Weathering with You",
+    "year": 2019,
+    "rating": 7.5
+  },
+  {
+    "title": "Mortal Kombat Legends: Scorpion's Revenge",
+    "year": 2020,
+    "rating": 7.4
+  },
+  {
+    "title": "I Lost My Body",
+    "year": 2019,
+    "rating": 7.5
+  },
+  {
+    "title": "Hotel Transylvania 4: Transformania",
+    "year": 2022,
+    "rating": 6
   }
 ]

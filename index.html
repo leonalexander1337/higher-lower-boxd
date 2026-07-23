@@ -12,17 +12,17 @@
         <div id="sidebar-left" class="sidebar">
             <h2>Modes</h2>
             <div class="mode-buttons">
-                <button onclick="setMode('movies', this)">All</button>
-                <button onclick="setMode('action', this)">Action</button>
-                <button onclick="setMode('animation', this)">Animation</button>
-                <button onclick="setMode('comedy', this)">Comedy</button>
-                <button onclick="setMode('crime', this)">Crime</button>
-                <button onclick="setMode('drama', this)">Drama</button>
-                <button onclick="setMode('horror', this)">Horror</button>
-                <button onclick="setMode('romance', this)">Romance</button>
-                <button onclick="setMode('scifi', this)">Sci-Fi</button>
-                <button onclick="setMode('thriller', this)">Thriller</button>  
-                <button onclick="setMode('western', this)">Western</button>
+                <button data-mode="movies">All</button>
+                <button data-mode="action">Action</button>
+                <button data-mode="animation">Animation</button>
+                <button data-mode="comedy">Comedy</button>
+                <button data-mode="crime">Crime</button>
+                <button data-mode="drama">Drama</button>
+                <button data-mode="horror">Horror</button>
+                <button data-mode="romance">Romance</button>
+                <button data-mode="scifi">Sci-Fi</button>
+                <button data-mode="thriller">Thriller</button>
+                <button data-mode="western">Western</button>
             </div>
             <div class="slider-section">
                 <h3>Year Range</h3>
@@ -53,8 +53,8 @@
             <div id="game">
                 <div id="movieA"></div>
                 <div id="buttons">
-                    <button onclick="guess('higher')">Higher</button>
-                    <button onclick="guess('lower')">Lower</button>
+                    <button id="btn-higher">Higher</button>
+                    <button id="btn-lower">Lower</button>
                 </div>
                 <div id="movieB"></div>
             </div>
@@ -70,6 +70,6 @@
 
     </div>
 
-    <script src="script.js"></script>
+    <script type="module" src="src/main.js"></script>
 </body>
 </html>

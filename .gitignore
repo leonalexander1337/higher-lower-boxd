@@ -20,3 +20,6 @@ package-lock.json
 
 # security
 .env
+
+# agents
+.claude

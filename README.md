@@ -1,20 +1,21 @@
-Generieren:
+Generate data (only needed once, or after updating raw/*.tsv):
 
-    node process.js
+    node data/scripts/preprocess.js
+    node data/scripts/build.js
 
-Starten:
+Start:
 
     npm init -y
 
     npx serve
 
-Beenden:
+Stop:
 
     CTRL + C
-	
+
 API usage:
 
-	https://developer.themoviedb.org/docs/faq
+    https://developer.themoviedb.org/docs/faq
 
 Github Pages:
 
