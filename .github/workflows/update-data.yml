@@ -1,0 +1,78 @@
+name: Update data & deploy
+
+on:
+  # weekly data refresh (Mondays, 04:17 UTC - off the full hour, when
+  # GitHub's scheduler is busiest)
+  schedule:
+    - cron: "17 4 * * 1"
+  # manual run from the Actions tab
+  workflow_dispatch:
+  # code changes only redeploy the site, no data refresh
+  push:
+    branches: [main]
+
+# never run two updates/deploys at the same time
+concurrency:
+  group: update-and-deploy
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  update:
+    if: github.event_name != 'push'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Download, preprocess, build
+        run: node data/scripts/update.js
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/dist data/cache
+          if git diff --cached --quiet; then
+            echo "no data changes"
+          else
+            git commit -m "chore(data): weekly IMDb refresh"
+            git pull --rebase origin main
+            git push origin main
+          fi
+
+  deploy:
+    needs: update
+    # also deploy when update was skipped (push event)
+    if: always() && (needs.update.result == 'success' || needs.update.result == 'skipped')
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      # main instead of the triggering commit, so a fresh data commit is included
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - id: deployment
+        uses: actions/deploy-pages@v4
