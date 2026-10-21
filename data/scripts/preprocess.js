@@ -7,6 +7,9 @@ const PROCESSED_DIR = path.join(__dirname, "..", "processed");
 
 const MIN_VOTES = 10000;
 
+// processed/ is gitignored, so it doesn't exist on a fresh checkout (CI)
+fs.mkdirSync(PROCESSED_DIR, { recursive: true });
+
 // Output streams
 const allStream = fs.createWriteStream(path.join(PROCESSED_DIR, "movies.all.tsv"));
 const popularStream = fs.createWriteStream(path.join(PROCESSED_DIR, "movies.10000.votes.tsv"));
