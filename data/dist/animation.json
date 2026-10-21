@@ -2,2906 +2,3559 @@
   {
     "title": "Snow White and the Seven Dwarfs",
     "year": 1937,
-    "rating": 7.6
+    "rating": 7.6,
+    "poster": "/3VAHfuNb6Z7UiW12iYKANSPBl8m.jpg"
   },
   {
     "title": "Fantasia",
     "year": 1940,
-    "rating": 7.7
+    "rating": 7.7,
+    "poster": "/5m9njnidjR0syG2gpVPVgcEMB2X.jpg"
   },
   {
     "title": "Pinocchio",
     "year": 1940,
-    "rating": 7.5
+    "rating": 7.4,
+    "poster": "/bnZJrLRnoQHpzEJdka1KYfsAF3N.jpg"
   },
   {
     "title": "Dumbo",
     "year": 1941,
-    "rating": 7.2
+    "rating": 7.2,
+    "poster": "/hKDdllslMtsU9JixAv5HR9biXlp.jpg"
   },
   {
     "title": "Bambi",
     "year": 1942,
-    "rating": 7.3
+    "rating": 7.3,
+    "poster": "/wV9e2y4myJ4KMFsyFfWYcUOawyK.jpg"
   },
   {
     "title": "The Three Caballeros",
     "year": 1944,
-    "rating": 6.3
+    "rating": 6.2,
+    "poster": "/nMfScRxw9wVLoO7LiEjziFAKLSK.jpg"
   },
   {
     "title": "Song of the South",
     "year": 1946,
-    "rating": 6.9
+    "rating": 6.9,
+    "poster": "/lFlWpfcw8TCmZ88jw6e943vEbtu.jpg"
   },
   {
     "title": "Fun and Fancy Free",
     "year": 1947,
-    "rating": 6.3
+    "rating": 6.3,
+    "poster": "/zBMBHx7JrHIB6U4wYT3q0yvwQuP.jpg"
   },
   {
     "title": "The Adventures of Ichabod and Mr. Toad",
     "year": 1949,
-    "rating": 6.8
+    "rating": 6.8,
+    "poster": "/o6GfVkgPaaHJnXNywDLpHJII2tW.jpg"
   },
   {
     "title": "Cinderella",
     "year": 1950,
-    "rating": 7.3
+    "rating": 7.3,
+    "poster": "/4nssBcQUBadCTBjrAkX46mVEKts.jpg"
   },
   {
     "title": "Alice in Wonderland",
     "year": 1951,
-    "rating": 7.3
+    "rating": 7.3,
+    "poster": "/20cvfwfaFqNbe9Fc3VEHJuPRxmn.jpg"
   },
   {
     "title": "Peter Pan",
     "year": 1953,
-    "rating": 7.2
+    "rating": 7.2,
+    "poster": "/fJJOs1iyrhKfZceANxoPxPwNGF1.jpg"
   },
   {
     "title": "Animal Farm",
     "year": 1954,
-    "rating": 7.2
+    "rating": 7.2,
+    "poster": "/lhLp9a0jBIPLMAdUFNlYjCuS72Q.jpg"
   },
   {
     "title": "Lady and the Tramp",
     "year": 1955,
-    "rating": 7.3
+    "rating": 7.3,
+    "poster": "/340NcWz9SQXWQyf4oicMxjbrLOb.jpg"
   },
   {
     "title": "Sleeping Beauty",
     "year": 1959,
-    "rating": 7.2
+    "rating": 7.2,
+    "poster": "/pO9YMLSmj3essVSWSGygjGxX6Kw.jpg"
   },
   {
     "title": "One Hundred and One Dalmatians",
     "year": 1961,
-    "rating": 7.3
+    "rating": 7.3,
+    "poster": "/kSlYq6FrBUviGSEh8v4L9nrSnBT.jpg"
   },
   {
     "title": "The Sword in the Stone",
     "year": 1963,
-    "rating": 7.1
+    "rating": 7.1,
+    "poster": "/7lyeeuhGAJSNXYEW34S8mJ1bwI8.jpg"
   },
   {
     "title": "Asterix the Gaul",
     "year": 1967,
-    "rating": 6.6
+    "rating": 6.6,
+    "poster": "/A2dlVs5WRmAwIPVS5vODhAOkNy7.jpg"
   },
   {
     "title": "The Jungle Book",
     "year": 1967,
-    "rating": 7.6
+    "rating": 7.6,
+    "poster": "/yN1kuupnPTLUprgfvC5WapgrxG4.jpg"
   },
   {
     "title": "Asterix and Cleopatra",
     "year": 1968,
-    "rating": 7.2
+    "rating": 7.2,
+    "poster": "/gNpKAmWFsCiWKKx39Ap8pF7EWQg.jpg"
   },
   {
     "title": "Yellow Submarine",
     "year": 1968,
-    "rating": 7.4
+    "rating": 7.4,
+    "poster": "/1pmeLKaLFNggcsAk5FiouIvo3ST.jpg"
   },
   {
     "title": "The Aristocats",
     "year": 1970,
-    "rating": 7.1
+    "rating": 7.1,
+    "poster": "/aOWs5XMJEABN6SKCTJBCoeD1kCA.jpg"
   },
   {
     "title": "Bedknobs and Broomsticks",
     "year": 1971,
-    "rating": 7.1
+    "rating": 7.1,
+    "poster": "/1BBzsThIZ06UmjZ3rChYGZhJtFQ.jpg"
   },
   {
     "title": "Fritz the Cat",
     "year": 1972,
-    "rating": 6.2
+    "rating": 6.2,
+    "poster": "/q0UOEBPQKZykmB1hz7yzHJNybLn.jpg"
   },
   {
     "title": "Charlotte's Web",
     "year": 1973,
-    "rating": 6.9
+    "rating": 6.9,
+    "poster": "/eLq5bed09bkNVjUfknlbSil2cfR.jpg"
   },
   {
     "title": "Fantastic Planet",
     "year": 1973,
-    "rating": 7.6
+    "rating": 7.6,
+    "poster": "/prq0j1S0K07UjwLZLF6oMGflRUI.jpg"
   },
   {
     "title": "Robin Hood",
     "year": 1973,
-    "rating": 7.5
+    "rating": 7.5,
+    "poster": "/x9AvkYek0bGdxQSZ8W3lAjGrREm.jpg"
   },
   {
     "title": "The Twelve Tasks of Asterix",
     "year": 1976,
-    "rating": 7.7
+    "rating": 7.7,
+    "poster": "/7cZQZOYZFJcLjZnxWjO5PcUtmDZ.jpg"
   },
   {
     "title": "The Pinchcliffe Grand Prix",
     "year": 1975,
-    "rating": 8.5
+    "rating": 8.4,
+    "poster": "/iWnG4MrdUcrJ3dhB2pvwQZjKXIR.jpg"
   },
   {
     "title": "The Many Adventures of Winnie the Pooh",
     "year": 1977,
-    "rating": 7.5
+    "rating": 7.5,
+    "poster": "/nefc61WQGahSWoNRrndoqinrZQu.jpg"
   },
   {
     "title": "Pete's Dragon",
     "year": 1977,
-    "rating": 6.3
+    "rating": 6.4,
+    "poster": "/noShGNQKAgMqNanJL5EiZlf6LCp.jpg"
   },
   {
     "title": "The Rescuers",
     "year": 1977,
-    "rating": 6.9
+    "rating": 6.9,
+    "poster": "/9jpDjrRyvv9Nw0piXOpHHQTfxw9.jpg"
   },
   {
     "title": "Wizards",
     "year": 1977,
-    "rating": 6.3
+    "rating": 6.3,
+    "poster": "/jeAxoYepnVirGe0H7pmwviSZYul.jpg"
   },
   {
     "title": "The Lord of the Rings",
     "year": 1978,
-    "rating": 6.2
+    "rating": 6.2,
+    "poster": "/liW0mjvTyLs7UCumaHhx3PpU4VT.jpg"
   },
   {
     "title": "Watership Down",
     "year": 1978,
-    "rating": 7.5
+    "rating": 7.5,
+    "poster": "/q9ZcNxfquJbMTd6UfhAlJbmLBts.jpg"
   },
   {
     "title": "Lupin III: The Castle of Cagliostro",
     "year": 1979,
-    "rating": 7.6
+    "rating": 7.6,
+    "poster": "/p7xL3WYeclgtGCLrWfBrXKdBV7d.jpg"
   },
   {
     "title": "The Fox and the Hound",
     "year": 1981,
-    "rating": 7.2
+    "rating": 7.2,
+    "poster": "/bbPEYD1z1DN13UJMr9sjhMh8DJx.jpg"
   },
   {
     "title": "Heavy Metal",
     "year": 1981,
-    "rating": 6.6
+    "rating": 6.6,
+    "poster": "/atUtWrDlLzT1yeVK2EoYtvbS963.jpg"
   },
   {
     "title": "The Last Unicorn",
     "year": 1982,
-    "rating": 7.3
+    "rating": 7.3,
+    "poster": "/MRHFtXTjxC74MGCzHACcuqvHiw.jpg"
+  },
+  {
+    "title": "The Plague Dogs",
+    "year": 1982,
+    "rating": 7.7,
+    "poster": "/aPlkqs5cmOgaZJhekW5CvGywSkx.jpg"
   },
   {
     "title": "The Secret of NIMH",
     "year": 1982,
-    "rating": 7.5
+    "rating": 7.5,
+    "poster": "/prNrnOKlkV9wl5Sl3zwHu1f3t2z.jpg"
   },
   {
     "title": "Barefoot Gen",
     "year": 1983,
-    "rating": 8
+    "rating": 8,
+    "poster": "/kVqQToQ47e27b9uoryttWgTPiik.jpg"
   },
   {
     "title": "Fire and Ice",
     "year": 1983,
-    "rating": 6.5
+    "rating": 6.5,
+    "poster": "/qj7j4vbdQKW8JXjyFHpIJlFrbmY.jpg"
   },
   {
     "title": "Nausicaä of the Valley of the Wind",
     "year": 1984,
-    "rating": 8
+    "rating": 8,
+    "poster": "/tcrkfB8SRPQCgwI88hQScua6nxh.jpg"
   },
   {
     "title": "Asterix Versus Caesar",
     "year": 1985,
-    "rating": 6.8
+    "rating": 6.8,
+    "poster": "/8LlqOgKKU0BeZzEo1PMMIjtLuj4.jpg"
   },
   {
     "title": "The Black Cauldron",
     "year": 1985,
-    "rating": 6.3
+    "rating": 6.3,
+    "poster": "/h64i9e6oJs2jrDZ4QzspXMqZhPF.jpg"
   },
   {
     "title": "Vampire Hunter D",
     "year": 1985,
-    "rating": 7
+    "rating": 7,
+    "poster": "/yhKS0Wi6HNOHauWl0M3fr23hiB7.jpg"
   },
   {
     "title": "When the Wind Blows",
     "year": 1986,
-    "rating": 7.7
+    "rating": 7.7,
+    "poster": "/sQ7CgHdDcKnnzhCXA7wC2JVL7qq.jpg"
   },
   {
     "title": "An American Tail",
     "year": 1986,
-    "rating": 6.9
+    "rating": 6.9,
+    "poster": "/51pLurrIQDhXZab4cv8lHP32UiR.jpg"
   },
   {
     "title": "Asterix in Britain",
     "year": 1986,
-    "rating": 7.1
+    "rating": 7.1,
+    "poster": "/10L5R1l03MqDx36e0LJ99NKLGD3.jpg"
   },
   {
     "title": "The Great Mouse Detective",
     "year": 1986,
-    "rating": 7.1
+    "rating": 7.1,
+    "poster": "/9uDr7vfjCFr39KGCcqrk44Cg7fQ.jpg"
   },
   {
     "title": "Castle in the Sky",
     "year": 1986,
-    "rating": 8
+    "rating": 8,
+    "poster": "/41XxSsJc5OrulP0m7TrrUeO2hoz.jpg"
   },
   {
     "title": "The Transformers: The Movie",
     "year": 1986,
-    "rating": 7.2
-  },
-  {
-    "title": "The Brave Little Toaster",
-    "year": 1987,
-    "rating": 7.2
+    "rating": 7.2,
+    "poster": "/xJ5W0mOAWCVaXmU0pBZh4NjSRv2.jpg"
   },
   {
     "title": "Akira",
     "year": 1988,
-    "rating": 8
+    "rating": 8,
+    "poster": "/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg"
   },
   {
     "title": "Grave of the Fireflies",
     "year": 1988,
-    "rating": 8.5
+    "rating": 8.5,
+    "poster": "/k9tv1rXZbOhH7eiCk378x61kNQ1.jpg"
   },
   {
     "title": "The Land Before Time",
     "year": 1988,
-    "rating": 7.4
+    "rating": 7.4,
+    "poster": "/7phV1ETZnQrLsEeuk4hNeceEl25.jpg"
   },
   {
     "title": "Alice",
     "year": 1988,
-    "rating": 7.4
+    "rating": 7.4,
+    "poster": "/3EcTuXjJT6PnAcJDJYI4WbiupCV.jpg"
   },
   {
     "title": "Oliver & Company",
     "year": 1988,
-    "rating": 6.6
+    "rating": 6.6,
+    "poster": "/dgaSqUHjm4CLOdiiJJJstVdreEe.jpg"
   },
   {
     "title": "My Neighbor Totoro",
     "year": 1988,
-    "rating": 8.1
+    "rating": 8.1,
+    "poster": "/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg"
   },
   {
     "title": "Who Framed Roger Rabbit",
     "year": 1988,
-    "rating": 7.7
+    "rating": 7.7,
+    "poster": "/lYfRc57Kx9VgLZ48iulu0HKnM15.jpg"
   },
   {
     "title": "All Dogs Go to Heaven",
     "year": 1989,
-    "rating": 6.8
+    "rating": 6.8,
+    "poster": "/nmWh1NglDinfkHD9zCNqGWyhl7Q.jpg"
   },
   {
     "title": "The Little Mermaid",
     "year": 1989,
-    "rating": 7.6
+    "rating": 7.6,
+    "poster": "/plcZXvI310FkbwIptvd6rqk63LP.jpg"
   },
   {
     "title": "Kiki's Delivery Service",
     "year": 1989,
-    "rating": 7.8
+    "rating": 7.8,
+    "poster": "/Aufa4YdZIv4AXpR9rznwVA5SEfd.jpg"
   },
   {
     "title": "Wicked City",
     "year": 1987,
-    "rating": 6.7
+    "rating": 6.7,
+    "poster": "/aFtLwGv6pcqO72M1v5iQYZOCkZ5.jpg"
   },
   {
-    "title": "DuckTales the Movie: Treasure of the Lost Lamp",
+    "title": "DuckTales: The Movie - Treasure of the Lost Lamp",
     "year": 1990,
-    "rating": 6.8
+    "rating": 6.8,
+    "poster": "/tXya1Z9SC51kNOHsFxRqL1GIBua.jpg"
   },
   {
     "title": "The Rescuers Down Under",
     "year": 1990,
-    "rating": 6.8
+    "rating": 6.8,
+    "poster": "/5koTDBmMAkJOgAe4PL4163UKjvG.jpg"
   },
   {
     "title": "An American Tail: Fievel Goes West",
     "year": 1991,
-    "rating": 6.5
+    "rating": 6.5,
+    "poster": "/k4aLupAkHWwHiEDwvqsZFAnUYF.jpg"
   },
   {
     "title": "Beauty and the Beast",
     "year": 1991,
-    "rating": 8
+    "rating": 8,
+    "poster": "/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg"
   },
   {
     "title": "Only Yesterday",
     "year": 1991,
-    "rating": 7.6
+    "rating": 7.6,
+    "poster": "/tOSnFE9e82iH3ZAzSTtuOkBsabJ.jpg"
   },
   {
     "title": "Rock-A-Doodle",
     "year": 1991,
-    "rating": 6
+    "rating": 6,
+    "poster": "/q5xSS8MNmrwR3em6VB6OC3992d6.jpg"
   },
   {
     "title": "Aladdin",
     "year": 1992,
-    "rating": 8
+    "rating": 8,
+    "poster": "/eLFfl7vS8dkeG1hKp5mwbm37V83.jpg"
   },
   {
     "title": "Cool World",
     "year": 1992,
-    "rating": 4.9
+    "rating": 4.9,
+    "poster": "/mqzRUHNtFwmgJCmSnvq3JnX0xgZ.jpg"
   },
   {
     "title": "FernGully: The Last Rainforest",
     "year": 1992,
-    "rating": 6.6
+    "rating": 6.6,
+    "poster": "/xkJxdeaibcrcsi1XHvT0IuOjdzB.jpg"
   },
   {
     "title": "Porco Rosso",
     "year": 1992,
-    "rating": 7.7
+    "rating": 7.7,
+    "poster": "/8mIvSvnVBApfORL9N6S38Q7wD6A.jpg"
   },
   {
     "title": "Tom and Jerry: The Movie",
     "year": 1992,
-    "rating": 5.5
+    "rating": 5.5,
+    "poster": "/k68ZB5trRKcEJSQdPiY6jtxVq14.jpg"
   },
   {
     "title": "Batman: Mask of the Phantasm",
     "year": 1993,
-    "rating": 7.8
+    "rating": 7.8,
+    "poster": "/hT4ehUteagUrhUOHAtmYiY7mp5l.jpg"
   },
   {
     "title": "The Nightmare Before Christmas",
     "year": 1993,
-    "rating": 7.9
+    "rating": 7.9,
+    "poster": "/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg"
   },
   {
     "title": "Ninja Scroll",
     "year": 1993,
-    "rating": 7.8
+    "rating": 7.8,
+    "poster": "/qzZEnaXwv4wss2QalEo4Uf9BAwh.jpg"
   },
   {
     "title": "We're Back! A Dinosaur's Story",
     "year": 1993,
-    "rating": 6
+    "rating": 6.1,
+    "poster": "/iyFmhYlioe3PDZjSKWtcIhu5R02.jpg"
   },
   {
     "title": "Pom Poko",
     "year": 1994,
-    "rating": 7.2
+    "rating": 7.2,
+    "poster": "/gyoJmFf24MOUc4TTu97sd0cHIQF.jpg"
   },
   {
     "title": "The Lion King",
     "year": 1994,
-    "rating": 8.5
+    "rating": 8.5,
+    "poster": "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg"
   },
   {
     "title": "The Pagemaster",
     "year": 1994,
-    "rating": 6.2
+    "rating": 6.2,
+    "poster": "/iIWUuCjN8VND7BDugvf45LveA6p.jpg"
   },
   {
     "title": "The Swan Princess",
     "year": 1994,
-    "rating": 6.5
+    "rating": 6.5,
+    "poster": "/f5YvIPrkJ9HCsNbgzWJJyxXVNhj.jpg"
   },
   {
     "title": "Thumbelina",
     "year": 1994,
-    "rating": 6.3
+    "rating": 6.3,
+    "poster": "/eBvSSfwAKgcjF4eyaeNSzTCpfaF.jpg"
   },
   {
     "title": "Balto",
     "year": 1995,
-    "rating": 7.1
+    "rating": 7.1,
+    "poster": "/dCVcdb5oxDizqFLz0F7TE60NoC9.jpg"
   },
   {
     "title": "A Goofy Movie",
     "year": 1995,
-    "rating": 7
+    "rating": 7,
+    "poster": "/bycmMhO3iIoEDzP768sUjq2RV4T.jpg"
   },
   {
     "title": "Ghost in the Shell",
     "year": 1995,
-    "rating": 7.9
+    "rating": 7.9,
+    "poster": "/9gC88zYUBARRSThcG93MvW14sqx.jpg"
   },
   {
     "title": "Memories",
     "year": 1995,
-    "rating": 7.5
+    "rating": 7.5,
+    "poster": "/e0HIBRiKS5dWmXkxWvEh6JQZcc2.jpg"
   },
   {
     "title": "Whisper of the Heart",
     "year": 1995,
-    "rating": 7.8
+    "rating": 7.8,
+    "poster": "/5FROLD8zpWFs9ja7aYho1uOMJHg.jpg"
   },
   {
     "title": "Pocahontas",
     "year": 1995,
-    "rating": 6.7
+    "rating": 6.7,
+    "poster": "/kZ1ft0QZ4e3zDUPMBftEkwI9ftd.jpg"
   },
   {
     "title": "Street Fighter II: The Animated Movie",
     "year": 1994,
-    "rating": 7.2
+    "rating": 7.2,
+    "poster": "/dZ1rqmE4eIhPbUCr7sn2Pw2wwGW.jpg"
   },
   {
     "title": "Toy Story",
     "year": 1995,
-    "rating": 8.3
+    "rating": 8.3,
+    "poster": "/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg"
   },
   {
     "title": "Beavis and Butt-Head Do America",
     "year": 1996,
-    "rating": 6.8
+    "rating": 6.8,
+    "poster": "/vqdgQiRCSzgpFXLlbxbybfkleBM.jpg"
   },
   {
     "title": "The Hunchback of Notre Dame",
     "year": 1996,
-    "rating": 7
+    "rating": 7,
+    "poster": "/dmMBtXuFzZzLYgeQXkOkg98w2Ak.jpg"
   },
   {
     "title": "James and the Giant Peach",
     "year": 1996,
-    "rating": 6.7
+    "rating": 6.7,
+    "poster": "/vNEGobe23vW43mSPYVaVaBLP6qV.jpg"
   },
   {
     "title": "Space Jam",
     "year": 1996,
-    "rating": 6.5
+    "rating": 6.5,
+    "poster": "/4RN5El3Pj2W4gpwgiAGLVfSJv2g.jpg"
   },
   {
     "title": "Anastasia",
     "year": 1997,
-    "rating": 7.2
+    "rating": 7.2,
+    "poster": "/bppGWGA8zq1sRvTdDJnUzVW9GcH.jpg"
   },
   {
     "title": "Heavy Metal 2000",
     "year": 2000,
-    "rating": 5.4
+    "rating": 5.4,
+    "poster": "/dCggUkmi3Fyc1HrSnyaSxKPrG4n.jpg"
   },
   {
     "title": "Hercules",
     "year": 1997,
-    "rating": 7.3
+    "rating": 7.3,
+    "poster": "/dK9rNoC97tgX3xXg5zdxFisdfcp.jpg"
   },
   {
     "title": "Princess Mononoke",
     "year": 1997,
-    "rating": 8.3
+    "rating": 8.3,
+    "poster": "/cMYCDADoLKLbB83g4WnJegaZimC.jpg"
   },
   {
     "title": "Toy Story 2",
     "year": 1999,
-    "rating": 7.9
+    "rating": 7.9,
+    "poster": "/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg"
   },
   {
     "title": "Antz",
     "year": 1998,
-    "rating": 6.5
+    "rating": 6.5,
+    "poster": "/lWPjxbUMpAHFkJpZHHNWhQaRsax.jpg"
   },
   {
     "title": "A Bug's Life",
     "year": 1998,
-    "rating": 7.2
+    "rating": 7.2,
+    "poster": "/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg"
   },
   {
     "title": "Chicken Run",
     "year": 2000,
-    "rating": 7.1
+    "rating": 7.1,
+    "poster": "/8XgmIsbpVamdhwcNVsYzohFZTtT.jpg"
   },
   {
     "title": "Mulan",
     "year": 1998,
-    "rating": 7.7
+    "rating": 7.7,
+    "poster": "/jAbexAtB0aSfP5Ay4TpWHARyVnG.jpg"
   },
   {
     "title": "The Prince of Egypt",
     "year": 1998,
-    "rating": 7.2
+    "rating": 7.3,
+    "poster": "/2xUjYwL6Ol7TLJPPKs7sYW5PWLX.jpg"
   },
   {
     "title": "Quest for Camelot",
     "year": 1998,
-    "rating": 6.3
+    "rating": 6.3,
+    "poster": "/pLfFEQ9HTw0HRvBkW3nI9RUze03.jpg"
   },
   {
     "title": "Tarzan",
     "year": 1999,
-    "rating": 7.3
+    "rating": 7.3,
+    "poster": "/bTvHlcqiOjGa3lFtbrTLTM3zasY.jpg"
   },
   {
     "title": "Fantasia 2000",
     "year": 1999,
-    "rating": 7.1
+    "rating": 7.1,
+    "poster": "/5rwAtUaKEK48CPUijVfVU0IPKPZ.jpg"
   },
   {
     "title": "Titan A.E.",
     "year": 2000,
-    "rating": 6.6
+    "rating": 6.6,
+    "poster": "/el2iHk3LTJWfEnwrvcRkvWY501G.jpg"
   },
   {
     "title": "The Emperor's New Groove",
     "year": 2000,
-    "rating": 7.4
+    "rating": 7.4,
+    "poster": "/wwbgkXQBEKtnyIJapk6gUgWkVw8.jpg"
   },
   {
     "title": "Corpse Bride",
     "year": 2005,
-    "rating": 7.4
+    "rating": 7.4,
+    "poster": "/3RAoVTxUk1OzZClscAsynuu670p.jpg"
   },
   {
     "title": "Shrek",
     "year": 2001,
-    "rating": 7.9
+    "rating": 7.9,
+    "poster": "/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg"
   },
   {
     "title": "The Iron Giant",
     "year": 1999,
-    "rating": 8.1
+    "rating": 8.1,
+    "poster": "/k1Cv5CHJvqGWK1xJDUJz8DojFEy.jpg"
   },
   {
     "title": "Dinosaur",
     "year": 2000,
-    "rating": 6.4
+    "rating": 6.4,
+    "poster": "/rSje3FS7ycJSglowlngjsvDt7vO.jpg"
   },
   {
     "title": "Treasure Planet",
     "year": 2002,
-    "rating": 7.2
+    "rating": 7.2,
+    "poster": "/kNhZkR3UNbXfvESQo7mJpOi4tGd.jpg"
   },
   {
     "title": "The Rugrats Movie",
     "year": 1998,
-    "rating": 5.9
+    "rating": 6,
+    "poster": "/uZejGKCSd6nwfMx8U0Td37U2fTc.jpg"
   },
   {
     "title": "The Road to El Dorado",
     "year": 2000,
-    "rating": 6.9
+    "rating": 6.9,
+    "poster": "/tQuqhUBACMcGqCvliHxpJreBfXC.jpg"
   },
   {
     "title": "Dragon Ball Z: Fusion Reborn",
     "year": 1995,
-    "rating": 7.6
+    "rating": 7.6,
+    "poster": "/rCU5ddP3FVSDJy81UldUsBuf3ag.jpg"
   },
   {
     "title": "Dragon Ball Z: Broly - The Legendary Super Saiyan",
     "year": 1993,
-    "rating": 7.3
+    "rating": 7.3,
+    "poster": "/6iO8TJCyLI4BiPYOvdwzPV2bhoV.jpg"
   },
   {
     "title": "Dragon Ball Z: Wrath of the Dragon",
     "year": 1995,
-    "rating": 7.4
+    "rating": 7.4,
+    "poster": "/7uRu9EA3nie0n2mlVDDLlTI3IzC.jpg"
   },
   {
     "title": "Perfect Blue",
     "year": 1997,
-    "rating": 8
+    "rating": 8,
+    "poster": "/6WTiOCfDPP8XV4jqfloiVWf7KHq.jpg"
   },
   {
     "title": "South Park: Bigger, Longer & Uncut",
     "year": 1999,
-    "rating": 7.7
+    "rating": 7.7,
+    "poster": "/tS0PedvA2mFO9VCHYwQpaU1K36U.jpg"
   },
   {
     "title": "Sinbad: Legend of the Seven Seas",
     "year": 2003,
-    "rating": 6.8
+    "rating": 6.8,
+    "poster": "/yiW2L1fDiBT7AeWXrykhTNtPrr8.jpg"
   },
   {
     "title": "Spirit: Stallion of the Cimarron",
     "year": 2002,
-    "rating": 7.2
+    "rating": 7.2,
+    "poster": "/bBEkKDQFianNYwGWR7gJfPVakmG.jpg"
   },
   {
     "title": "Neon Genesis Evangelion: The End of Evangelion",
     "year": 1997,
-    "rating": 8.1
+    "rating": 8.1,
+    "poster": "/j6G24dqI4WgUtChhWjfnI4lnmiK.jpg"
   },
   {
     "title": "Neon Genesis Evangelion: Death & Rebirth",
     "year": 1997,
-    "rating": 7.2
+    "rating": 7.2,
+    "poster": "/lXBjqzo6c4NyLuJtqOiH39kswji.jpg"
   },
   {
     "title": "Final Fantasy: The Spirits Within",
     "year": 2001,
-    "rating": 6.4
+    "rating": 6.4,
+    "poster": "/47b1EwFqqSWxYna7NtUM7iML4oT.jpg"
   },
   {
     "title": "Cat City",
     "year": 1986,
-    "rating": 8.3
+    "rating": 8.2,
+    "poster": "/8cPcKE7HEieNJVTft11xRKXFpAv.jpg"
   },
   {
     "title": "Kirikou and the Sorceress",
     "year": 1998,
-    "rating": 7.5
+    "rating": 7.5,
+    "poster": "/9RNrozaagFmpm6m0CP7q4XDcIXj.jpg"
   },
   {
     "title": "Osmosis Jones",
     "year": 2001,
-    "rating": 6.3
+    "rating": 6.3,
+    "poster": "/foZpSG88IQUCEBJE3unc5QzO6bQ.jpg"
   },
   {
     "title": "Pokémon: The First Movie - Mewtwo Strikes Back",
     "year": 1998,
-    "rating": 6.3
+    "rating": 6.4,
+    "poster": "/6YPzBcMH0aPNTvdXNCDLY0zdE1g.jpg"
   },
   {
     "title": "Jin-Roh: The Wolf Brigade",
     "year": 1999,
-    "rating": 7.3
+    "rating": 7.3,
+    "poster": "/63EMBxmcafkc4cWuUWQh2Ttd2jh.jpg"
   },
   {
     "title": "Monsters, Inc.",
     "year": 2001,
-    "rating": 8.1
+    "rating": 8.1,
+    "poster": "/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg"
   },
   {
     "title": "My Neighbors the Yamadas",
     "year": 1999,
-    "rating": 7.1
+    "rating": 7.1,
+    "poster": "/nj0ijnOozQtu52r0ncut769G1FX.jpg"
   },
   {
     "title": "Pokémon the Movie 2000",
     "year": 1999,
-    "rating": 6.1
+    "rating": 6.1,
+    "poster": "/6u65C8aG4krAVyHsTjAMF7ucTDH.jpg"
   },
   {
     "title": "Rugrats in Paris",
     "year": 2000,
-    "rating": 6.2
+    "rating": 6.2,
+    "poster": "/grIL8mvfLznaWsv7EEEPhCpkH81.jpg"
   },
   {
     "title": "Vampire Hunter D: Bloodlust",
     "year": 2000,
-    "rating": 7.7
+    "rating": 7.7,
+    "poster": "/9ipbQRgOq6Ilxpwagfa98ikgR9v.jpg"
   },
   {
     "title": "The Tigger Movie",
     "year": 2000,
-    "rating": 6.4
+    "rating": 6.4,
+    "poster": "/9OdZKUdGfaBAUwRLbtWpFWKbILO.jpg"
   },
   {
     "title": "Atlantis: The Lost Empire",
     "year": 2001,
-    "rating": 6.9
+    "rating": 6.9,
+    "poster": "/oK8yR6xSQreWf1ouP1VpXKwoop5.jpg"
   },
   {
     "title": "Pokémon 3 the Movie: Spell of the Unown",
     "year": 2000,
-    "rating": 5.9
+    "rating": 5.9,
+    "poster": "/hrBWiMWnD7mheMx846ycUWA3ohs.jpg"
   },
   {
     "title": "Waking Life",
     "year": 2001,
-    "rating": 7.6
+    "rating": 7.6,
+    "poster": "/2MRM4PL6H7yraAkwyUEe2EqoQH3.jpg"
   },
   {
     "title": "Spirited Away",
     "year": 2001,
-    "rating": 8.6
+    "rating": 8.6,
+    "poster": "/jUo8cNmU400WtZiJss45HNXlQ2e.jpg"
   },
   {
     "title": "Foodfight!",
     "year": 2012,
-    "rating": 1.3
+    "rating": 1.3,
+    "poster": "/to9ggXVyhNTCICHcHMCtFtANd8P.jpg"
   },
   {
     "title": "Ramayana: The Legend of Prince Rama",
     "year": 1993,
-    "rating": 9.1
+    "rating": 9.1,
+    "poster": "/yqcdzIgsYdaIY2CNtDyWshuLdq0.jpg"
   },
   {
     "title": "Recess: School's Out",
     "year": 2001,
-    "rating": 6.5
+    "rating": 6.5,
+    "poster": "/qsUCoeTwCNIrvDrUiWlTCgyRFZy.jpg"
   },
   {
     "title": "Finding Nemo",
     "year": 2003,
-    "rating": 8.2
+    "rating": 8.2,
+    "poster": "/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg"
   },
   {
     "title": "Ice Age",
     "year": 2002,
-    "rating": 7.5
+    "rating": 7.5,
+    "poster": "/gLhHHZUzeseRXShoDyC4VqLgsNv.jpg"
   },
   {
     "title": "Jimmy Neutron: Boy Genius",
     "year": 2001,
-    "rating": 6.1
+    "rating": 6.1,
+    "poster": "/pUwdquA6Bf3Gq8yT5iQL1Yq0jkl.jpg"
   },
   {
     "title": "Eight Crazy Nights",
     "year": 2002,
-    "rating": 5.3
+    "rating": 5.3,
+    "poster": "/p8yiNFvs7q7ymxVAkym3WuYygrn.jpg"
   },
   {
     "title": "Blood: The Last Vampire",
     "year": 2000,
-    "rating": 6.6
+    "rating": 6.6,
+    "poster": "/uRwR5lcl55n5JSaTiYPwp5KjP6A.jpg"
   },
   {
-    "title": "Cowboy Bebop: The Movie - Knockin' on Heaven's Door",
+    "title": "Cowboy Bebop: The Movie",
     "year": 2001,
-    "rating": 7.8
+    "rating": 7.8,
+    "poster": "/34H5bsNc0EPILVr49TfOYXj50qV.jpg"
   },
   {
     "title": "Lilo & Stitch",
     "year": 2002,
-    "rating": 7.4
+    "rating": 7.4,
+    "poster": "/cFuLvQJPoZpuruAtN3rVnMmLIH8.jpg"
   },
   {
     "title": "Return to Never Land",
     "year": 2002,
-    "rating": 5.8
+    "rating": 5.8,
+    "poster": "/wB3r2b8sxUZspqNyr8copMlt7se.jpg"
   },
   {
-    "title": "The Wild Thornberrys",
+    "title": "The Wild Thornberrys Movie",
     "year": 2002,
-    "rating": 5.7
+    "rating": 5.7,
+    "poster": "/nmWpcUQtWHC4kjVCygiFEDR1wCY.jpg"
   },
   {
     "title": "The Jungle Book 2",
     "year": 2003,
-    "rating": 5.4
+    "rating": 5.4,
+    "poster": "/21GanxizOIL1CN0HLx7j3je8k87.jpg"
   },
   {
     "title": "The Triplets of Belleville",
     "year": 2003,
-    "rating": 7.7
+    "rating": 7.7,
+    "poster": "/enw6C4fDw88g0nOQgIJXjgH3NHi.jpg"
   },
   {
     "title": "Pokemon 4Ever: Celebi - Voice of the Forest",
     "year": 2001,
-    "rating": 5.8
+    "rating": 5.8,
+    "poster": "/thz83PS9twtVBEEAM59J1bh75nU.jpg"
   },
   {
     "title": "The Powerpuff Girls Movie",
     "year": 2002,
-    "rating": 6.5
+    "rating": 6.6,
+    "poster": "/yAFalW8UtdJg1z1gPjXx8C1sXZq.jpg"
   },
   {
     "title": "Millennium Actress",
     "year": 2001,
-    "rating": 7.8
+    "rating": 7.8,
+    "poster": "/p44UXOFBCY5xbpCKEsWpi4filCD.jpg"
   },
   {
     "title": "Metropolis",
     "year": 2001,
-    "rating": 7.2
+    "rating": 7.2,
+    "poster": "/41WtqvaObaYE3RuqgBfQFPV3aV1.jpg"
   },
   {
     "title": "Shrek 2",
     "year": 2004,
-    "rating": 7.4
+    "rating": 7.4,
+    "poster": "/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg"
   },
   {
     "title": "Home on the Range",
     "year": 2004,
-    "rating": 5.4
+    "rating": 5.4,
+    "poster": "/cgKnkbO3fNWwKc9qLyLYdeZQ9Vj.jpg"
   },
   {
     "title": "Shark Tale",
     "year": 2004,
-    "rating": 6
+    "rating": 6,
+    "poster": "/r08DpyPyhXcJTfNZAICNGMzcQ8l.jpg"
   },
   {
     "title": "Happily N'Ever After",
     "year": 2006,
-    "rating": 4.5
+    "rating": 4.5,
+    "poster": "/geXsapJfihg78gVDvEVPoK5c07y.jpg"
   },
   {
     "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
     "year": 2005,
-    "rating": 7.5
+    "rating": 7.5,
+    "poster": "/cMQ2lNd7sBe6PCf6zF5QxrKzbRG.jpg"
   },
   {
     "title": "Cars",
     "year": 2006,
-    "rating": 7.3
+    "rating": 7.3,
+    "poster": "/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg"
   },
   {
     "title": "The Incredibles",
     "year": 2004,
-    "rating": 8
+    "rating": 8,
+    "poster": "/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg"
   },
   {
     "title": "Looney Tunes: Back in Action",
     "year": 2003,
-    "rating": 5.8
+    "rating": 5.8,
+    "poster": "/q0kntpdsHA0QdYjpQdNBqrVTdQq.jpg"
   },
   {
     "title": "Over the Hedge",
     "year": 2006,
-    "rating": 6.7
+    "rating": 6.7,
+    "poster": "/lAtBFoSusJLlcViY57M2J2rpKpl.jpg"
   },
   {
     "title": "Coraline",
     "year": 2009,
-    "rating": 7.8
+    "rating": 7.8,
+    "poster": "/4jeFXQYytChdZYE9JYO7Un87IlW.jpg"
   },
   {
     "title": "Brother Bear",
     "year": 2003,
-    "rating": 6.9
+    "rating": 6.9,
+    "poster": "/otptPbEY0vBostmo95xwiiumMJm.jpg"
   },
   {
     "title": "The Polar Express",
     "year": 2004,
-    "rating": 6.6
+    "rating": 6.6,
+    "poster": "/eOoCzH0MqeGr2taUZO4SwG416PF.jpg"
   },
   {
     "title": "Arthur and the Invisibles",
     "year": 2006,
-    "rating": 6
+    "rating": 6,
+    "poster": "/gH27K0S7BiZCsNMxzOQTacG9IZp.jpg"
   },
   {
     "title": "The SpongeBob SquarePants Movie",
     "year": 2004,
-    "rating": 7.2
+    "rating": 7.2,
+    "poster": "/1rvzKV1d18EbDVaEd4VDzK3cgnY.jpg"
   },
   {
     "title": "Howl's Moving Castle",
     "year": 2004,
-    "rating": 8.2
+    "rating": 8.2,
+    "poster": "/13kOl2v0nD2OLbVSHnHk8GUFEhO.jpg"
   },
   {
     "title": "Ghost in the Shell 2: Innocence",
     "year": 2004,
-    "rating": 7.4
+    "rating": 7.4,
+    "poster": "/1ZJRbLDVr90KLtKdmTT4WZhT26E.jpg"
   },
   {
     "title": "The Cat Returns",
     "year": 2002,
-    "rating": 7.1
+    "rating": 7.1,
+    "poster": "/pqyY7IEWkCWNZ7EuRStQaJITEta.jpg"
   },
   {
     "title": "Steamboy",
     "year": 2004,
-    "rating": 6.8
+    "rating": 6.8,
+    "poster": "/o6WsW5QFh3YaDdAJkyVUweTpUtr.jpg"
   },
   {
     "title": "Madagascar",
     "year": 2005,
-    "rating": 6.9
+    "rating": 7,
+    "poster": "/zMpJY5CJKUufG9OTw0In4eAFqPX.jpg"
   },
   {
     "title": "Robots",
     "year": 2005,
-    "rating": 6.4
+    "rating": 6.4,
+    "poster": "/fnKCh67l2DDG9NxxIlk9IpsXQ99.jpg"
   },
   {
     "title": "Valiant",
     "year": 2005,
-    "rating": 5.5
+    "rating": 5.5,
+    "poster": "/tSRO8wukDlGMlrkmRpqL2nWhgPs.jpg"
   },
   {
     "title": "Happy Feet",
     "year": 2006,
-    "rating": 6.4
+    "rating": 6.4,
+    "poster": "/zP4CK9O70P8GDilfTkPm4lrmaks.jpg"
   },
   {
     "title": "Interstella 5555: The 5tory of the 5ecret 5tar 5ystem",
     "year": 2003,
-    "rating": 7.8
+    "rating": 7.8,
+    "poster": "/AsvPgdcSlHocAbMp3yGZXjPiKKF.jpg"
   },
   {
     "title": "Asterix and the Vikings",
     "year": 2006,
-    "rating": 6
+    "rating": 6,
+    "poster": "/dW9h1Ez6PRx8PnZUVT27MnG8Wu5.jpg"
   },
   {
     "title": "Chicken Little",
     "year": 2005,
-    "rating": 5.7
+    "rating": 5.7,
+    "poster": "/87FpA4b90eTaw3U6zmCNikoPLir.jpg"
   },
   {
     "title": "Astro Boy",
     "year": 2009,
-    "rating": 6.3
+    "rating": 6.3,
+    "poster": "/6AK3uOHaIbl6EDaytHYe4FinZMu.jpg"
   },
   {
     "title": "Gnomeo & Juliet",
     "year": 2011,
-    "rating": 5.9
+    "rating": 5.9,
+    "poster": "/vVQwgfS9gSFviVT4gS7tZAmhRFc.jpg"
   },
   {
     "title": "The Place Promised in Our Early Days",
     "year": 2004,
-    "rating": 6.8
+    "rating": 6.8,
+    "poster": "/xlyJw6WmfLn378oz0ZmI0SYFoGb.jpg"
   },
   {
     "title": "Curious George",
     "year": 2006,
-    "rating": 6.5
+    "rating": 6.5,
+    "poster": "/7SpokDLiRHON9H36GdlF7vWKOm6.jpg"
   },
   {
     "title": "Ratatouille",
     "year": 2007,
-    "rating": 8.1
+    "rating": 8.1,
+    "poster": "/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg"
   },
   {
     "title": "Final Fantasy VII: Advent Children",
     "year": 2005,
-    "rating": 7.1
+    "rating": 7.1,
+    "poster": "/pTIXM2yu8McSlcQVs1VjVSNC45x.jpg"
   },
   {
     "title": "Monster House",
     "year": 2006,
-    "rating": 6.7
+    "rating": 6.7,
+    "poster": "/zCRPr4bkO3ae0U1134vJ39xZnAG.jpg"
   },
   {
     "title": "Renaissance",
     "year": 2006,
-    "rating": 6.6
+    "rating": 6.6,
+    "poster": "/fTdbmjAegzFQOCPTAckPcmTpJvp.jpg"
   },
   {
     "title": "Terkel in Trouble",
     "year": 2004,
-    "rating": 7.1
+    "rating": 7.1,
+    "poster": "/ewylxRYsBcqjYvbeAKryNr1JiBz.jpg"
   },
   {
     "title": "Tokyo Godfathers",
     "year": 2003,
-    "rating": 7.8
+    "rating": 7.8,
+    "poster": "/sPC66btzQlzuRdPKiSDYZ5Hvxgc.jpg"
   },
   {
     "title": "Bee Movie",
     "year": 2007,
-    "rating": 6.1
+    "rating": 6.1,
+    "poster": "/tX2mgKFUkzFMZingSVD4vioZNz2.jpg"
   },
   {
     "title": "Meet the Robinsons",
     "year": 2007,
-    "rating": 6.8
+    "rating": 6.9,
+    "poster": "/naya0zF4kT401Sx15AtwB9vpcJr.jpg"
   },
   {
     "title": "Bolt",
     "year": 2008,
-    "rating": 6.8
+    "rating": 6.8,
+    "poster": "/v5aC4nrzXFGJDWY4JO1eengXzqk.jpg"
   },
   {
     "title": "Tangled",
     "year": 2010,
-    "rating": 7.7
+    "rating": 7.7,
+    "poster": "/ym7Kst6a4uodryxqbGOxmewF235.jpg"
   },
   {
     "title": "Open Season",
     "year": 2006,
-    "rating": 6.1
+    "rating": 6.1,
+    "poster": "/w5Lctmkc1yah215Luxmci4djaiW.jpg"
   },
   {
     "title": "Appleseed",
     "year": 2004,
-    "rating": 6.9
+    "rating": 6.9,
+    "poster": "/mtSmeCDTexb0uWhVedouJ4SeD6c.jpg"
   },
   {
     "title": "A Scanner Darkly",
     "year": 2006,
-    "rating": 7
+    "rating": 7,
+    "poster": "/lUKudOpHICDj6A6SO7DdaZM4W48.jpg"
   },
   {
     "title": "The Wild",
     "year": 2006,
-    "rating": 5.2
+    "rating": 5.2,
+    "poster": "/sxqzaOto1qyUseSg6YpIP9Su5lp.jpg"
   },
   {
     "title": "Shrek the Third",
     "year": 2007,
-    "rating": 6.1
+    "rating": 6.1,
+    "poster": "/n4SexGGQzI26E269tfpa80MZaGV.jpg"
   },
   {
     "title": "Barnyard",
     "year": 2006,
-    "rating": 5.6
+    "rating": 5.7,
+    "poster": "/qB9jFInwUEb2VLhMeKQX17Vdrnp.jpg"
   },
   {
     "title": "The Tale of Despereaux",
     "year": 2008,
-    "rating": 6.1
+    "rating": 6.1,
+    "poster": "/6bBzgQ1uJabDHeGR9QvKrHvHYzG.jpg"
   },
   {
     "title": "Surf's Up",
     "year": 2007,
-    "rating": 6.7
+    "rating": 6.7,
+    "poster": "/tTDsCVlDA8QR4Dc6t6nERfwl5z.jpg"
   },
   {
     "title": "Flushed Away",
     "year": 2006,
-    "rating": 6.6
+    "rating": 6.6,
+    "poster": "/ahVxu86XwxMp8RkartqY4B3mK9l.jpg"
   },
   {
     "title": "The Ant Bully",
     "year": 2006,
-    "rating": 5.8
+    "rating": 5.8,
+    "poster": "/oFuqX0inTvbA1XAFv2x3CQnI65m.jpg"
   },
   {
     "title": "Everyone's Hero",
     "year": 2006,
-    "rating": 5.7
+    "rating": 5.7,
+    "poster": "/zevMhG4AIAJpOKLqtUCxzC5T3JA.jpg"
   },
   {
     "title": "Fantastic Mr. Fox",
     "year": 2009,
-    "rating": 7.9
+    "rating": 7.9,
+    "poster": "/bOVr292mwn3jxr1e0NmUPM1rcjo.jpg"
   },
   {
     "title": "Toy Story 3",
     "year": 2010,
-    "rating": 8.3
+    "rating": 8.3,
+    "poster": "/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg"
   },
   {
     "title": "G-Force",
     "year": 2009,
-    "rating": 5.1
+    "rating": 5.1,
+    "poster": "/9Tly3ZXTTsQKM26fis8v9LR4GxG.jpg"
   },
   {
     "title": "Ice Age: The Meltdown",
     "year": 2006,
-    "rating": 6.8
+    "rating": 6.8,
+    "poster": "/zDduhCHasKQ9YOTvlOreHem7Wbi.jpg"
   },
   {
     "title": "Kung Fu Panda",
     "year": 2008,
-    "rating": 7.6
+    "rating": 7.6,
+    "poster": "/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg"
   },
   {
     "title": "Beowulf",
     "year": 2007,
-    "rating": 6.3
+    "rating": 6.3,
+    "poster": "/7QsWYyJAV97N9jOh21pdRIqJeJq.jpg"
   },
   {
     "title": "Hoodwinked",
     "year": 2005,
-    "rating": 6.5
+    "rating": 6.5,
+    "poster": "/kwPl1AKX4BLxrh5PCkrwYWeEV5I.jpg"
   },
   {
     "title": "Puss in Boots",
     "year": 2011,
-    "rating": 6.6
+    "rating": 6.6,
+    "poster": "/7a5Jzjr9TmffGy76y1SZhn3sCiz.jpg"
   },
   {
     "title": "Horton Hears a Who!",
     "year": 2008,
-    "rating": 6.8
+    "rating": 6.8,
+    "poster": "/6k47Z3A5zI2rxubTMwiLyIqQLLr.jpg"
   },
   {
     "title": "Mind Game",
     "year": 2004,
-    "rating": 7.7
+    "rating": 7.7,
+    "poster": "/e5mV1iVcjg7nkpJrskQOnFCR4H9.jpg"
   },
   {
     "title": "TMNT",
     "year": 2007,
-    "rating": 6.2
+    "rating": 6.2,
+    "poster": "/poi1xctCgyzTRkNwiVYp6auQNhj.jpg"
   },
   {
     "title": "Aqua Teen Hunger Force Colon Movie Film for Theaters",
     "year": 2007,
-    "rating": 6.7
-  },
-  {
-    "title": "Sin City: A Dame to Kill For",
-    "year": 2014,
-    "rating": 6.5
+    "rating": 6.7,
+    "poster": "/q3Ln4x4rv4nJsBBfukjvH2wiU28.jpg"
   },
   {
     "title": "Enchanted",
     "year": 2007,
-    "rating": 7.1
+    "rating": 7.1,
+    "poster": "/8KCNzCArLlvLdQoHx6npua2VSVc.jpg"
   },
   {
     "title": "The Simpsons Movie",
     "year": 2007,
-    "rating": 7.3
+    "rating": 7.3,
+    "poster": "/s3b8TZWwmkYc2KoJ5zk77qB6PzY.jpg"
   },
   {
     "title": "Igor",
     "year": 2008,
-    "rating": 5.9
+    "rating": 5.9,
+    "poster": "/mI4SPs0bZQm7bGVZKToC8KUsTd.jpg"
   },
   {
     "title": "9",
     "year": 2009,
-    "rating": 7
+    "rating": 7,
+    "poster": "/3uqXGOH4BQ2CLJWkDJZ0PzbUzOn.jpg"
   },
   {
     "title": "The Smurfs",
     "year": 2011,
-    "rating": 5.4
+    "rating": 5.4,
+    "poster": "/vRhnslP2gW0QDym7BsMeSuioUfK.jpg"
   },
   {
     "title": "Madagascar: Escape 2 Africa",
     "year": 2008,
-    "rating": 6.7
+    "rating": 6.7,
+    "poster": "/agRbLOHgN46TQO4YdKR462iR7To.jpg"
   },
   {
     "title": "The Croods",
     "year": 2013,
-    "rating": 7.1
+    "rating": 7.1,
+    "poster": "/27zvjVOtOi5ped1HSlJKNsKXkFH.jpg"
   },
   {
     "title": "Space Chimps",
     "year": 2008,
-    "rating": 4.5
+    "rating": 4.5,
+    "poster": "/ecAKgzlt78OvEVpZURYYdSz8K5v.jpg"
   },
   {
     "title": "Fullmetal Alchemist the Movie: Conqueror of Shamballa",
     "year": 2005,
-    "rating": 7.3
+    "rating": 7.3,
+    "poster": "/kdovrjrKighUFEh9ZRQul0Evx6L.jpg"
   },
   {
     "title": "The Secret of Kells",
     "year": 2009,
-    "rating": 7.5
+    "rating": 7.5,
+    "poster": "/vBymyj7QsXiW4TICD2JC5pAuBHO.jpg"
   },
   {
     "title": "Tales from Earthsea",
     "year": 2006,
-    "rating": 6.3
+    "rating": 6.3,
+    "poster": "/y0VnJt4eRPMjA1hpJ8f1EFoVaSf.jpg"
   },
   {
     "title": "Planet 51",
     "year": 2009,
-    "rating": 6
+    "rating": 6,
+    "poster": "/x7Itcg3ZdExKwdKguy73WPEqosW.jpg"
   },
   {
     "title": "Escape from Planet Earth",
     "year": 2013,
-    "rating": 5.8
+    "rating": 5.8,
+    "poster": "/9la0CSCJqwh6io3yk4Xv3aEZxEA.jpg"
   },
   {
     "title": "The Illusionist",
     "year": 2010,
-    "rating": 7.4
+    "rating": 7.4,
+    "poster": "/Ac2tNYW9sRaOhmtMJQuhf2mvo00.jpg"
   },
   {
     "title": "The Princess and the Frog",
     "year": 2009,
-    "rating": 7.2
+    "rating": 7.2,
+    "poster": "/yprv5PbnEksoVj2v6XEnDBg9joR.jpg"
   },
   {
     "title": "The Boxtrolls",
     "year": 2014,
-    "rating": 6.8
+    "rating": 6.8,
+    "poster": "/npBf0yc5Gt7aAyyVOcYtFyT2IPa.jpg"
+  },
+  {
+    "title": "R.I.P.D.",
+    "year": 2013,
+    "rating": 5.6,
+    "poster": "/rS0kByPD4YF8pQ85KjzMdGiu7Xf.jpg"
   },
   {
     "title": "Persepolis",
     "year": 2007,
-    "rating": 8
+    "rating": 8,
+    "poster": "/aU8i2QAdTyRR1nYb36Gq51xXP8p.jpg"
   },
   {
     "title": "The Girl Who Leapt Through Time",
     "year": 2006,
-    "rating": 7.6
+    "rating": 7.6,
+    "poster": "/fmK92C7HGu6sK0axItlQ0YsO9qR.jpg"
+  },
+  {
+    "title": "One Piece: The Movie",
+    "year": 2000,
+    "rating": 6.8,
+    "poster": "/6QOrTYafoqzXPWLnR2K8129jTHH.jpg"
   },
   {
     "title": "Tekkonkinkreet",
     "year": 2006,
-    "rating": 7.5
+    "rating": 7.5,
+    "poster": "/e2x1YDuZPpQiaQS25Ego7xMZYOI.jpg"
   },
   {
     "title": "Hotel Transylvania",
     "year": 2012,
-    "rating": 7
+    "rating": 7.1,
+    "poster": "/eJGvzGrsfe2sqTUPv5IwLWXjVuR.jpg"
   },
   {
     "title": "Cloudy with a Chance of Meatballs",
     "year": 2009,
-    "rating": 6.9
+    "rating": 6.9,
+    "poster": "/qhOhIKf7QEyQ5dMrRUqs5eTX1Oq.jpg"
   },
   {
     "title": "Hoodwinked Too! Hood vs. Evil",
     "year": 2011,
-    "rating": 4.7
+    "rating": 4.7,
+    "poster": "/3ofAJDO8A7ulJwgMGKcwEOPNWV3.jpg"
   },
   {
     "title": "Epic",
     "year": 2013,
-    "rating": 6.6
+    "rating": 6.6,
+    "poster": "/81cSsWzjTfR3cJSqnTiHwy1eyPK.jpg"
   },
   {
     "title": "Paprika",
     "year": 2006,
-    "rating": 7.7
+    "rating": 7.7,
+    "poster": "/nHJljo2Pi7XimYEgV9hvRchQWmg.jpg"
   },
   {
     "title": "Battle for Terra",
     "year": 2007,
-    "rating": 6.5
+    "rating": 6.5,
+    "poster": "/iAcPYIsYwFqAyY7KctWkkdkJGhI.jpg"
   },
   {
     "title": "Evangelion: 2.0 You Can (Not) Advance",
     "year": 2009,
-    "rating": 7.9
+    "rating": 7.9,
+    "poster": "/7VLYN2CfJpB6PrcuzDKKqdGSUi6.jpg"
   },
   {
     "title": "Evangelion: 3.0 You Can (Not) Redo",
     "year": 2012,
-    "rating": 6.9
+    "rating": 6.9,
+    "poster": "/d0s1xvykzl0kz7fP5S2ROYqphdz.jpg"
   },
   {
     "title": "Mr. Peabody & Sherman",
     "year": 2014,
-    "rating": 6.8
+    "rating": 6.8,
+    "poster": "/hPcImYndWESKHzT2GHVCDsUxzYg.jpg"
   },
   {
     "title": "Ponyo",
     "year": 2008,
-    "rating": 7.6
+    "rating": 7.6,
+    "poster": "/yp8vEZflGynlEylxEesbYasc06i.jpg"
   },
   {
     "title": "How to Train Your Dragon",
     "year": 2010,
-    "rating": 8.1
+    "rating": 8.1,
+    "poster": "/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg"
   },
   {
     "title": "Monsters vs. Aliens",
     "year": 2009,
-    "rating": 6.4
+    "rating": 6.4,
+    "poster": "/hpHarddVj34j53T7NsoUGdKj4mP.jpg"
   },
   {
     "title": "Shrek Forever After",
     "year": 2010,
-    "rating": 6.3
+    "rating": 6.4,
+    "poster": "/6HrfPZtKcGmX2tUWW3cnciZTaSD.jpg"
   },
   {
     "title": "WALL·E",
     "year": 2008,
-    "rating": 8.4
+    "rating": 8.4,
+    "poster": "/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg"
   },
   {
     "title": "Evangelion: 1.0 You Are (Not) Alone",
     "year": 2007,
-    "rating": 7.5
+    "rating": 7.5,
+    "poster": "/pETU4GurpeEjBOM8oytMH0yNBHx.jpg"
   },
   {
     "title": "Arthur 3: The War of the Two Worlds",
     "year": 2010,
-    "rating": 5.5
+    "rating": 5.5,
+    "poster": "/wBT40NqmBz65WYmIGhDnWcgzPcA.jpg"
   },
   {
     "title": "Arthur and the Revenge of Maltazard",
     "year": 2009,
-    "rating": 5.3
+    "rating": 5.3,
+    "poster": "/rHCL0HwlQvU01TLRRHZFlvsVEqt.jpg"
   },
   {
     "title": "Dragon Hunters",
     "year": 2008,
-    "rating": 6.5
+    "rating": 6.5,
+    "poster": "/bhHhTCh43aT3kAeknSd5T5BcZcJ.jpg"
   },
   {
     "title": "Alvin and the Chipmunks",
     "year": 2007,
-    "rating": 5.3
+    "rating": 5.3,
+    "poster": "/3s3WvpKPXXeKAPketDDqiQTi20S.jpg"
   },
   {
     "title": "A Monster in Paris",
     "year": 2011,
-    "rating": 6.7
+    "rating": 6.7,
+    "poster": "/wSYZR2QL58jWPIEe9TG7G9PlTya.jpg"
   },
   {
     "title": "Mary and Max",
     "year": 2009,
-    "rating": 8.1
+    "rating": 8.1,
+    "poster": "/ebmsM382m9IClLUzKYY2U5biFwM.jpg"
   },
   {
     "title": "The Adventures of Tintin",
     "year": 2011,
-    "rating": 7.3
+    "rating": 7.3,
+    "poster": "/fQZ3sLR1Fi63NMsNRbjm9q5qODJ.jpg"
   },
   {
     "title": "5 Centimeters per Second",
     "year": 2007,
-    "rating": 7.4
+    "rating": 7.4,
+    "poster": "/dFipUR6W0y3PPkuVS8gjFd929m2.jpg"
   },
   {
     "title": "Megamind",
     "year": 2010,
-    "rating": 7.3
+    "rating": 7.3,
+    "poster": "/uZ9ytt3sPTx62XTfN56ILSuYWRe.jpg"
   },
   {
     "title": "Lightyear",
     "year": 2022,
-    "rating": 6.1
+    "rating": 6.1,
+    "poster": "/ox4goZd956BxqJH6iLwhWPL9ct4.jpg"
   },
   {
     "title": "Strange World",
     "year": 2022,
-    "rating": 5.7
+    "rating": 5.7,
+    "poster": "/a9x70QUXs6uEwtin1SGNKoFXoia.jpg"
   },
   {
     "title": "Appleseed: Ex Machina",
     "year": 2007,
-    "rating": 7
+    "rating": 7,
+    "poster": "/mxhr2e2Xky4cQ96NpI24xc2GUPn.jpg"
   },
   {
     "title": "Up",
     "year": 2009,
-    "rating": 8.3
+    "rating": 8.3,
+    "poster": "/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg"
+  },
+  {
+    "title": "Goosebumps",
+    "year": 2015,
+    "rating": 6.3,
+    "poster": "/aeZT9pqEgrmXOGdESFkAuVjX6kw.jpg"
   },
   {
     "title": "We Can Be Heroes",
     "year": 2020,
-    "rating": 4.7
+    "rating": 4.7,
+    "poster": "/1S21HpcKY6uQ9UAw68aICmrJaq6.jpg"
   },
   {
     "title": "Ne Zha",
     "year": 2019,
-    "rating": 7.3
+    "rating": 7.3,
+    "poster": "/phM9bb6s9c60LA8qwsdk7U1N2cS.jpg"
   },
   {
     "title": "A Christmas Carol",
     "year": 2009,
-    "rating": 6.8
+    "rating": 6.8,
+    "poster": "/xNwlAIdx1Ln28GRiQttUP9Gojy2.jpg"
   },
   {
     "title": "Entergalactic",
     "year": 2022,
-    "rating": 7.4
+    "rating": 7.4,
+    "poster": "/oMU3JpuKuasjAWIbUQgCaT6pco1.jpg"
   },
   {
     "title": "Ice Age: Dawn of the Dinosaurs",
     "year": 2009,
-    "rating": 6.9
+    "rating": 6.9,
+    "poster": "/cXOLaxcNjNAYmEx1trZxOTKhK3Q.jpg"
   },
   {
     "title": "Dog Man",
     "year": 2025,
-    "rating": 6.3
+    "rating": 6.3,
+    "poster": "/89wNiexZdvLQ41OQWIsQy4O6jAQ.jpg"
   },
   {
     "title": "Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train",
     "year": 2020,
-    "rating": 8.2
+    "rating": 8.2,
+    "poster": "/h8Rb9gBr48ODIwYUttZNYeMWeUU.jpg"
   },
   {
     "title": "Open Season 2",
     "year": 2008,
-    "rating": 5.5
+    "rating": 5.5,
+    "poster": "/lM4bahouPblYcfngZtnNSkaWxCU.jpg"
   },
   {
     "title": "My Hero Academia: Heroes Rising",
     "year": 2019,
-    "rating": 7.8
+    "rating": 7.8,
+    "poster": "/kpWsIkfXrnQ1pmR79qAHHq7DPxc.jpg"
   },
   {
     "title": "The Addams Family 2",
     "year": 2021,
-    "rating": 5.4
-  },
-  {
-    "title": "IF",
-    "year": 2024,
-    "rating": 6.4
+    "rating": 5.4,
+    "poster": "/ld7YB9vBRp1GM1DT3KmFWSmtBPB.jpg"
   },
   {
     "title": "Sword of the Stranger",
     "year": 2007,
-    "rating": 7.7
+    "rating": 7.7,
+    "poster": "/lMsUYZq5ITW3rAqF3tB7v74KEnH.jpg"
   },
   {
     "title": "Wish",
     "year": 2023,
-    "rating": 5.5
+    "rating": 5.5,
+    "poster": "/nesuSdJakNkf0zs7OfoasB6Clxf.jpg"
   },
   {
     "title": "Frankenweenie",
     "year": 2012,
-    "rating": 6.9
+    "rating": 6.9,
+    "poster": "/yGjVbLVdZRBlZTTQVBsj2KUjL1s.jpg"
   },
   {
     "title": "The Witcher: Nightmare of the Wolf",
     "year": 2021,
-    "rating": 7.2
+    "rating": 7.2,
+    "poster": "/3sLz2yv6vBDWqBbd8rdnNeoJ2kJ.jpg"
   },
   {
     "title": "The House",
     "year": 2022,
-    "rating": 6.8
+    "rating": 6.8,
+    "poster": "/xhE1EYcD6U7m5R8AT7yf29CCxia.jpg"
   },
   {
     "title": "Resident Evil: Degeneration",
     "year": 2008,
-    "rating": 6.4
+    "rating": 6.4,
+    "poster": "/1x5OaFOo38JAwR5yXxeuvQg3VWH.jpg"
+  },
+  {
+    "title": "PAW Patrol: The Movie",
+    "year": 2021,
+    "rating": 6.1,
+    "poster": "/jXavWyam2VPR6bOhLwwuP3K2Hw4.jpg"
   },
   {
     "title": "Waltz with Bashir",
     "year": 2008,
-    "rating": 8
+    "rating": 8,
+    "poster": "/zQaCv7lKwHsh0YSHkt1QNjIOZ1c.jpg"
   },
   {
     "title": "Star Wars: The Clone Wars",
     "year": 2008,
-    "rating": 6
+    "rating": 6,
+    "poster": "/iJQfixW818LUdSXlCDL3JZm0S0g.jpg"
   },
   {
     "title": "Rango",
     "year": 2011,
-    "rating": 7.3
+    "rating": 7.3,
+    "poster": "/A5MP1guV8pbruieG0tnpPIbaJtt.jpg"
   },
   {
     "title": "A Whisker Away",
     "year": 2020,
-    "rating": 6.7
+    "rating": 6.7,
+    "poster": "/6inkRM1XGBG5vRhclCPWfMenp7N.jpg"
   },
   {
     "title": "Alpha and Omega",
     "year": 2010,
-    "rating": 5.1
+    "rating": 5.1,
+    "poster": "/7YVyH5sS6kLQRsSDF5dhhR0BWeh.jpg"
   },
   {
     "title": "Cars 2",
     "year": 2011,
-    "rating": 6.2
+    "rating": 6.2,
+    "poster": "/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg"
   },
   {
     "title": "Brave",
     "year": 2012,
-    "rating": 7.1
+    "rating": 7.1,
+    "poster": "/1XAuDtMWpL0sYSFK0R6EZate2Ux.jpg"
   },
   {
     "title": "Secret of the Wings",
     "year": 2012,
-    "rating": 7
+    "rating": 7,
+    "poster": "/aPudKEzwwmwc5lS8sdxvG3WX86t.jpg"
   },
   {
     "title": "Legend of the Guardians: The Owls of Ga'Hoole",
     "year": 2010,
-    "rating": 6.9
+    "rating": 6.9,
+    "poster": "/qweKCtPdnIP2uGp1PgWZyCV7gzj.jpg"
   },
   {
     "title": "Alvin and the Chipmunks: The Squeakquel",
     "year": 2009,
-    "rating": 4.6
+    "rating": 4.6,
+    "poster": "/A2tgUeWadVJs1g6zOCZgKRs8uWC.jpg"
   },
   {
     "title": "Chico & Rita",
     "year": 2009,
-    "rating": 7.2
+    "rating": 7.2,
+    "poster": "/Kj9JAhMNSektw6RVYR1oJWGZWa.jpg"
   },
   {
     "title": "Attack on Titan: Chronicle",
     "year": 2020,
-    "rating": 8.4
+    "rating": 8.3,
+    "poster": "/kXUSsxQ2J3QVGkG1thmhI1FadKd.jpg"
   },
   {
     "title": "Ghost in the Shell 2.0",
     "year": 2008,
-    "rating": 7.8
+    "rating": 7.8,
+    "poster": "/5ngIhoA0b4aGBoPFPURAbDwCKT7.jpg"
   },
   {
     "title": "Madagascar 3: Europe's Most Wanted",
     "year": 2012,
-    "rating": 6.8
+    "rating": 6.8,
+    "poster": "/ekraj4ksvIKeuvQVEevEJkuybZd.jpg"
   },
   {
     "title": "Luca",
     "year": 2021,
-    "rating": 7.4
+    "rating": 7.4,
+    "poster": "/9x4i9uKGXt8IiiIF5Ey0DIoY738.jpg"
   },
   {
     "title": "Josee, the Tiger and the Fish",
     "year": 2020,
-    "rating": 7.6
+    "rating": 7.7,
+    "poster": "/z1D8xi9x4uEhyFruo7uEHXUMD4K.jpg"
   },
   {
     "title": "Teenage Mutant Ninja Turtles",
     "year": 2014,
-    "rating": 5.8
+    "rating": 5.8,
+    "poster": "/azL2ThbJMIkts3ZMt3j1YgBUeDB.jpg"
   },
   {
     "title": "Kung Fu Panda 2",
     "year": 2011,
-    "rating": 7.3
+    "rating": 7.3,
+    "poster": "/mtqqD00vB4PGRt20gWtGqFhrkd0.jpg"
   },
   {
     "title": "Yogi Bear",
     "year": 2010,
-    "rating": 4.6
+    "rating": 4.6,
+    "poster": "/5u6kGhqKVorNwcvz6zETWUPRmus.jpg"
   },
   {
     "title": "Mars Needs Moms",
     "year": 2011,
-    "rating": 5.4
+    "rating": 5.4,
+    "poster": "/yZBrpe4bxwDIDKBxPeJYrlyDK5R.jpg"
   },
   {
     "title": "Mufasa: The Lion King",
     "year": 2024,
-    "rating": 6.6
+    "rating": 6.6,
+    "poster": "/jbOSUAWMGzGL1L4EaUF8K6zYFo7.jpg"
   },
   {
     "title": "Despicable Me",
     "year": 2010,
-    "rating": 7.6
+    "rating": 7.6,
+    "poster": "/b1BT309QWjtFUlJPLmXmrcHOWEL.jpg"
   },
   {
     "title": "Robot Dreams",
     "year": 2023,
-    "rating": 7.6
+    "rating": 7.6,
+    "poster": "/ds402Qq09ybgBcXKiQNTZfzsP5o.jpg"
   },
   {
     "title": "Back to the Outback",
     "year": 2021,
-    "rating": 6.5
+    "rating": 6.5,
+    "poster": "/jbAUTO7qFN8XFG2LM3bz30vzGFJ.jpg"
   },
   {
     "title": "Tom & Jerry",
     "year": 2021,
-    "rating": 5.3
+    "rating": 5.3,
+    "poster": "/8XZI9QZ7Pm3fVkigWJPbrXCMzjq.jpg"
   },
   {
     "title": "Moana 2",
     "year": 2024,
-    "rating": 6.3
+    "rating": 6.3,
+    "poster": "/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg"
   },
   {
     "title": "The Ice Age Adventures of Buck Wild",
     "year": 2022,
-    "rating": 4.4
+    "rating": 4.4,
+    "poster": "/9ginbMWmt9y7PIHW1c9hnbIVWPm.jpg"
   },
   {
     "title": "Belle",
     "year": 2021,
-    "rating": 7
+    "rating": 7,
+    "poster": "/fYHOD4pxZQk4rsP2tQrZI5uBlZV.jpg"
   },
   {
     "title": "Justice Society: World War II",
     "year": 2021,
-    "rating": 6.4
+    "rating": 6.4,
+    "poster": "/tOUJvmdjppmPYZOoykWmerSspMT.jpg"
   },
   {
     "title": "Dante's Inferno: An Animated Epic",
     "year": 2010,
-    "rating": 6.5
+    "rating": 6.5,
+    "poster": "/nAEGEYTjbli3JoFgyrLn3blxDqi.jpg"
   },
   {
     "title": "Happy Feet Two",
     "year": 2011,
-    "rating": 5.8
+    "rating": 5.8,
+    "poster": "/2gWiQ4mn85jcXtREVePlVViupeV.jpg"
   },
   {
     "title": "Hop",
     "year": 2011,
-    "rating": 5.4
+    "rating": 5.4,
+    "poster": "/2FrDmwXWjRE1zpNP288YncRt5RF.jpg"
   },
   {
     "title": "Beavis and Butt-Head Do the Universe",
     "year": 2022,
-    "rating": 7
+    "rating": 7,
+    "poster": "/rVKMA2j8m8hWgsDyXOllXp8DsWI.jpg"
   },
   {
     "title": "KPop Demon Hunters",
     "year": 2025,
-    "rating": 7.4
+    "rating": 7.4,
+    "poster": "/zT7Lhw3BhJbMkRqm9Zlx2YGMsY0.jpg"
   },
   {
     "title": "Arthur Christmas",
     "year": 2011,
-    "rating": 7.1
+    "rating": 7.1,
+    "poster": "/brELZkSbkLrcCXJ0xt5hQUMXhut.jpg"
   },
   {
     "title": "The Pirates! Band of Misfits",
     "year": 2012,
-    "rating": 6.7
+    "rating": 6.7,
+    "poster": "/bkLeXPDP6sramrTiF5W7TzUl4t0.jpg"
   },
   {
     "title": "Batman: The Long Halloween, Part One",
     "year": 2021,
-    "rating": 7.3
+    "rating": 7.3,
+    "poster": "/sR7gppb0YGjwLvE6Vnj6wYv5MnW.jpg"
   },
   {
     "title": "Jujutsu Kaisen 0",
     "year": 2021,
-    "rating": 7.8
+    "rating": 7.8,
+    "poster": "/23oJaeBh0FDk2mQ2P240PU9Xxfh.jpg"
   },
   {
     "title": "Trolls Band Together",
     "year": 2023,
-    "rating": 6
+    "rating": 6,
+    "poster": "/3ySgD2xwasTHOK6R9bNZiEwKgYo.jpg"
   },
   {
     "title": "Rio",
     "year": 2011,
-    "rating": 6.9
+    "rating": 6.9,
+    "poster": "/4nJxhUknKV8Gqdhov8pU1YWDYfb.jpg"
   },
   {
     "title": "Batman: The Long Halloween, Part Two",
     "year": 2021,
-    "rating": 7.2
+    "rating": 7.2,
+    "poster": "/5X1n5q08mZ7NpNpxehMFODxfNYq.jpg"
   },
   {
     "title": "Rise of the Guardians",
     "year": 2012,
-    "rating": 7.2
+    "rating": 7.2,
+    "poster": "/yfzmfWGjcmyugH6FZ13WcsUGiNj.jpg"
   },
   {
     "title": "Winnie the Pooh",
     "year": 2011,
-    "rating": 7.1
+    "rating": 7.1,
+    "poster": "/xlFs85nq62jeR4a9iHNGB113m6x.jpg"
   },
   {
     "title": "Monsters University",
     "year": 2013,
-    "rating": 7.2
+    "rating": 7.2,
+    "poster": "/y7thwJ7z5Bplv6vwl6RI0yteaDD.jpg"
   },
   {
     "title": "Dragon Ball Super: Super Hero",
     "year": 2022,
-    "rating": 7.1
+    "rating": 7.1,
+    "poster": "/pi0iZOEHeA3ih4p1IwAG4x2DZNH.jpg"
+  },
+  {
+    "title": "Lyle, Lyle, Crocodile",
+    "year": 2022,
+    "rating": 6.1,
+    "poster": "/dN6XnCEP3AO7N4XFOFyZ8V8kZF5.jpg"
   },
   {
     "title": "Summer Wars",
     "year": 2009,
-    "rating": 7.4
+    "rating": 7.4,
+    "poster": "/fIFzH5mZOeh9G3UqDd6WdaN72UV.jpg"
   },
   {
     "title": "The Lorax",
     "year": 2012,
-    "rating": 6.4
+    "rating": 6.4,
+    "poster": "/tePFnZFw5JvjwjQjaKkqDPNMLPU.jpg"
   },
   {
     "title": "The Lord of the Rings: The War of the Rohirrim",
     "year": 2024,
-    "rating": 6.3
+    "rating": 6.3,
+    "poster": "/23WCoDo6wzBfzbX7BGTNwVUqZfi.jpg"
   },
   {
     "title": "Redline",
     "year": 2009,
-    "rating": 7.5
+    "rating": 7.5,
+    "poster": "/yUkH0y9OsY7J08Dvfzi1P0di559.jpg"
   },
   {
     "title": "Stopmotion",
     "year": 2023,
-    "rating": 5.6
+    "rating": 5.6,
+    "poster": "/kWzWZEctPcZ0dATbtcYy6lIJgGj.jpg"
   },
   {
     "title": "That Christmas",
     "year": 2024,
-    "rating": 6.8
+    "rating": 6.8,
+    "poster": "/uR3uhztTAxGGK7Co0yyxVy4Gc7H.jpg"
   },
   {
     "title": "Guillermo del Toro's Pinocchio",
     "year": 2022,
-    "rating": 7.6
+    "rating": 7.6,
+    "poster": "/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg"
   },
   {
     "title": "Demon Slayer: Kimetsu no Yaiba - Mt. Natagumo Arc",
     "year": 2020,
-    "rating": 8.7
+    "rating": 8.7,
+    "poster": "/wq1UG5lPCKpOJgmgpKJszKvoMUe.jpg"
   },
   {
     "title": "The Lego Movie",
     "year": 2014,
-    "rating": 7.7
+    "rating": 7.7,
+    "poster": "/lbctonEnewCYZ4FYoTZhs8cidAl.jpg"
   },
   {
     "title": "Mad God",
     "year": 2021,
-    "rating": 6.8
+    "rating": 6.8,
+    "poster": "/105stT9GkiENXiYqvWYKoAuHKQL.jpg"
   },
   {
     "title": "The First Slam Dunk",
     "year": 2022,
-    "rating": 8
+    "rating": 8,
+    "poster": "/yq4tSiYvfGw150Ntq8NbsFZ12En.jpg"
   },
   {
     "title": "Marcel the Shell with Shoes On",
     "year": 2021,
-    "rating": 7.6
+    "rating": 7.6,
+    "poster": "/jaYmP4Ct8YLnxWAW2oYkUjeXtzm.jpg"
   },
   {
     "title": "The Witcher: Sirens of the Deep",
     "year": 2025,
-    "rating": 6.1
+    "rating": 6.1,
+    "poster": "/y0pR5aBVvPn5uncaZjl94ZEnuEF.jpg"
   },
   {
     "title": "The Secret World of Arrietty",
     "year": 2010,
-    "rating": 7.6
+    "rating": 7.6,
+    "poster": "/3lSRaSjDp2nkXMQkzzjpRi3035O.jpg"
   },
   {
     "title": "Elemental",
     "year": 2023,
-    "rating": 7
+    "rating": 7,
+    "poster": "/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg"
   },
   {
     "title": "Norm of the North",
     "year": 2016,
-    "rating": 3.4
+    "rating": 3.4,
+    "poster": "/ouaoVSV7aOSWTNnQ9iDA1jw0pgg.jpg"
   },
   {
     "title": "Disenchanted",
     "year": 2022,
-    "rating": 5.6
+    "rating": 5.6,
+    "poster": "/uyNLq2Dc3s4IOdcYTU8ZtM2lTjb.jpg"
   },
   {
     "title": "Harold and the Purple Crayon",
     "year": 2024,
-    "rating": 5.7
+    "rating": 5.8,
+    "poster": "/qtW6bWUEqfPLaD6KnetIlSG4adf.jpg"
   },
   {
     "title": "Alvin and the Chipmunks: Chipwrecked",
     "year": 2011,
-    "rating": 4.4
-  },
-  {
-    "title": "Jupiter Ascending",
-    "year": 2015,
-    "rating": 5.3
+    "rating": 4.5,
+    "poster": "/npOXWVoZyl8UrF2wtByHtfmsWSX.jpg"
   },
   {
     "title": "One Piece Film: Red",
     "year": 2022,
-    "rating": 6.7
+    "rating": 6.7,
+    "poster": "/8ibfhe4P7rhmn3lrPhOZzIJHA2B.jpg"
   },
   {
     "title": "The Addams Family",
     "year": 2019,
-    "rating": 5.9
+    "rating": 5.9,
+    "poster": "/q1epO0eO8DWu8Vo8tPfvVlzW48T.jpg"
   },
   {
     "title": "Free Birds",
     "year": 2013,
-    "rating": 5.8
+    "rating": 5.8,
+    "poster": "/gnSU2wUBq2gTkBEkxY8C1d1fXAQ.jpg"
   },
   {
     "title": "ParaNorman",
     "year": 2012,
-    "rating": 7
+    "rating": 7,
+    "poster": "/9DZPtuYTKYxt6vzHvZ5FLThG4fl.jpg"
   },
   {
     "title": "Ronal the Barbarian",
     "year": 2011,
-    "rating": 6.5
-  },
-  {
-    "title": "Avatar: The Way of Water",
-    "year": 2022,
-    "rating": 7.5
+    "rating": 6.5,
+    "poster": "/vT8m9Ji4mrUExpuIX0LGjMPHEHX.jpg"
   },
   {
     "title": "Underdogs",
     "year": 2013,
-    "rating": 6.4
+    "rating": 6.4,
+    "poster": "/tJL0oyVmrwSpULCAGaTqs9VMTdM.jpg"
+  },
+  {
+    "title": "Bubble",
+    "year": 2022,
+    "rating": 6.4,
+    "poster": "/wjgwIZyEgtgy9nIdz6C5uJNel2X.jpg"
   },
   {
     "title": "Suzume",
     "year": 2022,
-    "rating": 7.6
+    "rating": 7.6,
+    "poster": "/yStW1TXF5s7Tbtu9KjIZEaWl6HL.jpg"
   },
   {
     "title": "Open Season 3",
     "year": 2010,
-    "rating": 5
+    "rating": 5,
+    "poster": "/qEr9fkGLQUWcAnVfDV46L79bdFs.jpg"
   },
   {
     "title": "How to Train Your Dragon 2",
     "year": 2014,
-    "rating": 7.8
+    "rating": 7.8,
+    "poster": "/d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg"
   },
   {
     "title": "Demon Slayer: Kimetsu no Yaiba - Tsuzumi Mansion Arc",
     "year": 2021,
-    "rating": 8.4
+    "rating": 8.4,
+    "poster": "/2yiDQCDj7hlq2SwLojV9xrFkCnr.jpg"
   },
   {
     "title": "Ice Age: Continental Drift",
     "year": 2012,
-    "rating": 6.5
+    "rating": 6.5,
+    "poster": "/dfp1BZF7FxbBUyzHvMOI9t8NWDD.jpg"
   },
   {
     "title": "A Cat in Paris",
     "year": 2010,
-    "rating": 6.9
+    "rating": 6.9,
+    "poster": "/oTAC9Htd7rAZuxrmkgTMIihtqMR.jpg"
   },
   {
     "title": "Trolls",
     "year": 2016,
-    "rating": 6.4
+    "rating": 6.4,
+    "poster": "/9VlK2j0THZWzhQPq0W3Oc0IIdBB.jpg"
   },
   {
     "title": "Despicable Me 2",
     "year": 2013,
-    "rating": 7.3
+    "rating": 7.3,
+    "poster": "/5Fh4NdoEnCjCK9wLjdJ9DJNFl2b.jpg"
   },
   {
     "title": "Planes",
     "year": 2013,
-    "rating": 5.7
+    "rating": 5.7,
+    "poster": "/i2xgU0y0p77WTrB0oIkbpdaWq8R.jpg"
   },
   {
     "title": "Sausage Party",
     "year": 2016,
-    "rating": 6.1
+    "rating": 6.1,
+    "poster": "/vNgdPJQ5CI60oEiiHLKRNrsDhMy.jpg"
   },
   {
     "title": "Tarzan",
     "year": 2013,
-    "rating": 4.8
+    "rating": 4.8,
+    "poster": "/wIg7TclH6PUcvTWFh0QdtU5Wcvt.jpg"
   },
   {
     "title": "Wallace & Gromit: Vengeance Most Fowl",
     "year": 2024,
-    "rating": 7.5
+    "rating": 7.5,
+    "poster": "/jUWFSBxTOiCinPdTOh3IDUXVemZ.jpg"
   },
   {
     "title": "Resident Evil: Damnation",
     "year": 2012,
-    "rating": 6.4
+    "rating": 6.4,
+    "poster": "/zkHSURVCrt7rpvDDgUXO75CV1v4.jpg"
   },
   {
     "title": "The Little Prince",
     "year": 2015,
-    "rating": 7.6
+    "rating": 7.6,
+    "poster": "/33Oc7gTFbEZgMcNmWjuMvmEEIKv.jpg"
   },
   {
-    "title": "Avatar: Fire and Ash",
-    "year": 2025,
-    "rating": 7.3
+    "title": "Coyote vs. Acme",
+    "year": 2026,
+    "rating": 7.3,
+    "poster": "/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg"
   },
   {
     "title": "Walking with Dinosaurs 3D",
     "year": 2013,
-    "rating": 5.2
+    "rating": 5.2,
+    "poster": "/lkElT9HpOUIjIL20Hwy3LZqgXWc.jpg"
+  },
+  {
+    "title": "Tad: The Lost Explorer",
+    "year": 2012,
+    "rating": 6,
+    "poster": "/vmysxjUJkYmp6CmjNOKOeHMOzFA.jpg"
   },
   {
     "title": "Wreck-It Ralph",
     "year": 2012,
-    "rating": 7.7
+    "rating": 7.7,
+    "poster": "/zWoIgZ7mgmPkaZjG0102BSKFIqQ.jpg"
   },
   {
     "title": "From Up on Poppy Hill",
     "year": 2011,
-    "rating": 7.4
+    "rating": 7.4,
+    "poster": "/rRLYX4RZIyloHSJwvZKAhphAjiB.jpg"
   },
   {
     "title": "Ernest & Celestine",
     "year": 2012,
-    "rating": 7.8
+    "rating": 7.8,
+    "poster": "/iJPbRASktYW0I009Ktc2zUE6Fvg.jpg"
   },
   {
     "title": "The Congress",
     "year": 2013,
-    "rating": 6.4
+    "rating": 6.4,
+    "poster": "/oeT9rwfCBayxgVoUn1yZGmkZlUq.jpg"
   },
   {
     "title": "The Nut Job",
     "year": 2014,
-    "rating": 5.7
+    "rating": 5.7,
+    "poster": "/4iHnGlmOjAj2k5zUftYDIzSITCf.jpg"
+  },
+  {
+    "title": "Avatar Aang: The Last Airbender",
+    "year": 2026,
+    "rating": 7.7,
+    "poster": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg"
   },
   {
     "title": "Children Who Chase Lost Voices",
     "year": 2011,
-    "rating": 7.1
+    "rating": 7.1,
+    "poster": "/8RE7Zz9oTzOeMcahqm74AWkOVpV.jpg"
   },
   {
     "title": "Turbo",
     "year": 2013,
-    "rating": 6.4
+    "rating": 6.4,
+    "poster": "/inTKQni4YW8syrfgnXHwzmNeSo4.jpg"
   },
   {
     "title": "Song of the Sea",
     "year": 2014,
-    "rating": 8
+    "rating": 8,
+    "poster": "/16LQC6zpqB0l74mVWb93a2oMFnX.jpg"
   },
   {
     "title": "Penguins of Madagascar",
     "year": 2014,
-    "rating": 6.6
+    "rating": 6.7,
+    "poster": "/dXbpNrPDZDMEbujFoOxmMNQVMHa.jpg"
   },
   {
     "title": "Nimona",
     "year": 2023,
-    "rating": 7.5
+    "rating": 7.5,
+    "poster": "/2NQljeavtfl22207D1kxLpa4LS3.jpg"
   },
   {
     "title": "Toy Story 4",
     "year": 2019,
-    "rating": 7.6
+    "rating": 7.6,
+    "poster": "/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg"
   },
   {
     "title": "The Good Dinosaur",
     "year": 2015,
-    "rating": 6.7
+    "rating": 6.7,
+    "poster": "/8RSkxOO80btfKjyiC5ZiTaCHIT8.jpg"
   },
   {
     "title": "The Remarkable Life of Ibelin",
     "year": 2024,
-    "rating": 8.1
+    "rating": 8.1,
+    "poster": "/73vRLcc0syVTMXmXyztUWaPJiK3.jpg"
   },
   {
     "title": "The Angry Birds Movie",
     "year": 2016,
-    "rating": 6.3
+    "rating": 6.3,
+    "poster": "/iOH0fEFtV9z9rZp9zmBFGGeWicv.jpg"
   },
   {
     "title": "Cloudy with a Chance of Meatballs 2",
     "year": 2013,
-    "rating": 6.3
+    "rating": 6.3,
+    "poster": "/ss5NcK2NWFg2YcKKYXLrk8q1myS.jpg"
   },
   {
     "title": "The Wind Rises",
     "year": 2013,
-    "rating": 7.8
+    "rating": 7.8,
+    "poster": "/jfwSexzlIzaOgxP9A8bTA6t8YYb.jpg"
   },
   {
     "title": "The Smurfs 2",
     "year": 2013,
-    "rating": 5.3
+    "rating": 5.3,
+    "poster": "/tmjvgbEH4BKYFfHmWXjXrHgi8wT.jpg"
   },
   {
     "title": "To the Forest of Firefly Lights",
     "year": 2011,
-    "rating": 7.8
+    "rating": 7.8,
+    "poster": "/mDqzHV8UXWWNpZkoAbKmKX1ZxEE.jpg"
   },
   {
     "title": "Starship Troopers: Invasion",
     "year": 2012,
-    "rating": 5.8
+    "rating": 5.8,
+    "poster": "/xJJY16XSazUgDvbWEXQ1ulLiz8q.jpg"
   },
   {
     "title": "Captain Underpants: The First Epic Movie",
     "year": 2017,
-    "rating": 6.2
+    "rating": 6.2,
+    "poster": "/vKSmaPct5OEeMoD8ue30RisHlKD.jpg"
   },
   {
     "title": "Inside Out",
     "year": 2015,
-    "rating": 8.1
+    "rating": 8.1,
+    "poster": "/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg"
+  },
+  {
+    "title": "Pixels",
+    "year": 2015,
+    "rating": 5.6,
+    "poster": "/d26S5EfVXLNxRXqyFy1yyl3qRq3.jpg"
   },
   {
     "title": "Wolf Children",
     "year": 2012,
-    "rating": 8.1
+    "rating": 8.1,
+    "poster": "/vHMvBkr42Gh3OORcnmfCFfqJ1E.jpg"
   },
   {
     "title": "Kung Fu Panda 4",
     "year": 2024,
-    "rating": 6.3
+    "rating": 6.3,
+    "poster": "/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg"
   },
   {
     "title": "Inside Out 2",
     "year": 2024,
-    "rating": 7.5
+    "rating": 7.5,
+    "poster": "/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg"
   },
   {
     "title": "Berserk: The Golden Age Arc I - The Egg of the King",
     "year": 2012,
-    "rating": 7.5
+    "rating": 7.5,
+    "poster": "/vES8WAzjowrMT8gwnoEaCioZXXk.jpg"
   },
   {
     "title": "Home",
     "year": 2015,
-    "rating": 6.5
-  },
-  {
-    "title": "Valerian and the City of a Thousand Planets",
-    "year": 2017,
-    "rating": 6.4
+    "rating": 6.5,
+    "poster": "/usFenYnk6mr8C62dB1MoAfSWMGR.jpg"
   },
   {
     "title": "Big Hero 6",
     "year": 2014,
-    "rating": 7.8
+    "rating": 7.8,
+    "poster": "/2mxS4wUimwlLmI1xp6QW6NSU361.jpg"
   },
   {
     "title": "Leap!",
     "year": 2016,
-    "rating": 6.8
+    "rating": 6.8,
+    "poster": "/qBxMhcmNnFniuDAZTKEHcSgKtsn.jpg"
   },
   {
     "title": "The Book of Life",
     "year": 2014,
-    "rating": 7.2
+    "rating": 7.2,
+    "poster": "/aotTZos5KswgCryEzx2rlOjFsm1.jpg"
   },
   {
     "title": "Dragon Ball Z: Battle of Gods",
     "year": 2013,
-    "rating": 7.1
+    "rating": 7.1,
+    "poster": "/nxZEdYcHMuD8SSuwusDnK9CD2H1.jpg"
   },
   {
     "title": "Kung Fu Panda 3",
     "year": 2016,
-    "rating": 7.1
+    "rating": 7.1,
+    "poster": "/oajNi4Su39WAByHI6EONu8G8HYn.jpg"
   },
   {
     "title": "Finding Dory",
     "year": 2016,
-    "rating": 7.2
+    "rating": 7.2,
+    "poster": "/3UVe8NL1E2ZdUZ9EDlKGJY5UzE.jpg"
   },
   {
     "title": "The SpongeBob Movie: Sponge Out of Water",
     "year": 2015,
-    "rating": 6
+    "rating": 6,
+    "poster": "/2WDmjUlSAPlA27i2OwEC7sRTFw3.jpg"
+  },
+  {
+    "title": "Black Clover: Sword of the Wizard King",
+    "year": 2023,
+    "rating": 7.4,
+    "poster": "/9YEGawvjaRgnyW6QVcUhFJPFDco.jpg"
   },
   {
     "title": "Minions",
     "year": 2015,
-    "rating": 6.4
+    "rating": 6.4,
+    "poster": "/dr02BdCNAUPVU07aOodwPYv6HCf.jpg"
   },
   {
     "title": "Frozen",
     "year": 2013,
-    "rating": 7.4
+    "rating": 7.4,
+    "poster": "/itAKcobTYGpYT8Phwjd8c9hleTo.jpg"
   },
   {
     "title": "Sherlock Gnomes",
     "year": 2018,
-    "rating": 5.3
+    "rating": 5.3,
+    "poster": "/wqnzpJR3PwS4doVkAkt9seSEpoX.jpg"
   },
   {
     "title": "Mummies",
     "year": 2023,
-    "rating": 5.9
+    "rating": 5.9,
+    "poster": "/18nabcSr5luPtdycpTZItffddbP.jpg"
   },
   {
     "title": "My Life as a Zucchini",
     "year": 2016,
-    "rating": 7.8
+    "rating": 7.8,
+    "poster": "/2uu8fIzl76C9MFiUQhjKYSLKVq.jpg"
   },
   {
     "title": "Rio 2",
     "year": 2014,
-    "rating": 6.3
+    "rating": 6.3,
+    "poster": "/gVNTBrjxh2YRmQFjlaqrNbHVvrd.jpg"
   },
   {
     "title": "Berserk: The Golden Age Arc II - The Battle for Doldrey",
     "year": 2012,
-    "rating": 7.7
+    "rating": 7.7,
+    "poster": "/emotEtDYn6qA5O5C52yb5bS4TrN.jpg"
   },
   {
     "title": "Berserk: The Golden Age Arc III - The Advent",
     "year": 2013,
-    "rating": 7.9
+    "rating": 7.9,
+    "poster": "/hZ7bjwg3x4uQHVmeeyoGgifWdyS.jpg"
   },
   {
-    "title": "One Piece Film Z",
+    "title": "One Piece Film: Z",
     "year": 2012,
-    "rating": 7.7
+    "rating": 7.7,
+    "poster": "/dd0HwfxstffjRgbBcQvtw3uqS6O.jpg"
   },
   {
     "title": "Memoir of a Snail",
     "year": 2024,
-    "rating": 7.8
+    "rating": 7.8,
+    "poster": "/woaN8CbloH0akyX0E72ayxlJAB4.jpg"
   },
   {
     "title": "Coco",
     "year": 2017,
-    "rating": 8.4
+    "rating": 8.4,
+    "poster": "/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg"
   },
   {
     "title": "How to Train Your Dragon: The Hidden World",
     "year": 2019,
-    "rating": 7.4
+    "rating": 7.4,
+    "poster": "/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg"
+  },
+  {
+    "title": "Clifford the Big Red Dog",
+    "year": 2021,
+    "rating": 5.9,
+    "poster": "/30ULVKdjBcQTsj2aOSThXXZNSxF.jpg"
   },
   {
     "title": "Smurfs: The Lost Village",
     "year": 2017,
-    "rating": 6
+    "rating": 6,
+    "poster": "/swt9crREg1UcKgg3wGWfoFNlXOz.jpg"
   },
   {
     "title": "Anomalisa",
     "year": 2015,
-    "rating": 7.2
+    "rating": 7.2,
+    "poster": "/4DJ1zNr4Y6q7zQ27goEYla46VdO.jpg"
   },
   {
     "title": "The Peanuts Movie",
     "year": 2015,
-    "rating": 7
+    "rating": 7,
+    "poster": "/aiwdwnl7RFs1vcBanOKr13ye3wE.jpg"
   },
   {
     "title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
     "year": 2021,
-    "rating": 8
+    "rating": 8,
+    "poster": "/md5wZRRj8biHrGtyitgBZo7674t.jpg"
   },
   {
     "title": "Hotel Transylvania 2",
     "year": 2015,
-    "rating": 6.6
+    "rating": 6.6,
+    "poster": "/3nFnrivNgipSKZ8LZJJbRSlAcTR.jpg"
   },
   {
     "title": "The Tale of The Princess Kaguya",
     "year": 2013,
-    "rating": 8
+    "rating": 8,
+    "poster": "/cQidJuA546OSSXKWXoiCeINDxuj.jpg"
   },
   {
     "title": "The Garden of Words",
     "year": 2013,
-    "rating": 7.4
+    "rating": 7.4,
+    "poster": "/mXUCVq3HMtS4Y9IQ8vmEOPyN0vH.jpg"
   },
   {
     "title": "Zootopia 2",
     "year": 2025,
-    "rating": 7.4
+    "rating": 7.3,
+    "poster": "/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
   },
   {
     "title": "Hoppers",
     "year": 2026,
-    "rating": 7.5
+    "rating": 7.2,
+    "poster": "/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
   },
   {
     "title": "Demon Slayer: Kimetsu No Yaiba - To the Swordsmith Village",
     "year": 2023,
-    "rating": 7.7
+    "rating": 7.7,
+    "poster": "/hEhGrcST85vMd63PBDgPBqih2tR.jpg"
   },
   {
     "title": "Resident Evil: Death Island",
     "year": 2023,
-    "rating": 5.7
+    "rating": 5.7,
+    "poster": "/qayga07ICNDswm0cMJ8P3VwklFZ.jpg"
   },
   {
     "title": "Harlock: Space Pirate",
     "year": 2013,
-    "rating": 6.4
+    "rating": 6.4,
+    "poster": "/mlHoTQLYsuzJJArO2fHS5rqnLqe.jpg"
+  },
+  {
+    "title": "Spy x Family Code: White",
+    "year": 2023,
+    "rating": 7.3,
+    "poster": "/xlIQf4y9eB14iYzNN142tROIWON.jpg"
   },
   {
     "title": "Mars Express",
     "year": 2023,
-    "rating": 7.5
+    "rating": 7.5,
+    "poster": "/g8rUn0khoYB3G4gPPGTF1Xv9Olu.jpg"
   },
   {
     "title": "The Grinch",
     "year": 2018,
-    "rating": 6.4
+    "rating": 6.4,
+    "poster": "/Al7DMUp8bqUN4JwXVNxfJYyv5cH.jpg"
   },
   {
     "title": "The Secret Life of Pets",
     "year": 2016,
-    "rating": 6.5
+    "rating": 6.5,
+    "poster": "/g3Hms6AE174doeGR1gz5zX5sVsv.jpg"
   },
   {
     "title": "Ruby Gillman: Teenage Kraken",
     "year": 2023,
-    "rating": 5.7
+    "rating": 5.7,
+    "poster": "/8ChIb3WzYAcza1vrXR56v510MWk.jpg"
   },
   {
     "title": "GOAT",
     "year": 2026,
-    "rating": 6.7
+    "rating": 6.6,
+    "poster": "/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg"
+  },
+  {
+    "title": "The Last Viking",
+    "year": 2025,
+    "rating": 7.1,
+    "poster": "/cgvGExc0kfHRUffTKBSQHPKchrq.jpg"
   },
   {
     "title": "Orion and the Dark",
     "year": 2024,
-    "rating": 6.3
+    "rating": 6.3,
+    "poster": "/N2ddXhBX5kqwA9flbm2yqFtX6b.jpg"
   },
   {
     "title": "The Croods: A New Age",
     "year": 2020,
-    "rating": 6.9
+    "rating": 6.9,
+    "poster": "/tbVZ3Sq88dZaCANlUcewQuHQOaE.jpg"
   },
   {
     "title": "The Super Mario Galaxy Movie",
     "year": 2026,
-    "rating": 6.5
+    "rating": 6.2,
+    "poster": "/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
   },
   {
     "title": "Ratchet & Clank",
     "year": 2016,
-    "rating": 5.5
+    "rating": 5.5,
+    "poster": "/649xP2LST4VIrZ5cLPw7Ys9movF.jpg"
   },
   {
     "title": "Shaun the Sheep Movie",
     "year": 2015,
-    "rating": 7.3
+    "rating": 7.3,
+    "poster": "/1GMvKNy2Ht5QwI0oV0ycYnxzWdC.jpg"
+  },
+  {
+    "title": "Justice League: Crisis on Infinite Earths - Part One",
+    "year": 2024,
+    "rating": 6.2,
+    "poster": "/mcRVsjMbhFstRK9z2oGRHiIvulr.jpg"
+  },
+  {
+    "title": "Toy Story 5",
+    "year": 2026,
+    "rating": 7.3,
+    "poster": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg"
   },
   {
     "title": "Zootopia",
     "year": 2016,
-    "rating": 8
+    "rating": 8,
+    "poster": "/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg"
   },
   {
     "title": "Soul",
     "year": 2020,
-    "rating": 8
+    "rating": 8,
+    "poster": "/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg"
   },
   {
     "title": "Encanto",
     "year": 2021,
-    "rating": 7.2
+    "rating": 7.2,
+    "poster": "/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg"
+  },
+  {
+    "title": "Swapped",
+    "year": 2026,
+    "rating": 7.2,
+    "poster": "/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg"
   },
   {
     "title": "The Wild Robot",
     "year": 2024,
-    "rating": 8.2
+    "rating": 8.1,
+    "poster": "/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg"
   },
   {
     "title": "Steins;Gate: The Movie - Load Region of Déjà Vu",
     "year": 2013,
-    "rating": 7.8
+    "rating": 7.8,
+    "poster": "/bXhogkZCR0aOQ077rfMULYbDmtH.jpg"
+  },
+  {
+    "title": "Lesbian Space Princess",
+    "year": 2025,
+    "rating": 4.1,
+    "poster": "/bmf6spk0WZ10lz4eAK95P1zRB4F.jpg"
   },
   {
     "title": "Planes: Fire & Rescue",
     "year": 2014,
-    "rating": 5.9
+    "rating": 5.9,
+    "poster": "/pOmteFeBDI9FJOPTDvYJYFeAtdp.jpg"
   },
   {
     "title": "Patema Inverted",
     "year": 2013,
-    "rating": 7.3
+    "rating": 7.3,
+    "poster": "/esv9BI0s1i2iJBq9Rn2imrAFW5u.jpg"
   },
   {
     "title": "The Bad Guys 2",
     "year": 2025,
-    "rating": 7
+    "rating": 7,
+    "poster": "/26oSPnq0ct59l07QOXZKyzsiRtN.jpg"
   },
   {
     "title": "The Lego Ninjago Movie",
     "year": 2017,
-    "rating": 6.1
+    "rating": 6.1,
+    "poster": "/vUo0pNXGhp2ffTJxiStWt6fHL7F.jpg"
   },
   {
     "title": "Demon Slayer: Kimetsu No Yaiba - To the Hashira Training",
     "year": 2024,
-    "rating": 7.3
+    "rating": 7.3,
+    "poster": "/3daOEMQCOGU2n9EbUC0PICnUCek.jpg"
   },
   {
     "title": "The Jungle Book",
     "year": 2016,
-    "rating": 7.3
+    "rating": 7.3,
+    "poster": "/2Epx7F9X7DrFptn4seqn4mzBVks.jpg"
   },
   {
     "title": "Chainsaw Man - The Movie: Reze Arc",
     "year": 2025,
-    "rating": 8.3
-  },
-  {
-    "title": "Son of Batman",
-    "year": 2014,
-    "rating": 6.7
+    "rating": 8.3,
+    "poster": "/pHyxb2RV5wLlboAwm9ZJ9qTVEDw.jpg"
   },
   {
     "title": "Scoob!",
     "year": 2020,
-    "rating": 5.6
+    "rating": 5.6,
+    "poster": "/jHo2M1OiH9Re33jYtUQdfzPeUkx.jpg"
   },
   {
     "title": "Look Back",
     "year": 2024,
-    "rating": 7.8
+    "rating": 7.8,
+    "poster": "/4f2EcNkp1Mvp9wE5w7HKxcmACWg.jpg"
   },
   {
     "title": "Loving Vincent",
     "year": 2017,
-    "rating": 7.8
+    "rating": 7.8,
+    "poster": "/56sq57kDm7XgyXBYrgJLumo0Jac.jpg"
   },
   {
     "title": "Demon Slayer: Kimetsu No Yaiba Infinity Castle",
     "year": 2025,
-    "rating": 8.4
+    "rating": 8.3,
+    "poster": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg"
+  },
+  {
+    "title": "Minions & Monsters",
+    "year": 2026,
+    "rating": 6.3,
+    "poster": "/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg"
   },
   {
     "title": "Attack on Titan: The Last Attack",
     "year": 2024,
-    "rating": 9.2
+    "rating": 8.9,
+    "poster": "/wgwldDDlTDDMrluOMkpSA8lyKjv.jpg"
   },
   {
     "title": "Stand by Me Doraemon",
     "year": 2014,
-    "rating": 7.4
+    "rating": 7.4,
+    "poster": "/wc7XQbfx6EIQqCuvmBMt3aisb2Y.jpg"
   },
   {
     "title": "Solo Leveling: ReAwakening",
     "year": 2024,
-    "rating": 8.7
+    "rating": 8.7,
+    "poster": "/uzHMp5heVLR68kbbUEXFPsmxYsM.jpg"
   },
   {
     "title": "When Marnie Was There",
     "year": 2014,
-    "rating": 7.6
+    "rating": 7.6,
+    "poster": "/vug1dvDI1tSa60Z8qjCuUE7ntkO.jpg"
   },
   {
     "title": "Ferdinand",
     "year": 2017,
-    "rating": 6.7
+    "rating": 6.7,
+    "poster": "/rMm94JsRfcOPiPVsTRcBiiVBOhz.jpg"
   },
   {
     "title": "Ice Age: Collision Course",
     "year": 2016,
-    "rating": 5.7
+    "rating": 5.7,
+    "poster": "/tFzUkdhPOForVrEfvxydXfPLrZR.jpg"
   },
   {
     "title": "Mahavatar Narsimha",
     "year": 2024,
-    "rating": 8.5
+    "rating": 8.5,
+    "poster": "/uGTF87VyfjtwwqRlT2apQg5YnEp.jpg"
   },
   {
     "title": "Despicable Me 3",
     "year": 2017,
-    "rating": 6.3
+    "rating": 6.3,
+    "poster": "/e72KCMHNkbZ6USRJmABeqwmaJ5n.jpg"
   },
   {
     "title": "Sing",
     "year": 2016,
-    "rating": 7.1
+    "rating": 7.1,
+    "poster": "/rwopfpHqPCYBSgBuZwkaXXqHp14.jpg"
   },
   {
     "title": "Ne Zha 2",
     "year": 2025,
-    "rating": 7.9
+    "rating": 7.9,
+    "poster": "/fcs5AdCKliQaQgXsPS9kDejamIJ.jpg"
   },
   {
     "title": "The Lego Movie 2: The Second Part",
     "year": 2019,
-    "rating": 6.5
+    "rating": 6.5,
+    "poster": "/QTESAsBVZwjtGJNDP7utiGV37z.jpg"
   },
   {
     "title": "Chip 'n Dale: Rescue Rangers",
     "year": 2022,
-    "rating": 6.9
+    "rating": 6.9,
+    "poster": "/7UGmn8TyWPPzkjhLUW58cOUHjPS.jpg"
   },
   {
     "title": "Moana",
     "year": 2016,
-    "rating": 7.6
+    "rating": 7.6,
+    "poster": "/m5MDZOIFEFlxGiLuAzWzFSsWcye.jpg"
   },
   {
     "title": "Space Jam: A New Legacy",
     "year": 2021,
-    "rating": 4.5
+    "rating": 4.5,
+    "poster": "/5bFK5d3mVTAvBCXi5NPWH0tYjKl.jpg"
   },
   {
     "title": "Bilal: A New Breed of Hero",
     "year": 2015,
-    "rating": 7.6
+    "rating": 7.5,
+    "poster": "/ncWuEzxnXqssxRfHghZuUAIezCo.jpg"
   },
   {
     "title": "Cars 3",
     "year": 2017,
-    "rating": 6.7
+    "rating": 6.7,
+    "poster": "/zg5RDxvIIAKsucjuU2EZJIHEIvz.jpg"
   },
   {
     "title": "Incredibles 2",
     "year": 2018,
-    "rating": 7.5
+    "rating": 7.5,
+    "poster": "/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg"
   },
   {
     "title": "Predator: Killer of Killers",
     "year": 2025,
-    "rating": 7.4
+    "rating": 7.4,
+    "poster": "/2XDQa6EmFHSA37j1t0w88vpWqj9.jpg"
   },
   {
     "title": "The Red Turtle",
     "year": 2016,
-    "rating": 7.5
+    "rating": 7.5,
+    "poster": "/wOBU3SLjQ9358Km9YWYasPZyebp.jpg"
   },
   {
     "title": "The Last: Naruto the Movie",
     "year": 2014,
-    "rating": 7.6
+    "rating": 7.6,
+    "poster": "/bAQ8O5Uw6FedtlCbJTutenzPVKd.jpg"
   },
   {
     "title": "Astérix: The Mansions of the Gods",
     "year": 2014,
-    "rating": 6.9
+    "rating": 6.9,
+    "poster": "/oppvIr8jmTXEVkzRHtipxcmvdQ5.jpg"
   },
   {
     "title": "Dragon Ball Z: Resurrection 'F'",
     "year": 2015,
-    "rating": 7.1
-  },
-  {
-    "title": "Dumbo",
-    "year": 2019,
-    "rating": 6.2
+    "rating": 7.1,
+    "poster": "/soq3AxjALdBfdPAm8H7yuMmNL5Y.jpg"
   },
   {
     "title": "The Boss Baby",
     "year": 2017,
-    "rating": 6.3
+    "rating": 6.3,
+    "poster": "/9MsQJKe4cUAGxc7R2NGaFQLqOPc.jpg"
   },
   {
     "title": "The Breadwinner",
     "year": 2017,
-    "rating": 7.7
+    "rating": 7.7,
+    "poster": "/2d6qmkJz9AWqmk9wBWtd2uFX89t.jpg"
   },
   {
     "title": "Puss in Boots: The Last Wish",
     "year": 2022,
-    "rating": 7.8
-  },
-  {
-    "title": "Teenage Mutant Ninja Turtles: Out of the Shadows",
-    "year": 2016,
-    "rating": 5.9
+    "rating": 7.9,
+    "poster": "/kuf6dutpsT0vSVehic3EZIqkOBt.jpg"
   },
   {
     "title": "The Lego Batman Movie",
     "year": 2017,
-    "rating": 7.3
+    "rating": 7.3,
+    "poster": "/e1TliRWOdXQ73pRunbpFiGst6Kd.jpg"
   },
   {
     "title": "Strange Magic",
     "year": 2015,
-    "rating": 5.8
+    "rating": 5.8,
+    "poster": "/vjCdrK8gGRFnyuZb1j9BzgN2RaY.jpg"
   },
   {
     "title": "The Boy and the Beast",
     "year": 2015,
-    "rating": 7.6
+    "rating": 7.6,
+    "poster": "/kRofx67xkbnJ6pAVcHdeMyBm4OM.jpg"
   },
   {
     "title": "Kubo and the Two Strings",
     "year": 2016,
-    "rating": 7.7
+    "rating": 7.7,
+    "poster": "/la6QA9tk4Foq8OBH2Dyh5dTcw6H.jpg"
+  },
+  {
+    "title": "BLEACH: Thousand-Year Blood War - The Calamity",
+    "year": 2026,
+    "rating": 9,
+    "poster": "/tEaeXZZO7SEcDr6yRP31UrrxcX0.jpg"
   },
   {
     "title": "Frozen II",
     "year": 2019,
-    "rating": 6.8
+    "rating": 6.8,
+    "poster": "/mINJaa34MtknCYl5AjtNJzWj8cD.jpg"
   },
   {
     "title": "The Star",
     "year": 2017,
-    "rating": 6.3
+    "rating": 6.3,
+    "poster": "/tEbDvivUfsCupngKIfMJJ725eAD.jpg"
   },
   {
     "title": "Pinocchio",
     "year": 2022,
-    "rating": 5.1
+    "rating": 5.1,
+    "poster": "/zaZhjKrJeWczQ3AotKoQObppEbH.jpg"
   },
   {
     "title": "Boruto: Naruto the Movie",
     "year": 2015,
-    "rating": 7.7
+    "rating": 7.7,
+    "poster": "/1k6iwC4KaPvTBt1JuaqXy3noZRY.jpg"
   },
   {
     "title": "Storks",
     "year": 2016,
-    "rating": 6.8
+    "rating": 6.8,
+    "poster": "/pwGolX8JmGJhhcUjO5SJt38Uk0m.jpg"
   },
   {
     "title": "Spider-Man: Into the Spider-Verse",
     "year": 2018,
-    "rating": 8.4
+    "rating": 8.4,
+    "poster": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg"
   },
   {
     "title": "Early Man",
     "year": 2018,
-    "rating": 6.1
+    "rating": 6.1,
+    "poster": "/5iW2rntwLZoGlFCYYy8TjHyblbw.jpg"
   },
   {
     "title": "Klaus",
     "year": 2019,
-    "rating": 8.2
+    "rating": 8.2,
+    "poster": "/q125RHUDgR4gjwh1QkfYuJLYkL.jpg"
   },
   {
     "title": "In This Corner of the World",
     "year": 2016,
-    "rating": 7.8
+    "rating": 7.8,
+    "poster": "/9Z4H4M2F8OQTB04YC1Opds8MFBb.jpg"
   },
   {
     "title": "Flow",
     "year": 2024,
-    "rating": 7.8
+    "rating": 7.8,
+    "poster": "/z2sG41PxfL1hnL1mHbxzSREUtOf.jpg"
   },
   {
     "title": "The SpongeBob Movie: Sponge on the Run",
     "year": 2020,
-    "rating": 5.9
+    "rating": 5.9,
+    "poster": "/jlJ8nDhMhCYJuzOw3f52CP1W8MW.jpg"
   },
   {
     "title": "Batman: The Killing Joke",
     "year": 2016,
-    "rating": 6.4
+    "rating": 6.4,
+    "poster": "/lrQ3LeNIN0nmviZ692seNBUl1Pq.jpg"
   },
   {
     "title": "The Emoji Movie",
     "year": 2017,
-    "rating": 3.5
+    "rating": 3.5,
+    "poster": "/60bTx5z9zL1AqCjZ0gmWoRMJ6Bb.jpg"
   },
   {
     "title": "Elio",
     "year": 2025,
-    "rating": 6.6
-  },
-  {
-    "title": "Injustice",
-    "year": 2021,
-    "rating": 6.4
+    "rating": 6.6,
+    "poster": "/7z8jDiTZZco9moIKpTUImFtTy7o.jpg"
   },
   {
     "title": "Isle of Dogs",
     "year": 2018,
-    "rating": 7.8
+    "rating": 7.8,
+    "poster": "/4C7ZHv5LUPq7XzxC3nq8mBr77sP.jpg"
   },
   {
     "title": "Raya and the Last Dragon",
     "year": 2021,
-    "rating": 7.3
+    "rating": 7.3,
+    "poster": "/5nVhgCzxKbK47OLIKxCR1syulOn.jpg"
   },
   {
     "title": "The Secret Life of Pets 2",
     "year": 2019,
-    "rating": 6.4
+    "rating": 6.4,
+    "poster": "/s9xg4V5EDKiphgIksVJ9gewBM11.jpg"
   },
   {
     "title": "Minions: The Rise of Gru",
     "year": 2022,
-    "rating": 6.5
+    "rating": 6.5,
+    "poster": "/4dBDk1LPdvdhcZdjQBmdXwiVKUA.jpg"
   },
   {
     "title": "Peter Rabbit",
     "year": 2018,
-    "rating": 6.6
+    "rating": 6.6,
+    "poster": "/lugOvdaNpbVGQK9TyMRDiUbLtY6.jpg"
   },
   {
     "title": "Wendell & Wild",
     "year": 2022,
-    "rating": 6.4
+    "rating": 6.4,
+    "poster": "/5dsX6UAHqkQz1kiV8bs8SvjyVNa.jpg"
   },
   {
     "title": "Wolfwalkers",
     "year": 2020,
-    "rating": 8
+    "rating": 8,
+    "poster": "/vqGiNbdc2sDwsnivMMYzwAoSSu6.jpg"
   },
   {
     "title": "The Willoughbys",
     "year": 2020,
-    "rating": 6.4
+    "rating": 6.4,
+    "poster": "/9WrMmjdZvpxLQh1tCQ9tOd1asOb.jpg"
   },
   {
     "title": "Hotel Transylvania 3: Summer Vacation",
     "year": 2018,
-    "rating": 6.3
+    "rating": 6.3,
+    "poster": "/lzE5BwGQea1nek7TPXUuC5AZ6rq.jpg"
   },
   {
     "title": "Your Name.",
     "year": 2016,
-    "rating": 8.4
+    "rating": 8.4,
+    "poster": "/vfJFJPepRKapMd5G2ro7klIRysq.jpg"
   },
   {
     "title": "A Silent Voice: The Movie",
     "year": 2016,
-    "rating": 8.2
+    "rating": 8.2,
+    "poster": "/tuFaWiqX0TXoWu7DGNcmX3UW7sT.jpg"
   },
   {
     "title": "Sword Art Online the Movie: Ordinal Scale",
     "year": 2017,
-    "rating": 7.3
+    "rating": 7.3,
+    "poster": "/2szdEK0Mr0RG0nWGFVTseNQHbnP.jpg"
   },
   {
     "title": "Wish Dragon",
     "year": 2021,
-    "rating": 7.2
+    "rating": 7.2,
+    "poster": "/lnPf6hzANL6pVQTxUlsNYSuhT5l.jpg"
   },
   {
     "title": "Kingsglaive: Final Fantasy XV",
     "year": 2016,
-    "rating": 6.7
+    "rating": 6.7,
+    "poster": "/xGMgspge6uYoypRiasAmlluDlXH.jpg"
   },
   {
     "title": "Leo",
     "year": 2023,
-    "rating": 7
+    "rating": 7,
+    "poster": "/gSOVog7ydsaF1YpgAqBqnKYFGY.jpg"
   },
   {
     "title": "Resident Evil: Vendetta",
     "year": 2017,
-    "rating": 6.2
+    "rating": 6.2,
+    "poster": "/kdiMtgjWXEH9QZ85hgmWaSwshjf.jpg"
   },
   {
     "title": "The Garfield Movie",
     "year": 2024,
-    "rating": 5.7
+    "rating": 5.7,
+    "poster": "/p6AbOJvMQhBmffd0PIv0u8ghWeY.jpg"
   },
   {
     "title": "Spies in Disguise",
     "year": 2019,
-    "rating": 6.8
+    "rating": 6.8,
+    "poster": "/z52xI0MnoX1rqySFJYnmBqHbXRn.jpg"
   },
   {
     "title": "Ralph Breaks the Internet",
     "year": 2018,
-    "rating": 7
+    "rating": 7,
+    "poster": "/iVCrhBcpDaHGvv7CLYbK6PuXZo1.jpg"
   },
   {
     "title": "Gantz: O",
     "year": 2016,
-    "rating": 7.1
+    "rating": 7.1,
+    "poster": "/9yTuw6ddf28lItHwgeqFSNtXsaG.jpg"
   },
   {
     "title": "Godzilla: Planet of the Monsters",
     "year": 2017,
-    "rating": 6
+    "rating": 6,
+    "poster": "/hAuZ7g6TqDLv5fOqXIPgYRguOkm.jpg"
   },
   {
     "title": "The Angry Birds Movie 2",
     "year": 2019,
-    "rating": 6.4
+    "rating": 6.4,
+    "poster": "/ebe8hJRCwdflNQbUjRrfmqtUiNi.jpg"
   },
   {
     "title": "The Lion King",
     "year": 2019,
-    "rating": 6.8
+    "rating": 6.8,
+    "poster": "/dzBtMocZuJbjLOXvrl4zGYigDzh.jpg"
   },
   {
     "title": "Smallfoot",
     "year": 2018,
-    "rating": 6.6
+    "rating": 6.6,
+    "poster": "/zfaiO7QgpcvR8XDOMokWLRfKeTE.jpg"
   },
   {
     "title": "A Shaun the Sheep Movie: Farmageddon",
     "year": 2019,
-    "rating": 6.8
+    "rating": 6.8,
+    "poster": "/p08FoXVFgcRm5QZBaGj0VKa2W2Y.jpg"
   },
   {
     "title": "Abominable",
     "year": 2019,
-    "rating": 7
+    "rating": 7,
+    "poster": "/20djTLqppfBx5WYA67Y300S6aPD.jpg"
   },
   {
     "title": "Mary and the Witch's Flower",
     "year": 2017,
-    "rating": 6.8
+    "rating": 6.8,
+    "poster": "/lq3OJQiJ8hlCr23LAdHbeU3eqBF.jpg"
   },
   {
     "title": "Vivo",
     "year": 2021,
-    "rating": 6.7
+    "rating": 6.7,
+    "poster": "/eRLlrhbdYE7XN6VtcZKy6o2BsOw.jpg"
   },
   {
     "title": "Missing Link",
     "year": 2019,
-    "rating": 6.7
+    "rating": 6.7,
+    "poster": "/bqQ38oKuROlAgyZcRII9tqtoPNi.jpg"
   },
   {
     "title": "Wonder Park",
     "year": 2019,
-    "rating": 5.9
+    "rating": 5.9,
+    "poster": "/8KomINZhIuJeB4oB7k7tkq8tmE.jpg"
   },
   {
     "title": "Sing 2",
     "year": 2021,
-    "rating": 7.3
+    "rating": 7.3,
+    "poster": "/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg"
   },
   {
     "title": "Migration",
     "year": 2023,
-    "rating": 6.6
+    "rating": 6.6,
+    "poster": "/ldfCF9RhR40mppkzmftxapaHeTo.jpg"
   },
   {
     "title": "Batman and Harley Quinn",
     "year": 2017,
-    "rating": 5.9
+    "rating": 5.9,
+    "poster": "/v3RP6pp6pfRdvch6QioeQvNdMJs.jpg"
   },
   {
     "title": "Blame!",
     "year": 2017,
-    "rating": 6.6
+    "rating": 6.6,
+    "poster": "/7eoRQY7VUMawwBnuD6uwN4szc8k.jpg"
   },
   {
     "title": "The Boy and the Heron",
     "year": 2023,
-    "rating": 7.3
+    "rating": 7.3,
+    "poster": "/f4oZTcfGrVTXKTWg157AwikXqmP.jpg"
   },
   {
     "title": "Trolls World Tour",
     "year": 2020,
-    "rating": 6.1
+    "rating": 6.1,
+    "poster": "/7W0G3YECgDAfnuiHG91r8WqgIOe.jpg"
   },
   {
     "title": "The Super Mario Bros. Movie",
     "year": 2023,
-    "rating": 7
+    "rating": 7,
+    "poster": "/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg"
   },
   {
     "title": "Mirai",
     "year": 2018,
-    "rating": 7
+    "rating": 7,
+    "poster": "/b9XvI4Nehzi0nXyNVD6DtT39P6l.jpg"
   },
   {
     "title": "The Boss Baby: Family Business",
     "year": 2021,
-    "rating": 5.8
+    "rating": 5.8,
+    "poster": "/aQ7huOn3F0iJCJrFezS8p9WEsri.jpg"
   },
   {
     "title": "The Summit of the Gods",
     "year": 2021,
-    "rating": 7.5
+    "rating": 7.5,
+    "poster": "/uzvwwdsTXIUweKYhp8Eo7uidzr5.jpg"
   },
   {
     "title": "Next Gen",
     "year": 2018,
-    "rating": 6.6
+    "rating": 6.6,
+    "poster": "/hUDDo5MPWM6rc6COQYhaoRNqvhE.jpg"
   },
   {
     "title": "Onward",
     "year": 2020,
-    "rating": 7.4
-  },
-  {
-    "title": "Reign of the Supermen",
-    "year": 2019,
-    "rating": 6.8
+    "rating": 7.3,
+    "poster": "/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg"
   },
   {
     "title": "Luck",
     "year": 2022,
-    "rating": 6.5
+    "rating": 6.5,
+    "poster": "/1HOYvwGFioUFL58UVvDRG6beEDm.jpg"
   },
   {
     "title": "I Want to Eat Your Pancreas",
     "year": 2018,
-    "rating": 8.1
+    "rating": 8.1,
+    "poster": "/qpV8kvRfAntV7D4aOOsLIz7OdPc.jpg"
   },
   {
     "title": "Maquia: When the Promised Flower Blooms",
     "year": 2018,
-    "rating": 7.4
+    "rating": 7.4,
+    "poster": "/hL3NqRE2ccR4Y2sYSJTrmalRjrz.jpg"
   },
   {
     "title": "Teen Titans GO! To the Movies",
     "year": 2018,
-    "rating": 6.7
+    "rating": 6.7,
+    "poster": "/mFHihhE9hlvJEk2f1AqdLRaYHd6.jpg"
   },
   {
     "title": "Batman Ninja",
     "year": 2018,
-    "rating": 5.6
+    "rating": 5.6,
+    "poster": "/5xSB0Npkc9Fd9kahKBsq9P4Cdzp.jpg"
   },
   {
     "title": "The Bob's Burgers Movie",
     "year": 2022,
-    "rating": 7
+    "rating": 7,
+    "poster": "/AvV2nHEDQMWuRqAUrpcx2fB97CB.jpg"
   },
   {
     "title": "Over the Moon",
     "year": 2020,
-    "rating": 6.3
+    "rating": 6.3,
+    "poster": "/lG0TF0wj1n9p9CPy5xlIUIkF56a.jpg"
   },
   {
     "title": "Ron's Gone Wrong",
     "year": 2021,
-    "rating": 7.1
+    "rating": 7.1,
+    "poster": "/plzgQAXIEHm4Y92ktxU6fedUc0x.jpg"
   },
   {
     "title": "Despicable Me 4",
     "year": 2024,
-    "rating": 6.2
+    "rating": 6.2,
+    "poster": "/wWba3TaojhK7NdycRhoQpsG0FaH.jpg"
   },
   {
     "title": "My Hero Academia: Two Heroes",
     "year": 2018,
-    "rating": 7.3
+    "rating": 7.3,
+    "poster": "/hC4nTxdhXqFWzgqynGvvXVMiMNp.jpg"
   },
   {
     "title": "Dragon Ball Super: Broly",
     "year": 2018,
-    "rating": 7.7
+    "rating": 7.7,
+    "poster": "/uMEgkyiPznZP5AiMSWAk2jsj5gC.jpg"
   },
   {
     "title": "Apollo 10½: A Space Age Childhood",
     "year": 2022,
-    "rating": 7.2
+    "rating": 7.2,
+    "poster": "/ms3qa9LH9kosaGCSe22NJ7fDPv9.jpg"
   },
   {
     "title": "The Mitchells vs. the Machines",
     "year": 2021,
-    "rating": 7.6
+    "rating": 7.6,
+    "poster": "/mI2Di7HmskQQ34kz0iau6J1vr70.jpg"
   },
   {
     "title": "Asterix: The Secret of the Magic Potion",
     "year": 2018,
-    "rating": 6.7
+    "rating": 6.7,
+    "poster": "/5OvHpzWXBzOvgZwOoUsqNSouSwy.jpg"
   },
   {
     "title": "Turning Red",
     "year": 2022,
-    "rating": 6.9
+    "rating": 6.9,
+    "poster": "/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg"
   },
   {
     "title": "The Bad Guys",
     "year": 2022,
-    "rating": 6.9
+    "rating": 6.9,
+    "poster": "/7qop80YfuO0BwJa1uXk1DXUUEwv.jpg"
+  },
+  {
+    "title": "Rumble",
+    "year": 2021,
+    "rating": 6,
+    "poster": "/3eZRgjfFWTpejRvRKyKe1EKgt9s.jpg"
   },
   {
     "title": "Chicken Run: Dawn of the Nugget",
     "year": 2023,
-    "rating": 6.3
+    "rating": 6.3,
+    "poster": "/eImY0cjbH0bll8EXSqxqEZIZcmY.jpg"
   },
   {
     "title": "Peter Rabbit 2: The Runaway",
     "year": 2021,
-    "rating": 6.2
+    "rating": 6.2,
+    "poster": "/cycDz68DtTjJrDJ1fV8EBq2Xdpb.jpg"
   },
   {
     "title": "Flee",
     "year": 2021,
-    "rating": 7.9
+    "rating": 7.9,
+    "poster": "/vlMIbqOpYG553J1kOJXA7mwQvE6.jpg"
   },
   {
     "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
     "year": 2023,
-    "rating": 7.2
+    "rating": 7.2,
+    "poster": "/gyh0eECE2IqrW8GWl3KoHBfc45j.jpg"
   },
   {
     "title": "Violet Evergarden: The Movie",
     "year": 2020,
-    "rating": 8.3
+    "rating": 8.3,
+    "poster": "/bajajkoErDst0JxdFyBkABiF9rW.jpg"
   },
   {
-    "title": "Justice League vs the Fatal Five",
+    "title": "Justice League vs. The Fatal Five",
     "year": 2019,
-    "rating": 6.5
+    "rating": 6.5,
+    "poster": "/xXC0HrmyQDXlYTiHP7Tq6nzurDI.jpg"
   },
   {
     "title": "Transformers One",
     "year": 2024,
-    "rating": 7.6
+    "rating": 7.6,
+    "poster": "/iRCgqpdVE4wyLQvGYU3ZP7pAtUc.jpg"
   },
   {
     "title": "DC League of Super-Pets",
     "year": 2022,
-    "rating": 6.8
+    "rating": 6.8,
+    "poster": "/qpPMewlugFaejXjz4YNDnpTniFX.jpg"
   },
   {
     "title": "Constantine: City of Demons",
     "year": 2018,
-    "rating": 7.3
+    "rating": 7.3,
+    "poster": "/tZIMe2pYug1cS9e7AZnd1bTTidM.jpg"
   },
   {
     "title": "The Sea Beast",
     "year": 2022,
-    "rating": 7
+    "rating": 7,
+    "poster": "/9Zfv4Ap1e8eKOYnZPtYaWhLkk0d.jpg"
   },
   {
     "title": "Spider-Man: Across the Spider-Verse",
     "year": 2023,
-    "rating": 8.5
+    "rating": 8.5,
+    "poster": "/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg"
   },
   {
     "title": "Weathering with You",
     "year": 2019,
-    "rating": 7.5
+    "rating": 7.5,
+    "poster": "/qgrk7r1fV4IjuoeiGS5HOhXNdLJ.jpg"
+  },
+  {
+    "title": "One Piece: Stampede",
+    "year": 2019,
+    "rating": 7.5,
+    "poster": "/4E2lyUGLEr3yH4q6kJxPkQUhX7n.jpg"
   },
   {
     "title": "Mortal Kombat Legends: Scorpion's Revenge",
     "year": 2020,
-    "rating": 7.4
+    "rating": 7.4,
+    "poster": "/iBvo3qOPcmhlqAaJcXcQHtx2qLk.jpg"
   },
   {
     "title": "I Lost My Body",
     "year": 2019,
-    "rating": 7.5
+    "rating": 7.5,
+    "poster": "/z5dXCywyo8zEPNDkeQY7nbvkrz8.jpg"
   },
   {
     "title": "Hotel Transylvania 4: Transformania",
     "year": 2022,
-    "rating": 6
+    "rating": 6,
+    "poster": "/teCy1egGQa0y8ULJvlrDHQKnxBL.jpg"
+  },
+  {
+    "title": "Rascal Does Not Dream of a Dreaming Girl",
+    "year": 2019,
+    "rating": 8.3,
+    "poster": "/AtFnN4OztDJy8IFwYd5JfU0jlEM.jpg"
   }
 ]

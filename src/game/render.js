@@ -1,13 +1,13 @@
 import { state } from "../core/state.js";
-import { fetchPoster } from "../poster/poster.js";
+import { posterUrl } from "../poster/poster.js";
 import { updateHighscoreDisplay } from "../highscore/highscore.js";
 
-export async function render() {
-    const posterA = await fetchPoster(state.current.title, state.current.year);
-    const posterB = await fetchPoster(state.next.title, state.next.year);
+export function render() {
+    const posterA = posterUrl(state.current);
+    const posterB = posterUrl(state.next);
 
     document.getElementById("movieA").innerHTML = `
-        <div class="card" style="background-image:url('${posterA || ""}');background-size:cover;">
+        <div class="card" style="background-image:url('${posterA}');background-size:cover;">
             <h2>${state.current.title}</h2>
             <p>${state.current.year}</p>
             <p>⭐ ${state.current.rating}</p>
@@ -15,7 +15,7 @@ export async function render() {
     `;
 
     document.getElementById("movieB").innerHTML = `
-        <div class="card" style="background-image:url('${posterB || ""}');background-size:cover;">
+        <div class="card" style="background-image:url('${posterB}');background-size:cover;">
             <h2>${state.next.title}</h2>
             <p>${state.next.year}</p>
             <p>⭐ ?.?</p>

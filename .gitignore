@@ -1,8 +1,8 @@
-# große Rohdaten ignorieren
+# large raw data
 data/raw/
 data/processed/
 
-# optional: node modules falls du später welche nutzt
+# node modules, in case any get added later
 node_modules/
 
 # OS / Editor
