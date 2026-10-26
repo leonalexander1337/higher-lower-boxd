@@ -2136,6 +2136,12 @@
     "poster": "/iSlddodPAnPuRPr7Cc8AYvaNHSR.jpg"
   },
   {
+    "title": "A King in New York",
+    "year": 1957,
+    "rating": 7,
+    "poster": "/e6KtBoiXa5D3LLZtiMCkiqIDnZv.jpg"
+  },
+  {
     "title": "Throne of Blood",
     "year": 1957,
     "rating": 8,
@@ -2368,6 +2374,12 @@
     "year": 1959,
     "rating": 7.8,
     "poster": "/xt3cUn7lsjpaGuB279A4v8zAYRn.jpg"
+  },
+  {
+    "title": "Last Train from Gun Hill",
+    "year": 1959,
+    "rating": 7.3,
+    "poster": "/hXbBkFAcJZBHH629Kj4Ujrq1r2l.jpg"
   },
   {
     "title": "The Human Condition I: No Greater Love",
@@ -3002,7 +3014,7 @@
   {
     "title": "Fail Safe",
     "year": 1964,
-    "rating": 8.1,
+    "rating": 8,
     "poster": "/qrsj5hort5xkLOKw9NyraGMnlVP.jpg"
   },
   {
@@ -4058,7 +4070,7 @@
   {
     "title": "The Devils",
     "year": 1971,
-    "rating": 7.7,
+    "rating": 7.8,
     "poster": "/y1k7eiOFc6fzm8XeTa1kNGx6JIs.jpg"
   },
   {
@@ -6150,6 +6162,12 @@
     "poster": "/9yTVaeS8eIkOpbwIycVFm7EQrgF.jpg"
   },
   {
+    "title": "Eddie and the Cruisers",
+    "year": 1983,
+    "rating": 6.9,
+    "poster": "/hse8fpBYuIYcFPuc2VqjQv2fpm5.jpg"
+  },
+  {
     "title": "Educating Rita",
     "year": 1983,
     "rating": 7.2,
@@ -7062,7 +7080,7 @@
     "poster": "/m9oNxIzu4OLBolUCjEvZSY003Xc.jpg"
   },
   {
-    "title": "Au Revoir Les Enfants",
+    "title": "Goodbye, Children",
     "year": 1987,
     "rating": 8,
     "poster": "/lXP90Vx7OcviBfbbokcaG6zVnPG.jpg"
@@ -12260,7 +12278,7 @@
   {
     "title": "In Dreams",
     "year": 1999,
-    "rating": 5.4,
+    "rating": 5.5,
     "poster": "/q3Q00fCgeZGjAYaiwbfTMuIrUb0.jpg"
   },
   {
@@ -12560,7 +12578,7 @@
   {
     "title": "Pecker",
     "year": 1998,
-    "rating": 6.4,
+    "rating": 6.3,
     "poster": "/ox6Myr2r36zr7aqnisQGZp2EW33.jpg"
   },
   {
@@ -12800,7 +12818,7 @@
   {
     "title": "Baasha",
     "year": 1995,
-    "rating": 8.3,
+    "rating": 8.2,
     "poster": "/xPSw9PLzYFKTVphw9ErZcBPKUsd.jpg"
   },
   {
@@ -14218,6 +14236,12 @@
     "year": 2001,
     "rating": 6.1,
     "poster": "/na80ysnoCvoxwGTMWCWYvnmaDlz.jpg"
+  },
+  {
+    "title": "Kireedam",
+    "year": 1989,
+    "rating": 8.9,
+    "poster": "/9mKxljfSzQ9UXpgEPLvGTwXvZUv.jpg"
   },
   {
     "title": "Brotherhood of the Wolf",
@@ -23076,6 +23100,12 @@
     "poster": "/gmtlqHZs8YBXcpMw4BgA3SGJfg8.jpg"
   },
   {
+    "title": "The Beach House",
+    "year": 2019,
+    "rating": 5.3,
+    "poster": "/wyMjZJNAsvfnW8OS4JWh6TdKWzk.jpg"
+  },
+  {
     "title": "Rachel Getting Married",
     "year": 2008,
     "rating": 6.6,
@@ -24080,7 +24110,7 @@
   {
     "title": "Pathu Thala",
     "year": 2023,
-    "rating": 6.6,
+    "rating": 6.7,
     "poster": "/rNI3Y4mfsOUpQidwBtZj9EjwImb.jpg"
   },
   {
@@ -25388,7 +25418,7 @@
   {
     "title": "Oye Lucky! Lucky Oye!",
     "year": 2008,
-    "rating": 7.7,
+    "rating": 7.6,
     "poster": "/rtuw7H9ACOfs9BtRGF9okrr8yJH.jpg"
   },
   {
@@ -27272,7 +27302,7 @@
   {
     "title": "Turnabout",
     "year": 2016,
-    "rating": 7,
+    "rating": 6.9,
     "poster": "/Py0NyP2ncyeOshUUGAk1mW2SwV.jpg"
   },
   {
@@ -28038,6 +28068,12 @@
     "poster": "/jjVGdNt4fYb3T2hjISGZ2qnCuaV.jpg"
   },
   {
+    "title": "The Devil Inside",
+    "year": 2012,
+    "rating": 4.2,
+    "poster": "/x1KYpYqf4a4fzlKLJ7pqBphWf4Y.jpg"
+  },
+  {
     "title": "Golmaal 3",
     "year": 2010,
     "rating": 5.8,
@@ -28298,7 +28334,7 @@
   {
     "title": "Ask Your Heart",
     "year": 2010,
-    "rating": 7.9,
+    "rating": 8,
     "poster": "/A9tQvXDDtxsL6tOUu0aAjCxNBAu.jpg"
   },
   {
@@ -29642,7 +29678,7 @@
   {
     "title": "Wilson",
     "year": 2017,
-    "rating": 5.9,
+    "rating": 5.8,
     "poster": "/m63h5MxevYrKn3720hVgKZAx86S.jpg"
   },
   {
@@ -32676,6 +32712,12 @@
     "poster": "/pAh6uDR9bBznybiJCVYZNJmjg63.jpg"
   },
   {
+    "title": "Assault on Wall Street",
+    "year": 2013,
+    "rating": 6,
+    "poster": "/4dm5XEXIT73aB0g1nrplwYguaU9.jpg"
+  },
+  {
     "title": "Need for Speed",
     "year": 2014,
     "rating": 6.4,
@@ -33410,7 +33452,7 @@
   {
     "title": "Flower",
     "year": 2017,
-    "rating": 6,
+    "rating": 6.1,
     "poster": "/xYTI11qFnmx39LRhDOsGEabfqtp.jpg"
   },
   {
@@ -34154,7 +34196,7 @@
   {
     "title": "Kaalidhar Laapata",
     "year": 2025,
-    "rating": 7.6,
+    "rating": 7.5,
     "poster": "/a7ctu6C6f7tN87ve4HFDoELp7cH.jpg"
   },
   {
@@ -35156,7 +35198,7 @@
   {
     "title": "Raja Shivaji",
     "year": 2026,
-    "rating": 6.7,
+    "rating": 6.6,
     "poster": "/hljQF3Ly6PzQe7iaNs9fmFuBYWj.jpg"
   },
   {
@@ -35392,6 +35434,12 @@
     "year": 2025,
     "rating": 7.5,
     "poster": "/uOTDBabtxHA6szYKQNQe9Y7rFlv.jpg"
+  },
+  {
+    "title": "The Paradise",
+    "year": 2026,
+    "rating": 6.1,
+    "poster": "/smghVMoMWSIFi5dgIz4w1UIcEcY.jpg"
   },
   {
     "title": "O' Romeo",
@@ -36068,7 +36116,7 @@
   {
     "title": "Manjhi: The Mountain Man",
     "year": 2015,
-    "rating": 7.9,
+    "rating": 8,
     "poster": "/nmFL0KThULuggh7DxUimi5XTTWu.jpg"
   },
   {
@@ -36188,7 +36236,7 @@
   {
     "title": "Tourist Family",
     "year": 2025,
-    "rating": 8.1,
+    "rating": 8.2,
     "poster": "/rEffPihtdQXiXfRdfq7pPM5JDqa.jpg"
   },
   {
@@ -36440,7 +36488,7 @@
   {
     "title": "Awarapan 2",
     "year": 2026,
-    "rating": 5.9,
+    "rating": 5.8,
     "poster": "/8V35iNRx9zVH5OHO0lH6IlfGfZY.jpg"
   },
   {
@@ -36512,7 +36560,7 @@
   {
     "title": "Mandaadi",
     "year": 2026,
-    "rating": 8.1,
+    "rating": 8,
     "poster": "/jLVMvJAmnVRo2lzbqtGiecLzPLy.jpg"
   },
   {
@@ -39222,6 +39270,12 @@
     "poster": "/fcQOeSQV6flz28ybZCkcmCsdqkR.jpg"
   },
   {
+    "title": "Shock and Awe",
+    "year": 2017,
+    "rating": 6.4,
+    "poster": "/x8Y9lKNnroACauSxmVQRkACj2ow.jpg"
+  },
+  {
     "title": "To the Bone",
     "year": 2017,
     "rating": 6.7,
@@ -39968,7 +40022,7 @@
   {
     "title": "The Case for Christ",
     "year": 2017,
-    "rating": 6.4,
+    "rating": 6.5,
     "poster": "/hTKwkxMv5MCkN8vMXiEmMmAHafh.jpg"
   },
   {
@@ -40144,6 +40198,12 @@
     "year": 2019,
     "rating": 6.1,
     "poster": "/izGX7npHEopDQvngYcxMJEfcFbj.jpg"
+  },
+  {
+    "title": "Tenzing",
+    "year": 2026,
+    "rating": 7.5,
+    "poster": "/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg"
   },
   {
     "title": "Kesari",
@@ -43114,12 +43174,6 @@
     "year": 2021,
     "rating": 6.7,
     "poster": "/5dNTxhoGDTHHGqUTdxcr4H1dqlU.jpg"
-  },
-  {
-    "title": "Rogue Agent",
-    "year": 2022,
-    "rating": 6.5,
-    "poster": "/4tOaGR6mzUAEQzIgWCeVoneRIkp.jpg"
   },
   {
     "title": "Crisis",

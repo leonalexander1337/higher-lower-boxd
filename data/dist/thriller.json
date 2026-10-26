@@ -356,7 +356,7 @@
   {
     "title": "Fail Safe",
     "year": 1964,
-    "rating": 8.1,
+    "rating": 8,
     "poster": "/qrsj5hort5xkLOKw9NyraGMnlVP.jpg"
   },
   {
@@ -3265,7 +3265,7 @@
   },
   {
     "title": "Cherry Falls",
-    "year": 1999,
+    "year": 2000,
     "rating": 5.3,
     "poster": "/s4oBLopQ0nh70RXyxIWbNjx7Zw6.jpg"
   },
@@ -4652,7 +4652,7 @@
   {
     "title": "Behind the Mask: The Rise of Leslie Vernon",
     "year": 2006,
-    "rating": 6.6,
+    "rating": 6.7,
     "poster": "/vie8a3z219Zsw81eAsM58B6VFEn.jpg"
   },
   {
@@ -7424,7 +7424,7 @@
   {
     "title": "Poker Face",
     "year": 2022,
-    "rating": 5.2,
+    "rating": 5.3,
     "poster": "/8a2MIBV9LuPYbF5rOEAohjjMz9P.jpg"
   },
   {
@@ -7436,7 +7436,7 @@
   {
     "title": "Turnabout",
     "year": 2016,
-    "rating": 7,
+    "rating": 6.9,
     "poster": "/Py0NyP2ncyeOshUUGAk1mW2SwV.jpg"
   },
   {
@@ -7726,6 +7726,12 @@
     "year": 2009,
     "rating": 7.5,
     "poster": "/5mhTdB3Chja8PkncH2dJQAzuRXA.jpg"
+  },
+  {
+    "title": "The Devil Inside",
+    "year": 2012,
+    "rating": 4.2,
+    "poster": "/x1KYpYqf4a4fzlKLJ7pqBphWf4Y.jpg"
   },
   {
     "title": "Ra.One",
@@ -8666,7 +8672,7 @@
   {
     "title": "The Last Exorcism Part II",
     "year": 2013,
-    "rating": 4,
+    "rating": 4.1,
     "poster": "/260ztSWhGIYSLAjDC6smFWcdUSp.jpg"
   },
   {
@@ -10488,6 +10494,12 @@
     "poster": "/ubGjD2DK6Fi4IC5xRc3aEDwVD9i.jpg"
   },
   {
+    "title": "Clayface",
+    "year": 2026,
+    "rating": 7.6,
+    "poster": "/9l1NuFjel2j89hiuiJbsxfblqjy.jpg"
+  },
+  {
     "title": "Fan",
     "year": 2016,
     "rating": 6.8,
@@ -10598,7 +10610,7 @@
   {
     "title": "Other Mommy",
     "year": 2026,
-    "rating": 5.4,
+    "rating": 5.3,
     "poster": "/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg"
   },
   {
@@ -11360,7 +11372,7 @@
   {
     "title": "Through the Glass Darkly",
     "year": 2020,
-    "rating": 5.6,
+    "rating": 5.5,
     "poster": "/fKLfCWHGFLQjS2ZbIa35sjXh4nE.jpg"
   },
   {
@@ -12064,6 +12076,12 @@
     "year": 2020,
     "rating": 4.1,
     "poster": "/d4i7eJDNE88Ktv07kTCnZMgSuvH.jpg"
+  },
+  {
+    "title": "Joker",
+    "year": 2019,
+    "rating": 8.3,
+    "poster": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg"
   },
   {
     "title": "The Legacy of the Bones",

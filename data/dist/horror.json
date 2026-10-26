@@ -1446,6 +1446,12 @@
     "poster": "/vuxRW5GKuCnKvdYlUAYNxlicm54.jpg"
   },
   {
+    "title": "Aliens",
+    "year": 1986,
+    "rating": 8.4,
+    "poster": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg"
+  },
+  {
     "title": "April Fool's Day",
     "year": 1986,
     "rating": 6.2,
@@ -1526,7 +1532,7 @@
   {
     "title": "Maximum Overdrive",
     "year": 1986,
-    "rating": 5.4,
+    "rating": 5.5,
     "poster": "/8pGYesuatPnMS8lhS4NvwiDjKbG.jpg"
   },
   {
@@ -1640,7 +1646,7 @@
   {
     "title": "Near Dark",
     "year": 1987,
-    "rating": 6.9,
+    "rating": 6.8,
     "poster": "/hVhFNn3IQxxARvnpLIKMx8ZfTtG.jpg"
   },
   {
@@ -2606,7 +2612,7 @@
   {
     "title": "In Dreams",
     "year": 1999,
-    "rating": 5.4,
+    "rating": 5.5,
     "poster": "/q3Q00fCgeZGjAYaiwbfTMuIrUb0.jpg"
   },
   {
@@ -2809,7 +2815,7 @@
   },
   {
     "title": "Cherry Falls",
-    "year": 1999,
+    "year": 2000,
     "rating": 5.3,
     "poster": "/s4oBLopQ0nh70RXyxIWbNjx7Zw6.jpg"
   },
@@ -3764,7 +3770,7 @@
   {
     "title": "Behind the Mask: The Rise of Leslie Vernon",
     "year": 2006,
-    "rating": 6.6,
+    "rating": 6.7,
     "poster": "/vie8a3z219Zsw81eAsM58B6VFEn.jpg"
   },
   {
@@ -4822,6 +4828,12 @@
     "year": 2008,
     "rating": 6,
     "poster": "/rGfOD8IC1x4PqmnqRuA8KyCckia.jpg"
+  },
+  {
+    "title": "The Beach House",
+    "year": 2019,
+    "rating": 5.3,
+    "poster": "/wyMjZJNAsvfnW8OS4JWh6TdKWzk.jpg"
   },
   {
     "title": "Megan Is Missing",
@@ -6710,7 +6722,7 @@
   {
     "title": "The Last Exorcism Part II",
     "year": 2013,
-    "rating": 4,
+    "rating": 4.1,
     "poster": "/260ztSWhGIYSLAjDC6smFWcdUSp.jpg"
   },
   {
@@ -7448,7 +7460,7 @@
   {
     "title": "Hope",
     "year": 2026,
-    "rating": 6.7,
+    "rating": 6.6,
     "poster": "/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg"
   },
   {
@@ -7498,6 +7510,12 @@
     "year": 2024,
     "rating": 6.1,
     "poster": "/wIGJnIFQlESkC2rLpfA8EDHqk4g.jpg"
+  },
+  {
+    "title": "It's a Wonderful Knife",
+    "year": 2023,
+    "rating": 5.2,
+    "poster": "/bnm5NntrQBcG3P7DbO00v2FmXm8.jpg"
   },
   {
     "title": "The Monkey",
@@ -8108,7 +8126,7 @@
   {
     "title": "The Taking of Deborah Logan",
     "year": 2014,
-    "rating": 6,
+    "rating": 6.1,
     "poster": "/77i7EBUyQKOUiZeYQ5tWDGQb0AI.jpg"
   },
   {
@@ -8158,6 +8176,12 @@
     "year": 2017,
     "rating": 5.6,
     "poster": "/qheJcFjQ3hAMroE8y6FpCg6jNeN.jpg"
+  },
+  {
+    "title": "Clayface",
+    "year": 2026,
+    "rating": 7.6,
+    "poster": "/9l1NuFjel2j89hiuiJbsxfblqjy.jpg"
   },
   {
     "title": "Housebound",
@@ -8246,7 +8270,7 @@
   {
     "title": "Other Mommy",
     "year": 2026,
-    "rating": 5.4,
+    "rating": 5.3,
     "poster": "/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg"
   },
   {
@@ -9722,7 +9746,7 @@
   {
     "title": "Silent Zone",
     "year": 2025,
-    "rating": 5.7,
+    "rating": 5.6,
     "poster": "/7YZ0JRRD7mt8Ov9eIEGWMbDybx2.jpg"
   },
   {
