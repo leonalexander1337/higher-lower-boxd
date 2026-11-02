@@ -307,7 +307,7 @@
   },
   {
     "title": "Plan 9 from Outer Space",
-    "year": 1958,
+    "year": 1957,
     "rating": 3.9,
     "poster": "/bmicZi7PvlnZ9rZqp6QXN2Db0pT.jpg"
   },
@@ -1820,7 +1820,7 @@
   {
     "title": "A Nightmare on Elm Street 4: The Dream Master",
     "year": 1988,
-    "rating": 5.6,
+    "rating": 5.7,
     "poster": "/boStYG7jKdoIZTduiOOsUVknD13.jpg"
   },
   {
@@ -2198,7 +2198,7 @@
   {
     "title": "Troll 2",
     "year": 1990,
-    "rating": 3,
+    "rating": 3.1,
     "poster": "/eFth6zw4PEInzr2Y64mYVN1zbBi.jpg"
   },
   {
@@ -2612,7 +2612,7 @@
   {
     "title": "In Dreams",
     "year": 1999,
-    "rating": 5.5,
+    "rating": 5.4,
     "poster": "/q3Q00fCgeZGjAYaiwbfTMuIrUb0.jpg"
   },
   {
@@ -2738,7 +2738,7 @@
   {
     "title": "The Rage: Carrie 2",
     "year": 1999,
-    "rating": 4.8,
+    "rating": 4.9,
     "poster": "/jJmIf22gwwQPAFJfZ6Tr1MwSpRg.jpg"
   },
   {
@@ -3770,7 +3770,7 @@
   {
     "title": "Behind the Mask: The Rise of Leslie Vernon",
     "year": 2006,
-    "rating": 6.7,
+    "rating": 6.6,
     "poster": "/vie8a3z219Zsw81eAsM58B6VFEn.jpg"
   },
   {
@@ -3934,6 +3934,12 @@
     "year": 2007,
     "rating": 7.5,
     "poster": "/tvMBwJlmQTIQf5EBjHzzyE9tjcN.jpg"
+  },
+  {
+    "title": "Poultrygeist: Night of the Chicken Dead",
+    "year": 2006,
+    "rating": 6,
+    "poster": "/vSeehH4s274kdZXEMKnPE2tlqco.jpg"
   },
   {
     "title": "28 Weeks Later",
@@ -4404,6 +4410,12 @@
     "poster": "/3cHCv6SE9UmBrfkczRmT4JHBQCq.jpg"
   },
   {
+    "title": "The Hills Run Red",
+    "year": 2009,
+    "rating": 5.4,
+    "poster": "/odPuG8mbDF12uMAQ5K4LuebtyUo.jpg"
+  },
+  {
     "title": "Dance of the Dead",
     "year": 2008,
     "rating": 5.8,
@@ -4754,7 +4766,7 @@
   {
     "title": "Talk to Me",
     "year": 2022,
-    "rating": 7.1,
+    "rating": 7,
     "poster": "/kdPMUMJzyYAc4roD52qavX0nLIC.jpg"
   },
   {
@@ -6768,6 +6780,12 @@
     "poster": "/tgXcICQjS3aEbxCYgYMroBXyJGn.jpg"
   },
   {
+    "title": "The Wrath of Becky",
+    "year": 2023,
+    "rating": 6.2,
+    "poster": "/k9NeWFZCC7XKDdh9HK8cZBqZmHD.jpg"
+  },
+  {
     "title": "Him",
     "year": 2025,
     "rating": 5,
@@ -7430,7 +7448,7 @@
   {
     "title": "Scream 7",
     "year": 2026,
-    "rating": 5.5,
+    "rating": 5.4,
     "poster": "/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg"
   },
   {
@@ -7616,7 +7634,7 @@
   {
     "title": "A Haunted House 2",
     "year": 2014,
-    "rating": 4.7,
+    "rating": 4.8,
     "poster": "/M82KKqtHFaqkyuwxG5QfShzIRL.jpg"
   },
   {
@@ -8180,7 +8198,7 @@
   {
     "title": "Clayface",
     "year": 2026,
-    "rating": 7.6,
+    "rating": 7.5,
     "poster": "/9l1NuFjel2j89hiuiJbsxfblqjy.jpg"
   },
   {
@@ -8204,8 +8222,14 @@
   {
     "title": "Teenage Sex and Death at Camp Miasma",
     "year": 2026,
-    "rating": 6.5,
+    "rating": 6.4,
     "poster": "/6Q6Zo6GNXMLP600OJSh6MhW21um.jpg"
+  },
+  {
+    "title": "It Ends",
+    "year": 2025,
+    "rating": 5.8,
+    "poster": "/6dfAGvZWbJnzWfSZ8gxFj63BNAH.jpg"
   },
   {
     "title": "Good Boy",
@@ -8216,7 +8240,7 @@
   {
     "title": "Resident Evil",
     "year": 2026,
-    "rating": 7.6,
+    "rating": 7.5,
     "poster": "/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg"
   },
   {
@@ -8306,7 +8330,7 @@
   {
     "title": "Buddy",
     "year": 2026,
-    "rating": 6.7,
+    "rating": 6.6,
     "poster": "/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg"
   },
   {
@@ -9700,6 +9724,12 @@
     "year": 2019,
     "rating": 7.1,
     "poster": "/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg"
+  },
+  {
+    "title": "Come to Daddy",
+    "year": 2019,
+    "rating": 6,
+    "poster": "/uAfeUHiaINCMi2DGNiGbpKGX7C2.jpg"
   },
   {
     "title": "Peninsula",

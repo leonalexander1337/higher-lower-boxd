@@ -1104,6 +1104,12 @@
     "poster": "/raLS93dykOabizFuguWZ9KeCKAS.jpg"
   },
   {
+    "title": "The Changeling",
+    "year": 1980,
+    "rating": 7.1,
+    "poster": "/z4nTYj3JZ5jWAhDgrmEhW2GRAzb.jpg"
+  },
+  {
     "title": "The Fog",
     "year": 1980,
     "rating": 6.8,
@@ -1586,7 +1592,7 @@
   {
     "title": "Fatal Attraction",
     "year": 1987,
-    "rating": 6.9,
+    "rating": 7,
     "poster": "/vjB9XwJKnYqFKKjhWcE6WpAf5Ki.jpg"
   },
   {
@@ -3626,7 +3632,7 @@
   {
     "title": "Panic Room",
     "year": 2002,
-    "rating": 6.8,
+    "rating": 6.9,
     "poster": "/hANYbvfwxmkC9E4yY6YyJxYxlSJ.jpg"
   },
   {
@@ -4652,7 +4658,7 @@
   {
     "title": "Behind the Mask: The Rise of Leslie Vernon",
     "year": 2006,
-    "rating": 6.7,
+    "rating": 6.6,
     "poster": "/vie8a3z219Zsw81eAsM58B6VFEn.jpg"
   },
   {
@@ -5496,6 +5502,12 @@
     "poster": "/3cHCv6SE9UmBrfkczRmT4JHBQCq.jpg"
   },
   {
+    "title": "The Hills Run Red",
+    "year": 2009,
+    "rating": 5.4,
+    "poster": "/odPuG8mbDF12uMAQ5K4LuebtyUo.jpg"
+  },
+  {
     "title": "Broken Embraces",
     "year": 2009,
     "rating": 7.2,
@@ -5942,7 +5954,7 @@
   {
     "title": "Talk to Me",
     "year": 2022,
-    "rating": 7.1,
+    "rating": 7,
     "poster": "/kdPMUMJzyYAc4roD52qavX0nLIC.jpg"
   },
   {
@@ -7004,7 +7016,7 @@
   {
     "title": "72 Hoorain",
     "year": 2019,
-    "rating": 6.9,
+    "rating": 6.8,
     "poster": "/856PQFVWTTDMelYPxjNJnqVgrqJ.jpg"
   },
   {
@@ -7878,12 +7890,6 @@
     "poster": "/k5DQqsb9T8djkTAOdwNCBBBHrtK.jpg"
   },
   {
-    "title": "Savages",
-    "year": 2012,
-    "rating": 6.4,
-    "poster": "/joyiyBwYY5QCpldqT1FzrTqsTJK.jpg"
-  },
-  {
     "title": "Margin Call",
     "year": 2011,
     "rating": 7.1,
@@ -8080,12 +8086,6 @@
     "year": 2011,
     "rating": 7.8,
     "poster": "/tZnDKJyUYfZKKPfBgVheU9vKlUo.jpg"
-  },
-  {
-    "title": "Chronicle",
-    "year": 2012,
-    "rating": 7,
-    "poster": "/kdyrdFIt29FUmLIKvedAc2j4rpo.jpg"
   },
   {
     "title": "11-11-11",
@@ -8760,12 +8760,6 @@
     "poster": "/vs7xGGYZltIZuLTcCgDp73tTJYn.jpg"
   },
   {
-    "title": "The Wrath of Becky",
-    "year": 2023,
-    "rating": 6.2,
-    "poster": "/k9NeWFZCC7XKDdh9HK8cZBqZmHD.jpg"
-  },
-  {
     "title": "Hours",
     "year": 2013,
     "rating": 6.3,
@@ -8816,7 +8810,7 @@
   {
     "title": "The Dog Stars",
     "year": 2026,
-    "rating": 6.4,
+    "rating": 6.3,
     "poster": "/5O616X9vmRzQdB68PHzBewPittd.jpg"
   },
   {
@@ -9566,7 +9560,7 @@
   {
     "title": "Scream 7",
     "year": 2026,
-    "rating": 5.5,
+    "rating": 5.4,
     "poster": "/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg"
   },
   {
@@ -10496,7 +10490,7 @@
   {
     "title": "Clayface",
     "year": 2026,
-    "rating": 7.6,
+    "rating": 7.5,
     "poster": "/9l1NuFjel2j89hiuiJbsxfblqjy.jpg"
   },
   {
@@ -10676,7 +10670,7 @@
   {
     "title": "Buddy",
     "year": 2026,
-    "rating": 6.7,
+    "rating": 6.6,
     "poster": "/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg"
   },
   {
@@ -10690,6 +10684,12 @@
     "year": 2017,
     "rating": 6.5,
     "poster": "/32dippiypDdaKv7XFEfUlQ7kPup.jpg"
+  },
+  {
+    "title": "The Social Reckoning",
+    "year": 2026,
+    "rating": 6.7,
+    "poster": "/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg"
   },
   {
     "title": "The Ice Road",
@@ -10940,7 +10940,7 @@
   {
     "title": "How to Make a Killing",
     "year": 2026,
-    "rating": 6.5,
+    "rating": 6.4,
     "poster": "/vxMeKC7o5Gi8IHMi6lUgsdprTqv.jpg"
   },
   {
@@ -11790,12 +11790,6 @@
     "poster": "/x6sBKpLa86CodgTkIK2r8Hnp07m.jpg"
   },
   {
-    "title": "Ittefaq",
-    "year": 2017,
-    "rating": 7.2,
-    "poster": "/riEnSoGJ1WubamfrNpj4N0wVdoW.jpg"
-  },
-  {
     "title": "Trance",
     "year": 2020,
     "rating": 7.3,
@@ -12448,12 +12442,6 @@
     "year": 2024,
     "rating": 5.5,
     "poster": "/1GvBhRxY6MELDfxFrete6BNhBB5.jpg"
-  },
-  {
-    "title": "Come to Daddy",
-    "year": 2019,
-    "rating": 6,
-    "poster": "/uAfeUHiaINCMi2DGNiGbpKGX7C2.jpg"
   },
   {
     "title": "Avengement",

@@ -3582,6 +3582,12 @@
     "poster": "/oLdkJ4ZjxPtFSUChdjDQvHM9l75.jpg"
   },
   {
+    "title": "The Cowboy Way",
+    "year": 1994,
+    "rating": 6,
+    "poster": "/5oBVSzbWD85zRCKIWm0KvhypUZU.jpg"
+  },
+  {
     "title": "The Crow",
     "year": 1994,
     "rating": 7.5,
@@ -5684,7 +5690,7 @@
   {
     "title": "Panic Room",
     "year": 2002,
-    "rating": 6.8,
+    "rating": 6.9,
     "poster": "/hANYbvfwxmkC9E4yY6YyJxYxlSJ.jpg"
   },
   {
@@ -7836,7 +7842,7 @@
     "poster": "/yqYwf0kPK2SaCWM80msl4nYK6U7.jpg"
   },
   {
-    "title": "CHIPS",
+    "title": "CHiPs",
     "year": 2017,
     "rating": 6,
     "poster": "/mIHA8Xf6WmxbS83ia4vQ5ojvxV8.jpg"
@@ -8864,7 +8870,7 @@
   {
     "title": "Miami Bici",
     "year": 2020,
-    "rating": 6.1,
+    "rating": 6,
     "poster": "/ebbFi9j56KryfLJ3NXLwWd8mMJ1.jpg"
   },
   {
@@ -9260,7 +9266,7 @@
   {
     "title": "Pathu Thala",
     "year": 2023,
-    "rating": 6.7,
+    "rating": 6.6,
     "poster": "/rNI3Y4mfsOUpQidwBtZj9EjwImb.jpg"
   },
   {
@@ -9992,7 +9998,7 @@
   {
     "title": "72 Hoorain",
     "year": 2019,
-    "rating": 6.9,
+    "rating": 6.8,
     "poster": "/856PQFVWTTDMelYPxjNJnqVgrqJ.jpg"
   },
   {
@@ -11050,6 +11056,12 @@
     "year": 2011,
     "rating": 7.8,
     "poster": "/tZnDKJyUYfZKKPfBgVheU9vKlUo.jpg"
+  },
+  {
+    "title": "Chronicle",
+    "year": 2012,
+    "rating": 7,
+    "poster": "/kdyrdFIt29FUmLIKvedAc2j4rpo.jpg"
   },
   {
     "title": "Every Secret Thing",
@@ -12492,6 +12504,12 @@
     "poster": "/4nfWsdsJfO5srRZgxiWC9xHub0W.jpg"
   },
   {
+    "title": "Gunday",
+    "year": 2014,
+    "rating": 2.8,
+    "poster": "/JMjQWxnVSI9BrMCFlzdEqC0y4o.jpg"
+  },
+  {
     "title": "Hell or High Water",
     "year": 2016,
     "rating": 7.6,
@@ -13026,6 +13044,12 @@
     "poster": "/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg"
   },
   {
+    "title": "Dacoit: A Love Story",
+    "year": 2026,
+    "rating": 7.4,
+    "poster": "/lbrnJY7E0a9xxgj2cotNp6YI4dz.jpg"
+  },
+  {
     "title": "Who Am I",
     "year": 2014,
     "rating": 7.4,
@@ -13286,7 +13310,7 @@
   {
     "title": "Verity",
     "year": 2026,
-    "rating": 6.1,
+    "rating": 6,
     "poster": "/zPHfsaiMZT1HNz1ZS55iyLKZkFG.jpg"
   },
   {
@@ -13406,7 +13430,7 @@
   {
     "title": "Jailer 2",
     "year": 2026,
-    "rating": 8.2,
+    "rating": 8.1,
     "poster": "/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg"
   },
   {
@@ -13722,6 +13746,12 @@
     "poster": "/1PPUgbQE9UVrgPyMif8urLSIKWb.jpg"
   },
   {
+    "title": "DC",
+    "year": 2026,
+    "rating": 7.8,
+    "poster": "/grRYMAxmfk9VHXY30gm6vfiwyoN.jpg"
+  },
+  {
     "title": "The Equalizer 2",
     "year": 2018,
     "rating": 6.7,
@@ -14024,7 +14054,7 @@
   {
     "title": "You Can See Everything",
     "year": 2026,
-    "rating": 9.3,
+    "rating": 9.1,
     "poster": "/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg"
   },
   {
@@ -14920,6 +14950,12 @@
     "year": 2018,
     "rating": 5.3,
     "poster": "/x6sBKpLa86CodgTkIK2r8Hnp07m.jpg"
+  },
+  {
+    "title": "Ittefaq",
+    "year": 2017,
+    "rating": 7.2,
+    "poster": "/riEnSoGJ1WubamfrNpj4N0wVdoW.jpg"
   },
   {
     "title": "Fast Charlie",
