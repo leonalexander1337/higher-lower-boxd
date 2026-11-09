@@ -896,7 +896,7 @@
   {
     "title": "They Were Expendable",
     "year": 1945,
-    "rating": 7.2,
+    "rating": 7.1,
     "poster": "/ejzJHdvEtUVbiLrDE55DRQskYyf.jpg"
   },
   {
@@ -1508,7 +1508,7 @@
   {
     "title": "Ivanhoe",
     "year": 1952,
-    "rating": 6.7,
+    "rating": 6.8,
     "poster": "/2Se7dafuvchdSr6vdZ5L0DXsYWv.jpg"
   },
   {
@@ -3470,7 +3470,7 @@
   {
     "title": "The Collector",
     "year": 1967,
-    "rating": 7.3,
+    "rating": 7.2,
     "poster": "/rMVluFrpfeCtcCUtDkjklbBirry.jpg"
   },
   {
@@ -3620,7 +3620,7 @@
   {
     "title": "Faces",
     "year": 1968,
-    "rating": 7.4,
+    "rating": 7.3,
     "poster": "/qTkhxFQ0o6DEtTtPXkv4IA5M90J.jpg"
   },
   {
@@ -3812,7 +3812,7 @@
   {
     "title": "The Passion of Anna",
     "year": 1969,
-    "rating": 7.6,
+    "rating": 7.5,
     "poster": "/cr01316AyxUZyZrdLwzz3AXrgJc.jpg"
   },
   {
@@ -6692,7 +6692,7 @@
   {
     "title": "My Life as a Dog",
     "year": 1985,
-    "rating": 7.6,
+    "rating": 7.5,
     "poster": "/eVg9IsX2HtR1BNYH0UAhF4JPHi7.jpg"
   },
   {
@@ -12278,7 +12278,7 @@
   {
     "title": "In Dreams",
     "year": 1999,
-    "rating": 5.4,
+    "rating": 5.5,
     "poster": "/q3Q00fCgeZGjAYaiwbfTMuIrUb0.jpg"
   },
   {
@@ -12818,7 +12818,7 @@
   {
     "title": "Baasha",
     "year": 1995,
-    "rating": 8.2,
+    "rating": 8.3,
     "poster": "/xPSw9PLzYFKTVphw9ErZcBPKUsd.jpg"
   },
   {
@@ -13832,7 +13832,7 @@
   {
     "title": "Animal Factory",
     "year": 2000,
-    "rating": 6.6,
+    "rating": 6.5,
     "poster": "/2OUOg9Pf5dZZr5RufM5liA4IUVK.jpg"
   },
   {
@@ -14108,7 +14108,7 @@
   {
     "title": "Intacto",
     "year": 2001,
-    "rating": 6.7,
+    "rating": 6.8,
     "poster": "/gAe6KmVojjHLmdhPZhYDMTmaiM1.jpg"
   },
   {
@@ -14246,7 +14246,7 @@
   {
     "title": "Kireedam",
     "year": 1989,
-    "rating": 8.9,
+    "rating": 8.8,
     "poster": "/9mKxljfSzQ9UXpgEPLvGTwXvZUv.jpg"
   },
   {
@@ -21450,6 +21450,12 @@
     "poster": "/32CKp29QyqimkjtdJRBzSRHPx4j.jpg"
   },
   {
+    "title": "Manorama: Six Feet Under",
+    "year": 2007,
+    "rating": 7.5,
+    "poster": "/1b5ZrBI48xbAVmCbNNhvFXz474y.jpg"
+  },
+  {
     "title": "Evangelion: 1.0 You Are (Not) Alone",
     "year": 2007,
     "rating": 7.5,
@@ -21980,7 +21986,7 @@
   {
     "title": "Roohi",
     "year": 2021,
-    "rating": 4.3,
+    "rating": 4.4,
     "poster": "/10kCy34fbgU9nI5ScfMcCGebNgo.jpg"
   },
   {
@@ -22256,7 +22262,7 @@
   {
     "title": "Om Shanti Om",
     "year": 2007,
-    "rating": 6.8,
+    "rating": 6.9,
     "poster": "/oArsQTD4bPPMtRjqr03SO9W6phF.jpg"
   },
   {
@@ -22586,7 +22592,7 @@
   {
     "title": "Jayeshbhai Jordaar",
     "year": 2022,
-    "rating": 6.1,
+    "rating": 6,
     "poster": "/dv93VspYwwNPbvdB0AcddhiDrGU.jpg"
   },
   {
@@ -25400,7 +25406,7 @@
   {
     "title": "Adipurush",
     "year": 2023,
-    "rating": 2.6,
+    "rating": 2.5,
     "poster": "/1H2xEZOixs0z0JKwyjANZiKNNVJ.jpg"
   },
   {
@@ -25580,7 +25586,7 @@
   {
     "title": "I'm Your Man",
     "year": 2021,
-    "rating": 7.1,
+    "rating": 7,
     "poster": "/v13p6KlgD7Y1Tas6X8GLJzv5zRe.jpg"
   },
   {
@@ -26162,7 +26168,7 @@
   {
     "title": "The Wandering Earth II",
     "year": 2023,
-    "rating": 6.7,
+    "rating": 6.6,
     "poster": "/hEA7bpWw5IRKOW2MVjvx46SWevU.jpg"
   },
   {
@@ -26218,6 +26224,12 @@
     "year": 2009,
     "rating": 7.9,
     "poster": "/ctLrMQrg3kss2JO7OIr7RVdN5an.jpg"
+  },
+  {
+    "title": "Sense and Sensibility",
+    "year": 2026,
+    "rating": 7.2,
+    "poster": "/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg"
   },
   {
     "title": "Beasts of No Nation",
@@ -27182,7 +27194,7 @@
   {
     "title": "La Chimera",
     "year": 2023,
-    "rating": 7.3,
+    "rating": 7.2,
     "poster": "/dV6SYHmmFLXQU7oKRfK4pOFCX6M.jpg"
   },
   {
@@ -28242,6 +28254,12 @@
     "poster": "/lncg31XDBdfYxrOnhrzVAUw8geT.jpg"
   },
   {
+    "title": "The History of Sound",
+    "year": 2025,
+    "rating": 6.9,
+    "poster": "/55of0Vy7m32hSRZKsCyyDjZn4AC.jpg"
+  },
+  {
     "title": "Silent Night",
     "year": 2023,
     "rating": 5.3,
@@ -28796,7 +28814,7 @@
   {
     "title": "Best of the Best",
     "year": 2026,
-    "rating": 5.1,
+    "rating": 5.2,
     "poster": "/9soOjsZ91vtMzypK2F3MC378JI5.jpg"
   },
   {
@@ -32510,7 +32528,7 @@
   {
     "title": "Godzilla Minus One",
     "year": 2023,
-    "rating": 7.6,
+    "rating": 7.7,
     "poster": "/2E2WTX0TJEflAged6kzErwqX1kt.jpg"
   },
   {
@@ -34440,6 +34458,12 @@
     "poster": "/ug6IbPt19J8YIW9vh87Xw9FOTaJ.jpg"
   },
   {
+    "title": "Whalefall",
+    "year": 2026,
+    "rating": 6.6,
+    "poster": "/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg"
+  },
+  {
     "title": "Naga",
     "year": 2023,
     "rating": 5.8,
@@ -34934,7 +34958,7 @@
   {
     "title": "Dacoit: A Love Story",
     "year": 2026,
-    "rating": 7.4,
+    "rating": 7.3,
     "poster": "/lbrnJY7E0a9xxgj2cotNp6YI4dz.jpg"
   },
   {
@@ -35462,7 +35486,7 @@
   {
     "title": "The Paradise",
     "year": 2026,
-    "rating": 5.8,
+    "rating": 5.7,
     "poster": "/smghVMoMWSIFi5dgIz4w1UIcEcY.jpg"
   },
   {
@@ -35590,6 +35614,12 @@
     "year": 2026,
     "rating": 6,
     "poster": "/zPHfsaiMZT1HNz1ZS55iyLKZkFG.jpg"
+  },
+  {
+    "title": "Power Ballad",
+    "year": 2026,
+    "rating": 6.7,
+    "poster": "/sGgX2K0SJqw90Ju8TONdhDVwlzT.jpg"
   },
   {
     "title": "The Death of Robin Hood",
@@ -35982,6 +36012,12 @@
     "poster": "/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg"
   },
   {
+    "title": "The Odyssey",
+    "year": 2026,
+    "rating": 8.4,
+    "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
+  },
+  {
     "title": "Stan & Ollie",
     "year": 2018,
     "rating": 7.2,
@@ -36092,7 +36128,7 @@
   {
     "title": "Primetime",
     "year": 2026,
-    "rating": 7.1,
+    "rating": 6.9,
     "poster": "/lmrulvLbmaejTix1YaMxo1oGhH1.jpg"
   },
   {
@@ -36112,6 +36148,18 @@
     "year": 2025,
     "rating": 6.8,
     "poster": "/eWb841fMkSNly5gfL9J1N0xzVYI.jpg"
+  },
+  {
+    "title": "Godzilla Minus Zero",
+    "year": 2026,
+    "rating": 8,
+    "poster": "/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg"
+  },
+  {
+    "title": "Love of Your Life",
+    "year": 2026,
+    "rating": 6.5,
+    "poster": "/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg"
   },
   {
     "title": "Cake",
@@ -36260,7 +36308,7 @@
   {
     "title": "Tourist Family",
     "year": 2025,
-    "rating": 8.1,
+    "rating": 8.2,
     "poster": "/rEffPihtdQXiXfRdfq7pPM5JDqa.jpg"
   },
   {
@@ -36316,6 +36364,12 @@
     "year": 2019,
     "rating": 7.5,
     "poster": "/5Lgkm8jt4roAFPZQ52fKMhVmDaZ.jpg"
+  },
+  {
+    "title": "Tu Meri Main Tera Main Tera Tu Meri",
+    "year": 2025,
+    "rating": 4,
+    "poster": "/uLO7ByOKZbRmA4r9ONEHWHZ6HIX.jpg"
   },
   {
     "title": "Mine 9",
@@ -36454,6 +36508,12 @@
     "year": 2021,
     "rating": 7.1,
     "poster": "/yfz3IUoYYSY32tkb97HlUBGFsnh.jpg"
+  },
+  {
+    "title": "Vishwanath and Sons",
+    "year": 2026,
+    "rating": 7.1,
+    "poster": "/mLsvCffzpxxDwC7yVLJSLLjgzoq.jpg"
   },
   {
     "title": "Prem Ratan Dhan Payo",
@@ -36596,7 +36656,7 @@
   {
     "title": "Mandaadi",
     "year": 2026,
-    "rating": 8,
+    "rating": 7.9,
     "poster": "/jLVMvJAmnVRo2lzbqtGiecLzPLy.jpg"
   },
   {
@@ -36920,7 +36980,7 @@
   {
     "title": "Snowden",
     "year": 2016,
-    "rating": 7.3,
+    "rating": 7.2,
     "poster": "/yfK7zxNL63VWfluFuoUaJj5PdNw.jpg"
   },
   {
@@ -37196,7 +37256,7 @@
   {
     "title": "Shatak",
     "year": 2026,
-    "rating": 3.3,
+    "rating": 3.4,
     "poster": "/el9P81GOvCmD7RFf2TcLJEtUJ1n.jpg"
   },
   {
@@ -37810,6 +37870,12 @@
     "year": 2017,
     "rating": 5.1,
     "poster": "/qoqFM6t9wlBITWKRogJUompoClh.jpg"
+  },
+  {
+    "title": "Baththa",
+    "year": 2026,
+    "rating": 8.6,
+    "poster": "/7wHBYs8HHmTGe4nXLpMEAoDSK2o.jpg"
   },
   {
     "title": "The Clan",

@@ -1434,12 +1434,6 @@
     "poster": "/npBf0yc5Gt7aAyyVOcYtFyT2IPa.jpg"
   },
   {
-    "title": "R.I.P.D.",
-    "year": 2013,
-    "rating": 5.6,
-    "poster": "/rS0kByPD4YF8pQ85KjzMdGiu7Xf.jpg"
-  },
-  {
     "title": "Persepolis",
     "year": 2007,
     "rating": 8,
@@ -1688,7 +1682,7 @@
   {
     "title": "My Hero Academia: Heroes Rising",
     "year": 2019,
-    "rating": 7.8,
+    "rating": 7.7,
     "poster": "/kpWsIkfXrnQ1pmR79qAHHq7DPxc.jpg"
   },
   {
@@ -2384,7 +2378,7 @@
   {
     "title": "Wildwood",
     "year": 2026,
-    "rating": 8.7,
+    "rating": 8.6,
     "poster": "/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg"
   },
   {
@@ -2688,6 +2682,12 @@
     "poster": "/cgvGExc0kfHRUffTKBSQHPKchrq.jpg"
   },
   {
+    "title": "Ramayana: Rise of a Legend",
+    "year": 2026,
+    "rating": 8.5,
+    "poster": "/dPrtk4iNf6T5w8fWfg4uxDDbJSW.jpg"
+  },
+  {
     "title": "Orion and the Dark",
     "year": 2024,
     "rating": 6.3,
@@ -2826,6 +2826,18 @@
     "poster": "/4f2EcNkp1Mvp9wE5w7HKxcmACWg.jpg"
   },
   {
+    "title": "Batman: Knightfall - Part 1: Knightfall",
+    "year": 2026,
+    "rating": 7.8,
+    "poster": "/360qdtu2hLnqMu8SVHMywn420w1.jpg"
+  },
+  {
+    "title": "The Sheep Detectives",
+    "year": 2026,
+    "rating": 7.3,
+    "poster": "/iKy5460GdsoknM8ppmGlJbKxAKa.jpg"
+  },
+  {
     "title": "Loving Vincent",
     "year": 2017,
     "rating": 7.8,
@@ -2950,6 +2962,12 @@
     "year": 2025,
     "rating": 7.4,
     "poster": "/2XDQa6EmFHSA37j1t0w88vpWqj9.jpg"
+  },
+  {
+    "title": "Forgotten Island",
+    "year": 2026,
+    "rating": 7.5,
+    "poster": "/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg"
   },
   {
     "title": "The Red Turtle",

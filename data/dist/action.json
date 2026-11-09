@@ -140,7 +140,7 @@
   {
     "title": "Ivanhoe",
     "year": 1952,
-    "rating": 6.7,
+    "rating": 6.8,
     "poster": "/2Se7dafuvchdSr6vdZ5L0DXsYWv.jpg"
   },
   {
@@ -3908,7 +3908,7 @@
   {
     "title": "Beowulf",
     "year": 1999,
-    "rating": 4.1,
+    "rating": 4.2,
     "poster": "/ktX5naCHfERaoDVaCUOITPIFrFd.jpg"
   },
   {
@@ -4274,7 +4274,7 @@
   {
     "title": "Baasha",
     "year": 1995,
-    "rating": 8.2,
+    "rating": 8.3,
     "poster": "/xPSw9PLzYFKTVphw9ErZcBPKUsd.jpg"
   },
   {
@@ -4862,7 +4862,7 @@
   {
     "title": "Kireedam",
     "year": 1989,
-    "rating": 8.9,
+    "rating": 8.8,
     "poster": "/9mKxljfSzQ9UXpgEPLvGTwXvZUv.jpg"
   },
   {
@@ -8138,7 +8138,7 @@
   {
     "title": "Om Shanti Om",
     "year": 2007,
-    "rating": 6.8,
+    "rating": 6.9,
     "poster": "/oArsQTD4bPPMtRjqr03SO9W6phF.jpg"
   },
   {
@@ -8750,7 +8750,7 @@
   {
     "title": "My Hero Academia: Heroes Rising",
     "year": 2019,
-    "rating": 7.8,
+    "rating": 7.7,
     "poster": "/kpWsIkfXrnQ1pmR79qAHHq7DPxc.jpg"
   },
   {
@@ -9848,7 +9848,7 @@
   {
     "title": "Adipurush",
     "year": 2023,
-    "rating": 2.6,
+    "rating": 2.5,
     "poster": "/1H2xEZOixs0z0JKwyjANZiKNNVJ.jpg"
   },
   {
@@ -10148,7 +10148,7 @@
   {
     "title": "The Wandering Earth II",
     "year": 2023,
-    "rating": 6.7,
+    "rating": 6.6,
     "poster": "/hEA7bpWw5IRKOW2MVjvx46SWevU.jpg"
   },
   {
@@ -13364,7 +13364,7 @@
   {
     "title": "Godzilla Minus One",
     "year": 2023,
-    "rating": 7.6,
+    "rating": 7.7,
     "poster": "/2E2WTX0TJEflAged6kzErwqX1kt.jpg"
   },
   {
@@ -13582,6 +13582,12 @@
     "year": 2014,
     "rating": 6.3,
     "poster": "/4ejNFbCgLMDAuy7jFQmc7cr6UAW.jpg"
+  },
+  {
+    "title": "The Starving Games",
+    "year": 2013,
+    "rating": 3.3,
+    "poster": "/fo5OTIEWY8YMUfSIK4g0IljNh8G.jpg"
   },
   {
     "title": "Gods of Egypt",
@@ -14210,7 +14216,7 @@
   {
     "title": "Dhamaal 4",
     "year": 2026,
-    "rating": 6.6,
+    "rating": 6.5,
     "poster": "/oVij5aEEE6iI4PxB4i0CgKp8h0m.jpg"
   },
   {
@@ -14326,6 +14332,12 @@
     "year": 2025,
     "rating": 6.5,
     "poster": "/nvqW8mOm818QDio3GKKmPLK8kXj.jpg"
+  },
+  {
+    "title": "Ramayana: Rise of a Legend",
+    "year": 2026,
+    "rating": 8.5,
+    "poster": "/dPrtk4iNf6T5w8fWfg4uxDDbJSW.jpg"
   },
   {
     "title": "Mayday",
@@ -14672,7 +14684,7 @@
   {
     "title": "Dacoit: A Love Story",
     "year": 2026,
-    "rating": 7.4,
+    "rating": 7.3,
     "poster": "/lbrnJY7E0a9xxgj2cotNp6YI4dz.jpg"
   },
   {
@@ -14954,7 +14966,7 @@
   {
     "title": "The Paradise",
     "year": 2026,
-    "rating": 5.8,
+    "rating": 5.7,
     "poster": "/smghVMoMWSIFi5dgIz4w1UIcEcY.jpg"
   },
   {
@@ -15046,6 +15058,12 @@
     "year": 2016,
     "rating": 6.4,
     "poster": "/6hGh4z503k8wA8mLlmvwhTSGja.jpg"
+  },
+  {
+    "title": "Batman: Knightfall - Part 1: Knightfall",
+    "year": 2026,
+    "rating": 7.8,
+    "poster": "/360qdtu2hLnqMu8SVHMywn420w1.jpg"
   },
   {
     "title": "Mutiny",
@@ -15300,6 +15318,12 @@
     "poster": "/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg"
   },
   {
+    "title": "Godzilla Minus Zero",
+    "year": 2026,
+    "rating": 8,
+    "poster": "/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg"
+  },
+  {
     "title": "Colony",
     "year": 2026,
     "rating": 6.5,
@@ -15528,9 +15552,15 @@
     "poster": "/2HHfIEM4ezgzS2OwrhlpkGBBmhG.jpg"
   },
   {
+    "title": "Forgotten Island",
+    "year": 2026,
+    "rating": 7.5,
+    "poster": "/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg"
+  },
+  {
     "title": "Mandaadi",
     "year": 2026,
-    "rating": 8,
+    "rating": 7.9,
     "poster": "/jLVMvJAmnVRo2lzbqtGiecLzPLy.jpg"
   },
   {
@@ -16032,6 +16062,12 @@
     "poster": "/7o14VaMphEIzPwzeW6FP3A6zb4W.jpg"
   },
   {
+    "title": "BLEACH: Thousand-Year Blood War - The Calamity",
+    "year": 2026,
+    "rating": 8.9,
+    "poster": "/tEaeXZZO7SEcDr6yRP31UrrxcX0.jpg"
+  },
+  {
     "title": "Mayhem",
     "year": 2017,
     "rating": 6.4,
@@ -16042,6 +16078,12 @@
     "year": 2015,
     "rating": 4.1,
     "poster": "/1Cn5pxPi5XedW0oH0Xr6GibmmVZ.jpg"
+  },
+  {
+    "title": "Baththa",
+    "year": 2026,
+    "rating": 8.6,
+    "poster": "/7wHBYs8HHmTGe4nXLpMEAoDSK2o.jpg"
   },
   {
     "title": "In the Lost Lands",
