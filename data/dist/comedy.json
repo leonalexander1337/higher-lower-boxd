@@ -416,7 +416,7 @@
   {
     "title": "Christmas in Connecticut",
     "year": 1945,
-    "rating": 7.3,
+    "rating": 7.4,
     "poster": "/oH1hM9wOZZflPZ5smKqWXvLXcyX.jpg"
   },
   {
@@ -788,7 +788,7 @@
   {
     "title": "Auntie Mame",
     "year": 1958,
-    "rating": 7.9,
+    "rating": 7.8,
     "poster": "/uH810rwkYEbUaV6IlwTaAExbXUm.jpg"
   },
   {
@@ -3578,7 +3578,7 @@
   {
     "title": "*batteries not included",
     "year": 1987,
-    "rating": 6.6,
+    "rating": 6.7,
     "poster": "/8NkpnpdLd8J6zCR8ZGTeGTur4uO.jpg"
   },
   {
@@ -4194,12 +4194,6 @@
     "poster": "/2YQFABNldAEdMVZOjfKUp4Ig4yp.jpg"
   },
   {
-    "title": "My Neighbor Totoro",
-    "year": 1988,
-    "rating": 8.1,
-    "poster": "/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg"
-  },
-  {
     "title": "Tucker: The Man and His Dream",
     "year": 1988,
     "rating": 6.9,
@@ -4370,7 +4364,7 @@
   {
     "title": "Harlem Nights",
     "year": 1989,
-    "rating": 6.1,
+    "rating": 6.2,
     "poster": "/mHX0aYjxc2cIOBfYBuaYN9SvbUf.jpg"
   },
   {
@@ -4898,7 +4892,7 @@
   {
     "title": "Career Opportunities",
     "year": 1991,
-    "rating": 5.9,
+    "rating": 5.8,
     "poster": "/xi0fBIBDZQqJ8U0hUvwhpxFd4jM.jpg"
   },
   {
@@ -5144,7 +5138,7 @@
   {
     "title": "Slacker",
     "year": 1990,
-    "rating": 7,
+    "rating": 6.9,
     "poster": "/f7Iov2nd0XX9bp2laQEPYPEhisc.jpg"
   },
   {
@@ -5174,7 +5168,7 @@
   {
     "title": "Taking Care of Business",
     "year": 1990,
-    "rating": 6.5,
+    "rating": 6.4,
     "poster": "/q3yEyOqJ5e3vAjK70qTnBMnmgYy.jpg"
   },
   {
@@ -7472,7 +7466,7 @@
   {
     "title": "Home Alone 3",
     "year": 1997,
-    "rating": 4.6,
+    "rating": 4.7,
     "poster": "/6uOadrCfle0n2LOOxHbgWEdnrm2.jpg"
   },
   {
@@ -7636,6 +7630,12 @@
     "year": 1999,
     "rating": 7.1,
     "poster": "/fClJQW8xn8wHOFqoA4jUn0PZh1f.jpg"
+  },
+  {
+    "title": "Space Truckers",
+    "year": 1996,
+    "rating": 5.4,
+    "poster": "/f0NNTJxBzAwC0wvqmBgD9pPiHnG.jpg"
   },
   {
     "title": "State and Main",
@@ -9950,7 +9950,7 @@
   {
     "title": "Scooby-Doo",
     "year": 2002,
-    "rating": 5.4,
+    "rating": 5.5,
     "poster": "/mTAiBJGg8mqEfnYHHbi37ZoRSZm.jpg"
   },
   {
@@ -14168,7 +14168,7 @@
   {
     "title": "Jack and Jill",
     "year": 2011,
-    "rating": 3.3,
+    "rating": 3.4,
     "poster": "/p6xV65iiz9agN2IAtf7cgbZC3YF.jpg"
   },
   {
@@ -15128,7 +15128,7 @@
   {
     "title": "Jayeshbhai Jordaar",
     "year": 2022,
-    "rating": 6,
+    "rating": 6.1,
     "poster": "/dv93VspYwwNPbvdB0AcddhiDrGU.jpg"
   },
   {
@@ -15488,7 +15488,7 @@
   {
     "title": "Golmaal Returns",
     "year": 2008,
-    "rating": 5.3,
+    "rating": 5.4,
     "poster": "/2X6ZSlnBpgsOpH0ELDraWTD4QO7.jpg"
   },
   {
@@ -15548,7 +15548,7 @@
   {
     "title": "Miami Bici",
     "year": 2020,
-    "rating": 6,
+    "rating": 6.1,
     "poster": "/ebbFi9j56KryfLJ3NXLwWd8mMJ1.jpg"
   },
   {
@@ -18744,6 +18744,12 @@
     "poster": "/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg"
   },
   {
+    "title": "Wild Horse Nine",
+    "year": 2026,
+    "rating": 8.1,
+    "poster": "/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg"
+  },
+  {
     "title": "I Used to Be Famous",
     "year": 2022,
     "rating": 6.6,
@@ -19552,6 +19558,12 @@
     "year": 2015,
     "rating": 5.4,
     "poster": "/8emz9dKW8KKIqG8WcFG1lJbr2ub.jpg"
+  },
+  {
+    "title": "Saltburn",
+    "year": 2023,
+    "rating": 7,
+    "poster": "/zGTfMwG112BC66mpaveVxoWPOaB.jpg"
   },
   {
     "title": "The Trip",
@@ -22424,7 +22436,7 @@
   {
     "title": "Matchbox: The Movie",
     "year": 2026,
-    "rating": 5.7,
+    "rating": 5.6,
     "poster": "/aHhHRz6nOpwkqJs5ASeRGAdK2dt.jpg"
   },
   {
@@ -22784,7 +22796,7 @@
   {
     "title": "Moms' Night Out",
     "year": 2014,
-    "rating": 5.4,
+    "rating": 5.3,
     "poster": "/gP97yU8YrVZY2yLxTwsicS8KuSe.jpg"
   },
   {
@@ -22818,7 +22830,7 @@
     "poster": "/l5t2Nf1F7iQUKTrODg93xmQzZLj.jpg"
   },
   {
-    "title": "Attarintiki Daredi",
+    "title": "Atharintiki Daaredi",
     "year": 2013,
     "rating": 7.3,
     "poster": "/htv7AcIhJc94dPmbkhVdZ5tFET7.jpg"
@@ -22894,6 +22906,12 @@
     "year": 2015,
     "rating": 7,
     "poster": "/vPBmfMHxQvRRNGYD5S5ko2KnX56.jpg"
+  },
+  {
+    "title": "I Love Boosters",
+    "year": 2026,
+    "rating": 6.6,
+    "poster": "/4pNKIUFy7tkZiBx0rnSmG9ysRy.jpg"
   },
   {
     "title": "Beverly Hills Cop: Axel F",
@@ -23354,7 +23372,7 @@
   {
     "title": "Tony",
     "year": 2026,
-    "rating": 7.3,
+    "rating": 7.2,
     "poster": "/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg"
   },
   {
@@ -23414,7 +23432,7 @@
   {
     "title": "Jailer 2",
     "year": 2026,
-    "rating": 8.1,
+    "rating": 7.8,
     "poster": "/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg"
   },
   {
@@ -23588,7 +23606,7 @@
   {
     "title": "Tourist Family",
     "year": 2025,
-    "rating": 8.2,
+    "rating": 8.1,
     "poster": "/rEffPihtdQXiXfRdfq7pPM5JDqa.jpg"
   },
   {
@@ -24362,7 +24380,7 @@
   {
     "title": "Baththa",
     "year": 2026,
-    "rating": 8.6,
+    "rating": 8.5,
     "poster": "/7wHBYs8HHmTGe4nXLpMEAoDSK2o.jpg"
   },
   {
@@ -24470,7 +24488,7 @@
   {
     "title": "You Can See Everything",
     "year": 2026,
-    "rating": 9.1,
+    "rating": 9,
     "poster": "/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg"
   },
   {
@@ -24542,7 +24560,7 @@
   {
     "title": "Guardians",
     "year": 2017,
-    "rating": 4.1,
+    "rating": 4,
     "poster": "/sGHAoGdxD9CeJxr1mvKHjgt8eqj.jpg"
   },
   {
@@ -26072,7 +26090,7 @@
   {
     "title": "Recep Ivedik 6",
     "year": 2019,
-    "rating": 3,
+    "rating": 3.1,
     "poster": "/8WSQTBAs6sVBhAP2VsphYsrTY9E.jpg"
   },
   {

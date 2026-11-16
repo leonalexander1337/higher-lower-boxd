@@ -1910,7 +1910,7 @@
   {
     "title": "The Element of Crime",
     "year": 1984,
-    "rating": 6.6,
+    "rating": 6.7,
     "poster": "/sfg5KUOdR4bfoPiDf63LVG7mlfw.jpg"
   },
   {
@@ -2552,7 +2552,7 @@
   {
     "title": "Harlem Nights",
     "year": 1989,
-    "rating": 6.1,
+    "rating": 6.2,
     "poster": "/mHX0aYjxc2cIOBfYBuaYN9SvbUf.jpg"
   },
   {
@@ -4424,7 +4424,7 @@
   {
     "title": "Home Alone 3",
     "year": 1997,
-    "rating": 4.6,
+    "rating": 4.7,
     "poster": "/6uOadrCfle0n2LOOxHbgWEdnrm2.jpg"
   },
   {
@@ -7964,7 +7964,7 @@
   {
     "title": "Gangster's Paradise: Jerusalema",
     "year": 2008,
-    "rating": 7.3,
+    "rating": 7.2,
     "poster": "/fVmlqgIyHjEsONDcaFiP8jBdqvU.jpg"
   },
   {
@@ -8838,15 +8838,21 @@
     "poster": "/oMdGYF0IBSJKgiNOuDoagmnOstu.jpg"
   },
   {
+    "title": "365 Days",
+    "year": 2020,
+    "rating": 3.3,
+    "poster": "/6KwrHucIE3CvNT7kTm2MAlZ4fYF.jpg"
+  },
+  {
     "title": "Malik",
     "year": 2021,
-    "rating": 8,
+    "rating": 7.9,
     "poster": "/kFBvlw5oiHghwqraQNhqpljsg91.jpg"
   },
   {
     "title": "Golmaal Returns",
     "year": 2008,
-    "rating": 5.3,
+    "rating": 5.4,
     "poster": "/2X6ZSlnBpgsOpH0ELDraWTD4QO7.jpg"
   },
   {
@@ -8876,7 +8882,7 @@
   {
     "title": "Miami Bici",
     "year": 2020,
-    "rating": 6,
+    "rating": 6.1,
     "poster": "/ebbFi9j56KryfLJ3NXLwWd8mMJ1.jpg"
   },
   {
@@ -10774,6 +10780,12 @@
     "year": 2011,
     "rating": 5,
     "poster": "/hqriJWWisRhm5XapyuB40D1jqqA.jpg"
+  },
+  {
+    "title": "Wild Horse Nine",
+    "year": 2026,
+    "rating": 8.1,
+    "poster": "/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg"
   },
   {
     "title": "Silent Night",
@@ -12854,7 +12866,7 @@
   {
     "title": "Punjab '95",
     "year": 2026,
-    "rating": 8.8,
+    "rating": 8.7,
     "poster": "/hm4ou83RwLVwNj3HsmQuqC1qkWy.jpg"
   },
   {
@@ -13038,12 +13050,6 @@
     "poster": "/zVMyvNowgbsBAL6O6esWfRpAcOb.jpg"
   },
   {
-    "title": "The Purge: Anarchy",
-    "year": 2014,
-    "rating": 6.4,
-    "poster": "/1guBpk75GGPtx9mirXqzwziPITy.jpg"
-  },
-  {
     "title": "Highway",
     "year": 2014,
     "rating": 7.6,
@@ -13096,6 +13102,12 @@
     "year": 2025,
     "rating": 5.3,
     "poster": "/fJm3kmd9NLZWypMas7g34oNFgbk.jpg"
+  },
+  {
+    "title": "I Love Boosters",
+    "year": 2026,
+    "rating": 6.6,
+    "poster": "/4pNKIUFy7tkZiBx0rnSmG9ysRy.jpg"
   },
   {
     "title": "Kickboxer: Vengeance",
@@ -13368,6 +13380,12 @@
     "poster": "/1ScpSMDQvwi28Dro1xwSOcKCVln.jpg"
   },
   {
+    "title": "Hunting Season",
+    "year": 2025,
+    "rating": 5.9,
+    "poster": "/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg"
+  },
+  {
     "title": "Marshland",
     "year": 2014,
     "rating": 7.2,
@@ -13448,7 +13466,7 @@
   {
     "title": "Jailer 2",
     "year": 2026,
-    "rating": 8.1,
+    "rating": 7.8,
     "poster": "/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg"
   },
   {
@@ -13522,6 +13540,12 @@
     "year": 2026,
     "rating": 6.9,
     "poster": "/lmrulvLbmaejTix1YaMxo1oGhH1.jpg"
+  },
+  {
+    "title": "Mirzapur: The Movie",
+    "year": 2026,
+    "rating": 7.2,
+    "poster": "/tCyTNhOv8NB1iK3U95spJdCaQED.jpg"
   },
   {
     "title": "Heel",
@@ -13854,6 +13878,12 @@
     "poster": "/5Jx9VyVPiK9GQ7ouKLkTUYnZSQ4.jpg"
   },
   {
+    "title": "Gondhal",
+    "year": 2025,
+    "rating": 8.5,
+    "poster": "/hUIXIenoIPPhEUFcfR5PBSLX9oZ.jpg"
+  },
+  {
     "title": "Baby Driver",
     "year": 2017,
     "rating": 7.5,
@@ -13870,6 +13900,12 @@
     "year": 2026,
     "rating": 8.2,
     "poster": "/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg"
+  },
+  {
+    "title": "Facing El Chapo",
+    "year": 2026,
+    "rating": 6.7,
+    "poster": "/alpf5v4UqSFawPmG9RX03Or4BDk.jpg"
   },
   {
     "title": "Marauders",
@@ -14072,8 +14108,14 @@
   {
     "title": "You Can See Everything",
     "year": 2026,
-    "rating": 9.1,
+    "rating": 9,
     "poster": "/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg"
+  },
+  {
+    "title": "The Dark Heaven",
+    "year": 2026,
+    "rating": 6,
+    "poster": "/xFr0Q7j2JmOwBJnvImIgTAWBk4U.jpg"
   },
   {
     "title": "White Boy Rick",

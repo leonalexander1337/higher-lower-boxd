@@ -422,12 +422,12 @@
   {
     "title": "Christmas in Connecticut",
     "year": 1945,
-    "rating": 7.3,
+    "rating": 7.4,
     "poster": "/oH1hM9wOZZflPZ5smKqWXvLXcyX.jpg"
   },
   {
     "title": "Children of Paradise",
-    "year": 1940,
+    "year": 1945,
     "rating": 8.3,
     "poster": "/yiy9stl1jjVhW44ypkWMFDT8Ix3.jpg"
   },
@@ -896,7 +896,7 @@
   {
     "title": "Auntie Mame",
     "year": 1958,
-    "rating": 7.9,
+    "rating": 7.8,
     "poster": "/uH810rwkYEbUaV6IlwTaAExbXUm.jpg"
   },
   {
@@ -1666,6 +1666,12 @@
     "year": 1980,
     "rating": 8,
     "poster": "/r0VULHcfJ2njqOI0GuQHe4TNF5e.jpg"
+  },
+  {
+    "title": "The Rose",
+    "year": 1979,
+    "rating": 7,
+    "poster": "/3hYyA2g5r0TDRbkSAOEeKelylh2.jpg"
   },
   {
     "title": "Tess",
@@ -2594,7 +2600,7 @@
   {
     "title": "Career Opportunities",
     "year": 1991,
-    "rating": 5.9,
+    "rating": 5.8,
     "poster": "/xi0fBIBDZQqJ8U0hUvwhpxFd4jM.jpg"
   },
   {
@@ -6810,7 +6816,7 @@
     "poster": "/3rB7l4rYzXUpVNEsboQQETtt5zl.jpg"
   },
   {
-    "title": "Goal! III",
+    "title": "Goal III: Taking on the World",
     "year": 2008,
     "rating": 3.2,
     "poster": "/uYXkXYOxe79aTcTSPGeV4TMc5sM.jpg"
@@ -7456,6 +7462,12 @@
     "year": 2008,
     "rating": 6.1,
     "poster": "/n7bQ7Lj6UhArgnx49wmkaTxM4iU.jpg"
+  },
+  {
+    "title": "Coco Before Chanel",
+    "year": 2009,
+    "rating": 6.6,
+    "poster": "/nNpP1P2EufA6TN7fQOBeHUIVmeH.jpg"
   },
   {
     "title": "After We Collided",
@@ -11252,7 +11264,7 @@
   {
     "title": "Reminders of Him",
     "year": 2026,
-    "rating": 6.3,
+    "rating": 6.4,
     "poster": "/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg"
   },
   {
@@ -11322,6 +11334,12 @@
     "poster": "/c9TX2kH1rG7QYEl09flOVg82QdU.jpg"
   },
   {
+    "title": "A Merry Little Ex-Mas",
+    "year": 2025,
+    "rating": 5.3,
+    "poster": "/w4ytu75uJ1b0AgPd0wLm7iZMsWJ.jpg"
+  },
+  {
     "title": "Cocktail 2",
     "year": 2026,
     "rating": 6.4,
@@ -11348,7 +11366,7 @@
   {
     "title": "La bola negra",
     "year": 2026,
-    "rating": 8.1,
+    "rating": 8.2,
     "poster": "/jT5SR5qc9KvVg7HUEmjMWEUYMce.jpg"
   },
   {

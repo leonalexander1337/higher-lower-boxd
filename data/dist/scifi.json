@@ -944,7 +944,7 @@
   {
     "title": "Invaders from Mars",
     "year": 1986,
-    "rating": 5.5,
+    "rating": 5.6,
     "poster": "/1IwCZPgAmwiP7n5EDe0N0niIpYE.jpg"
   },
   {
@@ -1588,6 +1588,12 @@
     "year": 1998,
     "rating": 6.1,
     "poster": "/reR7C7EYe3DiHm5OYpA0ACUMDld.jpg"
+  },
+  {
+    "title": "Space Truckers",
+    "year": 1996,
+    "rating": 5.4,
+    "poster": "/f0NNTJxBzAwC0wvqmBgD9pPiHnG.jpg"
   },
   {
     "title": "Starship Troopers",
@@ -3170,7 +3176,7 @@
   {
     "title": "War of the Worlds",
     "year": 2025,
-    "rating": 2.4,
+    "rating": 2.5,
     "poster": "/yvirUYrva23IudARHn3mMGVxWqM.jpg"
   },
   {
@@ -3392,7 +3398,7 @@
   {
     "title": "Gravity",
     "year": 2013,
-    "rating": 7.7,
+    "rating": 7.6,
     "poster": "/kZ2nZw8D681aphje8NJi8EfbL1U.jpg"
   },
   {
@@ -3840,6 +3846,12 @@
     "poster": "/nyXKB77RrItfUsAcgoIlXmUfged.jpg"
   },
   {
+    "title": "The Shrouds",
+    "year": 2024,
+    "rating": 5.7,
+    "poster": "/xXoueIHdllGo5m0ChKvSATJYWBw.jpg"
+  },
+  {
     "title": "Vesper",
     "year": 2022,
     "rating": 6,
@@ -3902,7 +3914,7 @@
   {
     "title": "The Dog Stars",
     "year": 2026,
-    "rating": 6.3,
+    "rating": 6.2,
     "poster": "/5O616X9vmRzQdB68PHzBewPittd.jpg"
   },
   {
@@ -4224,6 +4236,12 @@
     "poster": "/bXhogkZCR0aOQ077rfMULYbDmtH.jpg"
   },
   {
+    "title": "The Purge: Anarchy",
+    "year": 2014,
+    "rating": 6.4,
+    "poster": "/1guBpk75GGPtx9mirXqzwziPITy.jpg"
+  },
+  {
     "title": "Batman v Superman: Dawn of Justice",
     "year": 2016,
     "rating": 6.4,
@@ -4330,6 +4348,12 @@
     "year": 2015,
     "rating": 5.3,
     "poster": "/3RpZabrzEKiwoG5Y74HkX4rMQHM.jpg"
+  },
+  {
+    "title": "As the Gods Will",
+    "year": 2014,
+    "rating": 6.3,
+    "poster": "/3Obn9IR47fjhbtYtNrO7CBSrZ2w.jpg"
   },
   {
     "title": "X-Men: Apocalypse",
@@ -5020,6 +5044,12 @@
     "year": 2022,
     "rating": 6.3,
     "poster": "/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg"
+  },
+  {
+    "title": "Kraven the Hunter",
+    "year": 2024,
+    "rating": 5.5,
+    "poster": "/1GvBhRxY6MELDfxFrete6BNhBB5.jpg"
   },
   {
     "title": "Supergirl",

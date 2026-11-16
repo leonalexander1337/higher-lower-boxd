@@ -342,6 +342,12 @@
     "poster": "/yJYJmxZZIAkrn0BaMcYnvEB8wVk.jpg"
   },
   {
+    "title": "Horror Hotel",
+    "year": 1960,
+    "rating": 6.7,
+    "poster": "/xdM3QYjzzjuMy0cqlDNfet1BQhL.jpg"
+  },
+  {
     "title": "House of Usher",
     "year": 1960,
     "rating": 6.9,
@@ -1520,7 +1526,7 @@
   {
     "title": "Invaders from Mars",
     "year": 1986,
-    "rating": 5.5,
+    "rating": 5.6,
     "poster": "/1IwCZPgAmwiP7n5EDe0N0niIpYE.jpg"
   },
   {
@@ -2612,7 +2618,7 @@
   {
     "title": "In Dreams",
     "year": 1999,
-    "rating": 5.5,
+    "rating": 5.4,
     "poster": "/q3Q00fCgeZGjAYaiwbfTMuIrUb0.jpg"
   },
   {
@@ -6290,7 +6296,7 @@
   {
     "title": "Hellraiser: Revelations",
     "year": 2011,
-    "rating": 2.7,
+    "rating": 2.6,
     "poster": "/lnCmYyYqpwXQAll5AUfNxlnvQk0.jpg"
   },
   {
@@ -6714,6 +6720,12 @@
     "poster": "/fLR1XII83u0zMPcW5sSR3XBxwYC.jpg"
   },
   {
+    "title": "The Shrouds",
+    "year": 2024,
+    "rating": 5.7,
+    "poster": "/xXoueIHdllGo5m0ChKvSATJYWBw.jpg"
+  },
+  {
     "title": "Mama",
     "year": 2013,
     "rating": 6.2,
@@ -6784,12 +6796,6 @@
     "year": 2013,
     "rating": 6.1,
     "poster": "/tgXcICQjS3aEbxCYgYMroBXyJGn.jpg"
-  },
-  {
-    "title": "The Wrath of Becky",
-    "year": 2023,
-    "rating": 6.2,
-    "poster": "/k9NeWFZCC7XKDdh9HK8cZBqZmHD.jpg"
   },
   {
     "title": "Him",
@@ -7766,7 +7772,7 @@
   {
     "title": "Pindam",
     "year": 2023,
-    "rating": 6.5,
+    "rating": 6.4,
     "poster": "/e4BfbmGq4h8oq8u6vZ5teSTlPb3.jpg"
   },
   {
@@ -8136,6 +8142,12 @@
     "poster": "/7gfG9tGRPzmVyg3nEwQrTGOJ8C6.jpg"
   },
   {
+    "title": "As the Gods Will",
+    "year": 2014,
+    "rating": 6.3,
+    "poster": "/3Obn9IR47fjhbtYtNrO7CBSrZ2w.jpg"
+  },
+  {
     "title": "Passenger",
     "year": 2026,
     "rating": 5.5,
@@ -8192,7 +8204,7 @@
   {
     "title": "Godzilla Minus Zero",
     "year": 2026,
-    "rating": 8,
+    "rating": 7.9,
     "poster": "/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg"
   },
   {
@@ -8258,7 +8270,7 @@
   {
     "title": "Resident Evil",
     "year": 2026,
-    "rating": 7.5,
+    "rating": 7.4,
     "poster": "/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg"
   },
   {
@@ -8512,6 +8524,12 @@
     "year": 2015,
     "rating": 6.9,
     "poster": "/evZicaR7nXe4LiD9G6QYTorcJGO.jpg"
+  },
+  {
+    "title": "The Purge: Election Year",
+    "year": 2016,
+    "rating": 6,
+    "poster": "/gg7tlp45xqGWMra0sqQVPvybje2.jpg"
   },
   {
     "title": "They Look Like People",
@@ -9202,6 +9220,12 @@
     "year": 2018,
     "rating": 6.5,
     "poster": "/6NmsbUJqnopbnLun2E4KvtVNj8T.jpg"
+  },
+  {
+    "title": "Thelma",
+    "year": 2017,
+    "rating": 6.9,
+    "poster": "/fN2Qq5riCrBiVLfKqgODHC0SwVx.jpg"
   },
   {
     "title": "Prisoners of the Ghostland",

@@ -240,6 +240,12 @@
     "poster": "/igma0zn9J5srRvOMDRnxyUDQXJL.jpg"
   },
   {
+    "title": "Horror Hotel",
+    "year": 1960,
+    "rating": 6.7,
+    "poster": "/xdM3QYjzzjuMy0cqlDNfet1BQhL.jpg"
+  },
+  {
     "title": "Peeping Tom",
     "year": 1960,
     "rating": 7.6,
@@ -1100,7 +1106,7 @@
   {
     "title": "Bad Timing",
     "year": 1980,
-    "rating": 6.9,
+    "rating": 6.8,
     "poster": "/raLS93dykOabizFuguWZ9KeCKAS.jpg"
   },
   {
@@ -1394,7 +1400,7 @@
   {
     "title": "The Element of Crime",
     "year": 1984,
-    "rating": 6.6,
+    "rating": 6.7,
     "poster": "/sfg5KUOdR4bfoPiDf63LVG7mlfw.jpg"
   },
   {
@@ -4428,6 +4434,12 @@
     "poster": "/r3Yu6JdufxUSqy6PJgT887UpSMt.jpg"
   },
   {
+    "title": "The Eye",
+    "year": 2008,
+    "rating": 5.4,
+    "poster": "/eW39LaILpKGLthbnC4KgUJErslK.jpg"
+  },
+  {
     "title": "Calvaire",
     "year": 2004,
     "rating": 6.1,
@@ -7040,7 +7052,7 @@
   {
     "title": "MobKing",
     "year": 2023,
-    "rating": 5.2,
+    "rating": 5.1,
     "poster": "/syA9xYFwUtZ3LWU1q3ORMwugwtt.jpg"
   },
   {
@@ -7382,7 +7394,7 @@
   {
     "title": "Gravity",
     "year": 2013,
-    "rating": 7.7,
+    "rating": 7.6,
     "poster": "/kZ2nZw8D681aphje8NJi8EfbL1U.jpg"
   },
   {
@@ -7580,7 +7592,7 @@
   {
     "title": "Unpaarvayil",
     "year": 2025,
-    "rating": 8.9,
+    "rating": 9,
     "poster": "/3eMbzqxiq4P0KrdQSov2G9x6wyc.jpg"
   },
   {
@@ -8754,6 +8766,12 @@
     "poster": "/vs7xGGYZltIZuLTcCgDp73tTJYn.jpg"
   },
   {
+    "title": "The Wrath of Becky",
+    "year": 2023,
+    "rating": 6.2,
+    "poster": "/k9NeWFZCC7XKDdh9HK8cZBqZmHD.jpg"
+  },
+  {
     "title": "Hours",
     "year": 2013,
     "rating": 6.3,
@@ -8804,7 +8822,7 @@
   {
     "title": "The Dog Stars",
     "year": 2026,
-    "rating": 6.3,
+    "rating": 6.2,
     "poster": "/5O616X9vmRzQdB68PHzBewPittd.jpg"
   },
   {
@@ -10766,7 +10784,7 @@
   {
     "title": "Dangerous",
     "year": 2021,
-    "rating": 5.2,
+    "rating": 5.3,
     "poster": "/8RqdjlPjyN59FnMkw5nnpaRXJde.jpg"
   },
   {
@@ -10798,6 +10816,12 @@
     "year": 2015,
     "rating": 5.3,
     "poster": "/oXeDhUJaOxUs1n6fHRhWVuuVBju.jpg"
+  },
+  {
+    "title": "Facing El Chapo",
+    "year": 2026,
+    "rating": 6.7,
+    "poster": "/alpf5v4UqSFawPmG9RX03Or4BDk.jpg"
   },
   {
     "title": "The 9th Life of Louis Drax",
@@ -11014,6 +11038,12 @@
     "year": 2015,
     "rating": 5.1,
     "poster": "/qosIFCddpZjoMdsrkcQWB4UGm3o.jpg"
+  },
+  {
+    "title": "The Dark Heaven",
+    "year": 2026,
+    "rating": 6,
+    "poster": "/xFr0Q7j2JmOwBJnvImIgTAWBk4U.jpg"
   },
   {
     "title": "I Kill Giants",
@@ -11430,6 +11460,12 @@
     "poster": "/e2Z466e9402RFP6wxRMfXYYiJHA.jpg"
   },
   {
+    "title": "The First Omen",
+    "year": 2024,
+    "rating": 6.5,
+    "poster": "/tnsDyNNkOxYUyjD8CNJoAla6YvY.jpg"
+  },
+  {
     "title": "Killing Gunther",
     "year": 2017,
     "rating": 4.8,
@@ -11674,12 +11710,6 @@
     "year": 2017,
     "rating": 5.4,
     "poster": "/ySmKQPjWnNzuZ5YliQaOVEnWn2.jpg"
-  },
-  {
-    "title": "Assassination Nation",
-    "year": 2018,
-    "rating": 6,
-    "poster": "/dMg1wPakqPx54yMzm0OuHn1jl42.jpg"
   },
   {
     "title": "Trapped",
@@ -12448,12 +12478,6 @@
     "year": 2022,
     "rating": 6.3,
     "poster": "/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg"
-  },
-  {
-    "title": "Kraven the Hunter",
-    "year": 2024,
-    "rating": 5.5,
-    "poster": "/1GvBhRxY6MELDfxFrete6BNhBB5.jpg"
   },
   {
     "title": "Avengement",
