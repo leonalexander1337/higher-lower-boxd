@@ -1238,7 +1238,7 @@
   {
     "title": "Smokey and the Bandit Part 3",
     "year": 1983,
-    "rating": 3.5,
+    "rating": 3.6,
     "poster": "/ec6qP3Mn2u2XUqHnkxoZYbM33iF.jpg"
   },
   {
@@ -4274,7 +4274,7 @@
   {
     "title": "Baasha",
     "year": 1995,
-    "rating": 8.3,
+    "rating": 8.2,
     "poster": "/xPSw9PLzYFKTVphw9ErZcBPKUsd.jpg"
   },
   {
@@ -8180,7 +8180,7 @@
   {
     "title": "Shershaah",
     "year": 2021,
-    "rating": 8.3,
+    "rating": 8.2,
     "poster": "/zGvFnwoXJKrYnKhoVPytqkqCJ8V.jpg"
   },
   {
@@ -8596,6 +8596,12 @@
     "year": 2020,
     "rating": 5.8,
     "poster": "/66MSawKC7nkqjD1BMlQHXl6y3C.jpg"
+  },
+  {
+    "title": "The Weight",
+    "year": 2026,
+    "rating": 6.7,
+    "poster": "/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg"
   },
   {
     "title": "Valimai",
@@ -10640,7 +10646,7 @@
   {
     "title": "Paradox Effect",
     "year": 2024,
-    "rating": 5.8,
+    "rating": 5.7,
     "poster": "/koJFEW997sLjpu4e7wmFioA2mhL.jpg"
   },
   {
@@ -11966,7 +11972,7 @@
   {
     "title": "7 Aum Arivu",
     "year": 2011,
-    "rating": 6.7,
+    "rating": 6.8,
     "poster": "/lsQGGZxIztBnk5HzAu79Ug6TKpu.jpg"
   },
   {
@@ -13370,7 +13376,7 @@
   {
     "title": "Godzilla Minus One",
     "year": 2023,
-    "rating": 7.7,
+    "rating": 7.6,
     "poster": "/2E2WTX0TJEflAged6kzErwqX1kt.jpg"
   },
   {
@@ -14108,7 +14114,7 @@
   {
     "title": "The End of Oak Street",
     "year": 2026,
-    "rating": 6.2,
+    "rating": 6.1,
     "poster": "/hkPxuAMEqIqo1HCtIi4sqx0GRuP.jpg"
   },
   {
@@ -14144,7 +14150,7 @@
   {
     "title": "Hope",
     "year": 2026,
-    "rating": 6.6,
+    "rating": 6.5,
     "poster": "/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg"
   },
   {
@@ -14152,12 +14158,6 @@
     "year": 2026,
     "rating": 6.1,
     "poster": "/ccxdepKqORLwccbzvO4eAGkN0IC.jpg"
-  },
-  {
-    "title": "Moana",
-    "year": 2026,
-    "rating": 5.8,
-    "poster": "/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg"
   },
   {
     "title": "War 2",
@@ -14204,7 +14204,7 @@
   {
     "title": "Toxic",
     "year": 2026,
-    "rating": 4,
+    "rating": 3.9,
     "poster": "/5RTd3YCLWbEhbe9OXRuNX3pbT5U.jpg"
   },
   {
@@ -14264,7 +14264,7 @@
   {
     "title": "Mardaani 3",
     "year": 2026,
-    "rating": 6,
+    "rating": 6.1,
     "poster": "/dHxLBtHw4InwsVumnthupZYz6NM.jpg"
   },
   {
@@ -14342,7 +14342,7 @@
   {
     "title": "Ramayana",
     "year": 2026,
-    "rating": 8.3,
+    "rating": 8.2,
     "poster": "/dPrtk4iNf6T5w8fWfg4uxDDbJSW.jpg"
   },
   {
@@ -14420,7 +14420,7 @@
   {
     "title": "Matchbox: The Movie",
     "year": 2026,
-    "rating": 5.6,
+    "rating": 5.7,
     "poster": "/aHhHRz6nOpwkqJs5ASeRGAdK2dt.jpg"
   },
   {
@@ -14972,7 +14972,7 @@
   {
     "title": "The Paradise",
     "year": 2026,
-    "rating": 5.6,
+    "rating": 5.5,
     "poster": "/smghVMoMWSIFi5dgIz4w1UIcEcY.jpg"
   },
   {
@@ -15096,6 +15096,12 @@
     "poster": "/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg"
   },
   {
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "year": 2026,
+    "rating": 7.6,
+    "poster": "/nzIXSQNgYZwFOMrmv0d0I3ulvkM.jpg"
+  },
+  {
     "title": "The Rip",
     "year": 2026,
     "rating": 6.7,
@@ -15206,7 +15212,7 @@
   {
     "title": "Jailer 2",
     "year": 2026,
-    "rating": 7.8,
+    "rating": 7.7,
     "poster": "/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg"
   },
   {
@@ -15338,7 +15344,7 @@
   {
     "title": "Godzilla Minus Zero",
     "year": 2026,
-    "rating": 7.9,
+    "rating": 7.8,
     "poster": "/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg"
   },
   {
@@ -15368,7 +15374,7 @@
   {
     "title": "The Runner",
     "year": 2026,
-    "rating": 4.2,
+    "rating": 4.3,
     "poster": "/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg"
   },
   {
@@ -16418,7 +16424,7 @@
   {
     "title": "Kara Bela",
     "year": 2015,
-    "rating": 6.6,
+    "rating": 6.7,
     "poster": "/dPcg1ebvvQOFry39XtspQAeY7Zj.jpg"
   },
   {

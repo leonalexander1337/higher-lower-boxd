@@ -498,6 +498,12 @@
     "poster": "/iNtRSY2AGjW1VDXDR79bKsNUdus.jpg"
   },
   {
+    "title": "I Was a Male War Bride",
+    "year": 1949,
+    "rating": 7,
+    "poster": "/gwliIJs9TWlZAcp6k0cx0I81W5e.jpg"
+  },
+  {
     "title": "Kind Hearts and Coronets",
     "year": 1949,
     "rating": 8,
@@ -1790,7 +1796,7 @@
   {
     "title": "Blazing Saddles",
     "year": 1974,
-    "rating": 7.7,
+    "rating": 7.6,
     "poster": "/vNw1gOEDdYTDeNMuuq8OmiEHrfH.jpg"
   },
   {
@@ -2774,7 +2780,7 @@
   {
     "title": "Smokey and the Bandit Part 3",
     "year": 1983,
-    "rating": 3.5,
+    "rating": 3.6,
     "poster": "/ec6qP3Mn2u2XUqHnkxoZYbM33iF.jpg"
   },
   {
@@ -5168,7 +5174,7 @@
   {
     "title": "Taking Care of Business",
     "year": 1990,
-    "rating": 6.4,
+    "rating": 6.5,
     "poster": "/q3yEyOqJ5e3vAjK70qTnBMnmgYy.jpg"
   },
   {
@@ -7034,7 +7040,7 @@
   {
     "title": "Matilda",
     "year": 1996,
-    "rating": 7,
+    "rating": 7.1,
     "poster": "/wYoDpWInsBEVSmWStnRH06ddoyk.jpg"
   },
   {
@@ -10644,6 +10650,12 @@
     "poster": "/uYYLz67e5xEQMsY858VSSCDsLU6.jpg"
   },
   {
+    "title": "Der Wixxer",
+    "year": 2004,
+    "rating": 6.2,
+    "poster": "/tHcKs8FBYsxxHV3COhBM2EsY0eL.jpg"
+  },
+  {
     "title": "Two Weeks Notice",
     "year": 2002,
     "rating": 6.2,
@@ -13034,7 +13046,7 @@
   {
     "title": "Garfield: A Tail of Two Kitties",
     "year": 2006,
-    "rating": 5,
+    "rating": 5.1,
     "poster": "/O2j1bwErQ6bbBVZM5Vxg3Tsoir.jpg"
   },
   {
@@ -15128,7 +15140,7 @@
   {
     "title": "Jayeshbhai Jordaar",
     "year": 2022,
-    "rating": 6.1,
+    "rating": 6,
     "poster": "/dv93VspYwwNPbvdB0AcddhiDrGU.jpg"
   },
   {
@@ -15548,7 +15560,7 @@
   {
     "title": "Miami Bici",
     "year": 2020,
-    "rating": 6.1,
+    "rating": 6,
     "poster": "/ebbFi9j56KryfLJ3NXLwWd8mMJ1.jpg"
   },
   {
@@ -16046,7 +16058,7 @@
   {
     "title": "Black Friday",
     "year": 2021,
-    "rating": 4.7,
+    "rating": 4.8,
     "poster": "/vf9Ex4EwSPlwbva4ZJdljsQQOML.jpg"
   },
   {
@@ -20742,6 +20754,12 @@
     "poster": "/lxZ6rfvzKWwt2nu7ElrwYkNHu5o.jpg"
   },
   {
+    "title": "Hell of a Summer",
+    "year": 2023,
+    "rating": 5.3,
+    "poster": "/q9rRLc9pRDR8H6YoJTmXrBmivxD.jpg"
+  },
+  {
     "title": "You Are So Not Invited to My Bat Mitzvah",
     "year": 2023,
     "rating": 5.9,
@@ -21474,6 +21492,12 @@
     "poster": "/57MFWGHarg9jid7yfDTka4RmcMU.jpg"
   },
   {
+    "title": "The SpongeBob Movie: Search for SquarePants",
+    "year": 2025,
+    "rating": 5.7,
+    "poster": "/xJnOMMsFASxNiFnG7v3TNIQ3ife.jpg"
+  },
+  {
     "title": "Rio 2",
     "year": 2014,
     "rating": 6.3,
@@ -22106,7 +22130,7 @@
   {
     "title": "Khel Khel Mein",
     "year": 2024,
-    "rating": 6.5,
+    "rating": 6.4,
     "poster": "/32P0oQf41HXbENRGtu2h0rqBF2k.jpg"
   },
   {
@@ -22436,7 +22460,7 @@
   {
     "title": "Matchbox: The Movie",
     "year": 2026,
-    "rating": 5.6,
+    "rating": 5.7,
     "poster": "/aHhHRz6nOpwkqJs5ASeRGAdK2dt.jpg"
   },
   {
@@ -23244,6 +23268,12 @@
     "poster": "/waW6R5WJQSxq65gwBkvnKlseU6n.jpg"
   },
   {
+    "title": "I'll See You in My Dreams",
+    "year": 2015,
+    "rating": 6.7,
+    "poster": "/nlOSiuSxWFPiFOIWoXxfRzcJW7s.jpg"
+  },
+  {
     "title": "Sarvam Maya",
     "year": 2025,
     "rating": 7.7,
@@ -23288,7 +23318,7 @@
   {
     "title": "Practical Magic 2",
     "year": 2026,
-    "rating": 6,
+    "rating": 5.9,
     "poster": "/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg"
   },
   {
@@ -23432,7 +23462,7 @@
   {
     "title": "Jailer 2",
     "year": 2026,
-    "rating": 7.8,
+    "rating": 7.7,
     "poster": "/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg"
   },
   {
@@ -23510,7 +23540,7 @@
   {
     "title": "Fist Fight",
     "year": 2017,
-    "rating": 5.6,
+    "rating": 5.7,
     "poster": "/huRhv4IZDk2ds0DIDkI6uxdmb6J.jpg"
   },
   {
@@ -23536,6 +23566,12 @@
     "year": 2014,
     "rating": 7.6,
     "poster": "/a2rD3i3DBMeYbA34rBv6z3B9S3a.jpg"
+  },
+  {
+    "title": "Primetime",
+    "year": 2026,
+    "rating": 6.8,
+    "poster": "/lmrulvLbmaejTix1YaMxo1oGhH1.jpg"
   },
   {
     "title": "The Family Plan 2",
@@ -23850,6 +23886,12 @@
     "poster": "/xm0QJ3eumZ5LSewpYKQe6KfwWRW.jpg"
   },
   {
+    "title": "Ice Cream Man",
+    "year": 2026,
+    "rating": 4.1,
+    "poster": "/w2dr5aFRtRB1ojcHbCEPlfTXkbf.jpg"
+  },
+  {
     "title": "Singh Is Bliing",
     "year": 2015,
     "rating": 5.1,
@@ -23908,6 +23950,12 @@
     "year": 2015,
     "rating": 6.7,
     "poster": "/sqz4CGInI1bysFH674HYWtQSmYn.jpg"
+  },
+  {
+    "title": "Buddy",
+    "year": 2026,
+    "rating": 6.6,
+    "poster": "/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg"
   },
   {
     "title": "Main Vaapas Aaunga",
@@ -23996,7 +24044,7 @@
   {
     "title": "Dulhaniya Le Aaeegi",
     "year": 2026,
-    "rating": 7.5,
+    "rating": 6.8,
     "poster": "/dNLoaglvhEYvDGSXnn1mBvE7PVG.jpg"
   },
   {
@@ -24124,6 +24172,12 @@
     "year": 2017,
     "rating": 6.3,
     "poster": "/9MsQJKe4cUAGxc7R2NGaFQLqOPc.jpg"
+  },
+  {
+    "title": "Ebenezer",
+    "year": 2026,
+    "rating": 7.2,
+    "poster": "/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg"
   },
   {
     "title": "Men & Chicken",
@@ -24332,7 +24386,7 @@
   {
     "title": "Uttar Da Puttar",
     "year": 2026,
-    "rating": 7.9,
+    "rating": 8,
     "poster": "/gRx4Bc6GTwi8L3vq29bnciEuRgL.jpg"
   },
   {
@@ -24364,6 +24418,12 @@
     "year": 2026,
     "rating": 5,
     "poster": "/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg"
+  },
+  {
+    "title": "Army of One",
+    "year": 2016,
+    "rating": 5.2,
+    "poster": "/tUmo47WFeFRIQktGXYxWnSZXO6P.jpg"
   },
   {
     "title": "Nine Lives",
@@ -24830,7 +24890,7 @@
   {
     "title": "Kara Bela",
     "year": 2015,
-    "rating": 6.6,
+    "rating": 6.7,
     "poster": "/dPcg1ebvvQOFry39XtspQAeY7Zj.jpg"
   },
   {
@@ -25980,6 +26040,12 @@
     "poster": "/podzoGfamoxObotrMMoH2WIc8nj.jpg"
   },
   {
+    "title": "Simmba",
+    "year": 2018,
+    "rating": 5.5,
+    "poster": "/3jUuzSymG3uzYM1cUaERsFSZT58.jpg"
+  },
+  {
     "title": "Ludo",
     "year": 2020,
     "rating": 7.6,
@@ -26662,6 +26728,12 @@
     "year": 2019,
     "rating": 7.5,
     "poster": "/7ht2IMGynDSVQGvAXhAb83DLET8.jpg"
+  },
+  {
+    "title": "Buffaloed",
+    "year": 2019,
+    "rating": 6.2,
+    "poster": "/7ecianrsS9xYzqoAtVIW8tMcbIX.jpg"
   },
   {
     "title": "De De Pyaar De",

@@ -1850,7 +1850,7 @@
   {
     "title": "Smokey and the Bandit Part 3",
     "year": 1983,
-    "rating": 3.5,
+    "rating": 3.6,
     "poster": "/ec6qP3Mn2u2XUqHnkxoZYbM33iF.jpg"
   },
   {
@@ -1910,7 +1910,7 @@
   {
     "title": "The Element of Crime",
     "year": 1984,
-    "rating": 6.7,
+    "rating": 6.6,
     "poster": "/sfg5KUOdR4bfoPiDf63LVG7mlfw.jpg"
   },
   {
@@ -2948,7 +2948,7 @@
   {
     "title": "Dead Again",
     "year": 1991,
-    "rating": 6.8,
+    "rating": 6.7,
     "poster": "/gXASMv3TtDshGS7QIyujN0FcWkf.jpg"
   },
   {
@@ -4880,7 +4880,7 @@
   {
     "title": "Baasha",
     "year": 1995,
-    "rating": 8.3,
+    "rating": 8.2,
     "poster": "/xPSw9PLzYFKTVphw9ErZcBPKUsd.jpg"
   },
   {
@@ -6166,6 +6166,12 @@
     "year": 2001,
     "rating": 6.5,
     "poster": "/oMjWlKHzR9cwhf3oCUy9j57o67O.jpg"
+  },
+  {
+    "title": "Der Wixxer",
+    "year": 2004,
+    "rating": 6.2,
+    "poster": "/tHcKs8FBYsxxHV3COhBM2EsY0eL.jpg"
   },
   {
     "title": "Out of Time",
@@ -8808,6 +8814,12 @@
     "poster": "/jWpo1qCIefGxJjQOURu2IfQgQK4.jpg"
   },
   {
+    "title": "The Weight",
+    "year": 2026,
+    "rating": 6.7,
+    "poster": "/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg"
+  },
+  {
     "title": "Valimai",
     "year": 2022,
     "rating": 6,
@@ -8882,7 +8894,7 @@
   {
     "title": "Miami Bici",
     "year": 2020,
-    "rating": 6.1,
+    "rating": 6,
     "poster": "/ebbFi9j56KryfLJ3NXLwWd8mMJ1.jpg"
   },
   {
@@ -11144,7 +11156,7 @@
   {
     "title": "Eden",
     "year": 2012,
-    "rating": 6.5,
+    "rating": 6.6,
     "poster": "/6MWSeVg9KESHpS3wXz4uwSlpd3f.jpg"
   },
   {
@@ -12752,7 +12764,7 @@
   {
     "title": "Toxic",
     "year": 2026,
-    "rating": 4,
+    "rating": 3.9,
     "poster": "/5RTd3YCLWbEhbe9OXRuNX3pbT5U.jpg"
   },
   {
@@ -12794,7 +12806,7 @@
   {
     "title": "Mardaani 3",
     "year": 2026,
-    "rating": 6,
+    "rating": 6.1,
     "poster": "/dHxLBtHw4InwsVumnthupZYz6NM.jpg"
   },
   {
@@ -13362,6 +13374,12 @@
     "poster": "/pu2VxGlpGwffOx292w18b1tv96j.jpg"
   },
   {
+    "title": "The Cycle",
+    "year": 2026,
+    "rating": 6.3,
+    "poster": "/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg"
+  },
+  {
     "title": "Crime 101",
     "year": 2026,
     "rating": 6.8,
@@ -13466,8 +13484,14 @@
   {
     "title": "Jailer 2",
     "year": 2026,
-    "rating": 7.8,
+    "rating": 7.7,
     "poster": "/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg"
+  },
+  {
+    "title": "Carolina Caroline",
+    "year": 2025,
+    "rating": 6.6,
+    "poster": "/9Jkylw7Y5NQyi7C8IwXLBvVSrH2.jpg"
   },
   {
     "title": "The Mastermind",
@@ -13538,7 +13562,7 @@
   {
     "title": "Primetime",
     "year": 2026,
-    "rating": 6.9,
+    "rating": 6.8,
     "poster": "/lmrulvLbmaejTix1YaMxo1oGhH1.jpg"
   },
   {
@@ -13880,7 +13904,7 @@
   {
     "title": "Gondhal",
     "year": 2025,
-    "rating": 8.5,
+    "rating": 8.3,
     "poster": "/hUIXIenoIPPhEUFcfR5PBSLX9oZ.jpg"
   },
   {
@@ -14052,6 +14076,12 @@
     "poster": "/KXLopjRCCGRaKPMUndVoT9zKsl.jpg"
   },
   {
+    "title": "Army of One",
+    "year": 2016,
+    "rating": 5.2,
+    "poster": "/tUmo47WFeFRIQktGXYxWnSZXO6P.jpg"
+  },
+  {
     "title": "The Clan",
     "year": 2015,
     "rating": 6.9,
@@ -14114,7 +14144,7 @@
   {
     "title": "The Dark Heaven",
     "year": 2026,
-    "rating": 6,
+    "rating": 5.8,
     "poster": "/xFr0Q7j2JmOwBJnvImIgTAWBk4U.jpg"
   },
   {

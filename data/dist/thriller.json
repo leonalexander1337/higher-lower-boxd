@@ -1400,7 +1400,7 @@
   {
     "title": "The Element of Crime",
     "year": 1984,
-    "rating": 6.7,
+    "rating": 6.6,
     "poster": "/sfg5KUOdR4bfoPiDf63LVG7mlfw.jpg"
   },
   {
@@ -1970,7 +1970,7 @@
   {
     "title": "The Reflecting Skin",
     "year": 1990,
-    "rating": 6.7,
+    "rating": 6.6,
     "poster": "/ehUosbTVyCQtf6nAfpmQ8Q3XSd7.jpg"
   },
   {
@@ -4746,6 +4746,12 @@
     "poster": "/3jIQOCB8ghrxvfWzSjzNv41LR9P.jpg"
   },
   {
+    "title": "Catacombs",
+    "year": 2007,
+    "rating": 4.5,
+    "poster": "/j3LWOKFoeKJDn2dHXoJoRWeakRu.jpg"
+  },
+  {
     "title": "Passengers",
     "year": 2008,
     "rating": 5.8,
@@ -5290,12 +5296,6 @@
     "year": 2006,
     "rating": 6.2,
     "poster": "/sxYjsslcs5FSsAkEfjr50gAQWNo.jpg"
-  },
-  {
-    "title": "Funny Games",
-    "year": 2007,
-    "rating": 6.5,
-    "poster": "/zs92sAOh3Q0kDIJkgaJFTBzSFka.jpg"
   },
   {
     "title": "Joshua",
@@ -5894,7 +5894,7 @@
   {
     "title": "The Haunting of Molly Hartley",
     "year": 2008,
-    "rating": 3.9,
+    "rating": 4,
     "poster": "/XSy8BKHIa19yMAt7XyO2s9oIT5.jpg"
   },
   {
@@ -7230,6 +7230,12 @@
     "poster": "/cGcoACE6AQQWekvHMr4TVd5KOpH.jpg"
   },
   {
+    "title": "Tarot",
+    "year": 2024,
+    "rating": 4.8,
+    "poster": "/gAEUXC37vl1SnM7PXsHTF23I2vq.jpg"
+  },
+  {
     "title": "Bhediya",
     "year": 2022,
     "rating": 6.7,
@@ -8126,7 +8132,7 @@
   {
     "title": "7 Aum Arivu",
     "year": 2011,
-    "rating": 6.7,
+    "rating": 6.8,
     "poster": "/lsQGGZxIztBnk5HzAu79Ug6TKpu.jpg"
   },
   {
@@ -8156,7 +8162,7 @@
   {
     "title": "Eden",
     "year": 2012,
-    "rating": 6.5,
+    "rating": 6.6,
     "poster": "/6MWSeVg9KESHpS3wXz4uwSlpd3f.jpg"
   },
   {
@@ -10242,6 +10248,12 @@
     "poster": "/cv7DeQQ7TOozPoTCBdNJIvWKhU1.jpg"
   },
   {
+    "title": "The Cycle",
+    "year": 2026,
+    "rating": 6.3,
+    "poster": "/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg"
+  },
+  {
     "title": "It Follows",
     "year": 2014,
     "rating": 6.8,
@@ -10478,7 +10490,7 @@
   {
     "title": "The Runner",
     "year": 2026,
-    "rating": 4.2,
+    "rating": 4.3,
     "poster": "/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg"
   },
   {
@@ -10656,6 +10668,12 @@
     "poster": "/fmOOjHAQzxr0c1sfcY4qkiSRBH6.jpg"
   },
   {
+    "title": "Ice Cream Man",
+    "year": 2026,
+    "rating": 4.1,
+    "poster": "/w2dr5aFRtRB1ojcHbCEPlfTXkbf.jpg"
+  },
+  {
     "title": "The Devil's Mouth",
     "year": 2026,
     "rating": 4.7,
@@ -10698,12 +10716,6 @@
     "poster": "/v1ciDCWMG47gdT4kMyjyQbnLQQn.jpg"
   },
   {
-    "title": "Buddy",
-    "year": 2026,
-    "rating": 6.6,
-    "poster": "/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg"
-  },
-  {
     "title": "Obsession",
     "year": 2025,
     "rating": 7.8,
@@ -10718,7 +10730,7 @@
   {
     "title": "The Social Reckoning",
     "year": 2026,
-    "rating": 6.7,
+    "rating": 6.6,
     "poster": "/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg"
   },
   {
@@ -11042,7 +11054,7 @@
   {
     "title": "The Dark Heaven",
     "year": 2026,
-    "rating": 6,
+    "rating": 5.8,
     "poster": "/xFr0Q7j2JmOwBJnvImIgTAWBk4U.jpg"
   },
   {
@@ -11122,12 +11134,6 @@
     "year": 2016,
     "rating": 6.1,
     "poster": "/cdm6qZgmbaIwjKBZnUSGWS4eyM2.jpg"
-  },
-  {
-    "title": "Bushwick",
-    "year": 2017,
-    "rating": 5.2,
-    "poster": "/9fGjmzxdiKWsrlY3syrm2aXeTq7.jpg"
   },
   {
     "title": "Killing Ground",
